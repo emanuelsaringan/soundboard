@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>code</key>
+            <string>1</string>
+            
+            <key>name</key>
+            <string>Abed</string>
+            
+            <key>sounds</key>
+            <array>
+                <string>Hello</string>
+                <string>Hi</string>
+                <string>Good morning</string>
+            </array>
+        </dict>
+        
+        <dict>
+            <key>code</key>
+            <string>2</string>
+            
+            <key>name</key>
+            <string>Annie</string>
+            
+            <key>sounds</key>
+            <array>
+                <string>Goodbye</string>
+                <string>HAHA</string>
+                <string>Baby</string>
+            </array>
+        </dict>
+        
+        <dict>
+            <key>code</key>
+            <string>3</string>
+            
+            <key>name</key>
+            <string>Britta</string>
+            
+            <key>sounds</key>
+            <array>
+                <string>Fat</string>
+                <string>DERP</string>
+                <string>Macbook Air</string>
+            </array>
+        </dict>
+        
+        <dict>
+            <key>code</key>
+            <string>4</string>
+            
+            <key>name</key>
+            <string>Jeff</string>
+            
+            <key>sounds</key>
+            <array>
+                <string>YAHOO</string>
+                <string>GOOGLE</string>
+                <string>Microsoft</string>
+            </array>
+        </dict>
+        
+        <dict>
+            <key>code</key>
+            <string>5</string>
+            
+            <key>name</key>
+            <string>Pierce</string>
+            
+            <key>sounds</key>
+            <array>
+                <string>Apple</string>
+                <string>iMac</string>
+                <string>Retina Display</string>
+            </array>
+        </dict>
+        
+        <dict>
+            <key>code</key>
+            <string>6</string>
+            
+            <key>name</key>
+            <string>Shirley</string>
+            
+            <key>sounds</key>
+            <array>
+                <string>Kobe Bryant</string>
+                <string>Lebron James</string>
+                <string>Derrick Rose</string>
+            </array>
+        </dict>
+        
+        <dict>
+            <key>code</key>
+            <string>7</string>
+            
+            <key>name</key>
+            <string>Troy</string>
+            
+            <key>sounds</key>
+            <array>
+                <string>Steve</string>
+                <string>Bill</string>
+                <string>Larry</string>
+            </array>
+        </dict>
+        
+        <dict>
+            <key>code</key>
+            <string>8</string>
+            
+            <key>name</key>
+            <string>Chang</string>
+            
+            <key>sounds</key>
+            <array>
+                <string>Chinese</string>
+                <string>Filipino</string>
+                <string>American</string>
+            </array>
+        </dict>
+        
+        <dict>
+            <key>code</key>
+            <string>9</string>
+            
+            <key>name</key>
+            <string>Dean</string>
+            
+            <key>sounds</key>
+            <array>
+                <string>McDonald's'</string>
+                <string>Burger King</string>
+                <string>Taco Bell</string>
+            </array>
+        </dict>
+        
+        <dict>
+            <key>code</key>
+            <string>10</string>
+            
+            <key>name</key>
+            <string>Other</string>
+            
+            <key>sounds</key>
+            <array>
+                <string>The</string>
+                <string>Walking</string>
+                <string>Dead</string>
+            </array>
+        </dict>
+    </array>
+</plist>

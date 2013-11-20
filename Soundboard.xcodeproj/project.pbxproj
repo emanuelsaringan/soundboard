@@ -14,7 +14,6 @@
 		D0AFC2AD183CF43300BDD2D5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2AC183CF43300BDD2D5 /* main.m */; };
 		D0AFC2B1183CF43300BDD2D5 /* LGAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2B0183CF43300BDD2D5 /* LGAppDelegate.m */; };
 		D0AFC2B4183CF43300BDD2D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0AFC2B2183CF43300BDD2D5 /* Main.storyboard */; };
-		D0AFC2B7183CF43300BDD2D5 /* LGFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2B6183CF43300BDD2D5 /* LGFirstViewController.m */; };
 		D0AFC2BA183CF43300BDD2D5 /* LGSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2B9183CF43300BDD2D5 /* LGSecondViewController.m */; };
 		D0AFC2BC183CF43300BDD2D5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0AFC2BB183CF43300BDD2D5 /* Images.xcassets */; };
 		D0AFC2C3183CF43300BDD2D5 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0AFC2C2183CF43300BDD2D5 /* XCTest.framework */; };
@@ -22,6 +21,11 @@
 		D0AFC2C5183CF43300BDD2D5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0AFC2A4183CF43300BDD2D5 /* UIKit.framework */; };
 		D0AFC2CD183CF43300BDD2D5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D0AFC2CB183CF43300BDD2D5 /* InfoPlist.strings */; };
 		D0AFC2CF183CF43300BDD2D5 /* SoundboardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2CE183CF43300BDD2D5 /* SoundboardTests.m */; };
+		D0AFC2DC183CF75500BDD2D5 /* LGPeopleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2DB183CF75500BDD2D5 /* LGPeopleViewController.m */; };
+		D0AFC2DF183CF89A00BDD2D5 /* people.plist in Resources */ = {isa = PBXBuildFile; fileRef = D0AFC2DE183CF89A00BDD2D5 /* people.plist */; };
+		D0AFC2E2183CFB3800BDD2D5 /* LGPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2E1183CFB3800BDD2D5 /* LGPerson.m */; };
+		D0AFC2E5183D08C600BDD2D5 /* LGSound.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2E4183D08C600BDD2D5 /* LGSound.m */; };
+		D0AFC2E8183D08E800BDD2D5 /* LGSoundViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2E7183D08E800BDD2D5 /* LGSoundViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,8 +50,6 @@
 		D0AFC2AF183CF43300BDD2D5 /* LGAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LGAppDelegate.h; sourceTree = "<group>"; };
 		D0AFC2B0183CF43300BDD2D5 /* LGAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LGAppDelegate.m; sourceTree = "<group>"; };
 		D0AFC2B3183CF43300BDD2D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D0AFC2B5183CF43300BDD2D5 /* LGFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LGFirstViewController.h; sourceTree = "<group>"; };
-		D0AFC2B6183CF43300BDD2D5 /* LGFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LGFirstViewController.m; sourceTree = "<group>"; };
 		D0AFC2B8183CF43300BDD2D5 /* LGSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LGSecondViewController.h; sourceTree = "<group>"; };
 		D0AFC2B9183CF43300BDD2D5 /* LGSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LGSecondViewController.m; sourceTree = "<group>"; };
 		D0AFC2BB183CF43300BDD2D5 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
@@ -56,6 +58,15 @@
 		D0AFC2CA183CF43300BDD2D5 /* SoundboardTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SoundboardTests-Info.plist"; sourceTree = "<group>"; };
 		D0AFC2CC183CF43300BDD2D5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D0AFC2CE183CF43300BDD2D5 /* SoundboardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SoundboardTests.m; sourceTree = "<group>"; };
+		D0AFC2DA183CF75500BDD2D5 /* LGPeopleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGPeopleViewController.h; sourceTree = "<group>"; };
+		D0AFC2DB183CF75500BDD2D5 /* LGPeopleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGPeopleViewController.m; sourceTree = "<group>"; };
+		D0AFC2DE183CF89A00BDD2D5 /* people.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = people.plist; sourceTree = "<group>"; };
+		D0AFC2E0183CFB3800BDD2D5 /* LGPerson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGPerson.h; sourceTree = "<group>"; };
+		D0AFC2E1183CFB3800BDD2D5 /* LGPerson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGPerson.m; sourceTree = "<group>"; };
+		D0AFC2E3183D08C600BDD2D5 /* LGSound.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGSound.h; sourceTree = "<group>"; };
+		D0AFC2E4183D08C600BDD2D5 /* LGSound.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGSound.m; sourceTree = "<group>"; };
+		D0AFC2E6183D08E800BDD2D5 /* LGSoundViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGSoundViewController.h; sourceTree = "<group>"; };
+		D0AFC2E7183D08E800BDD2D5 /* LGSoundViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGSoundViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,11 +126,12 @@
 		D0AFC2A6183CF43300BDD2D5 /* Soundboard */ = {
 			isa = PBXGroup;
 			children = (
+				D0AFC2DD183CF88800BDD2D5 /* Resource */,
+				D0AFC2D9183CF4AD00BDD2D5 /* Controller */,
+				D0AFC2D8183CF4A400BDD2D5 /* Model */,
 				D0AFC2AF183CF43300BDD2D5 /* LGAppDelegate.h */,
 				D0AFC2B0183CF43300BDD2D5 /* LGAppDelegate.m */,
 				D0AFC2B2183CF43300BDD2D5 /* Main.storyboard */,
-				D0AFC2B5183CF43300BDD2D5 /* LGFirstViewController.h */,
-				D0AFC2B6183CF43300BDD2D5 /* LGFirstViewController.m */,
 				D0AFC2B8183CF43300BDD2D5 /* LGSecondViewController.h */,
 				D0AFC2B9183CF43300BDD2D5 /* LGSecondViewController.m */,
 				D0AFC2BB183CF43300BDD2D5 /* Images.xcassets */,
@@ -155,6 +167,36 @@
 				D0AFC2CB183CF43300BDD2D5 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D0AFC2D8183CF4A400BDD2D5 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D0AFC2E0183CFB3800BDD2D5 /* LGPerson.h */,
+				D0AFC2E1183CFB3800BDD2D5 /* LGPerson.m */,
+				D0AFC2E3183D08C600BDD2D5 /* LGSound.h */,
+				D0AFC2E4183D08C600BDD2D5 /* LGSound.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		D0AFC2D9183CF4AD00BDD2D5 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				D0AFC2DA183CF75500BDD2D5 /* LGPeopleViewController.h */,
+				D0AFC2DB183CF75500BDD2D5 /* LGPeopleViewController.m */,
+				D0AFC2E6183D08E800BDD2D5 /* LGSoundViewController.h */,
+				D0AFC2E7183D08E800BDD2D5 /* LGSoundViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		D0AFC2DD183CF88800BDD2D5 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				D0AFC2DE183CF89A00BDD2D5 /* people.plist */,
+			);
+			name = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -237,6 +279,7 @@
 				D0AFC2BC183CF43300BDD2D5 /* Images.xcassets in Resources */,
 				D0AFC2AB183CF43300BDD2D5 /* InfoPlist.strings in Resources */,
 				D0AFC2B4183CF43300BDD2D5 /* Main.storyboard in Resources */,
+				D0AFC2DF183CF89A00BDD2D5 /* people.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,8 +300,11 @@
 			files = (
 				D0AFC2AD183CF43300BDD2D5 /* main.m in Sources */,
 				D0AFC2BA183CF43300BDD2D5 /* LGSecondViewController.m in Sources */,
+				D0AFC2E2183CFB3800BDD2D5 /* LGPerson.m in Sources */,
+				D0AFC2DC183CF75500BDD2D5 /* LGPeopleViewController.m in Sources */,
+				D0AFC2E5183D08C600BDD2D5 /* LGSound.m in Sources */,
+				D0AFC2E8183D08E800BDD2D5 /* LGSoundViewController.m in Sources */,
 				D0AFC2B1183CF43300BDD2D5 /* LGAppDelegate.m in Sources */,
-				D0AFC2B7183CF43300BDD2D5 /* LGFirstViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
