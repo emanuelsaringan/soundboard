@@ -7,6 +7,50 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D00BD84618403A170097D11F /* LGCommunityNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = D00BD84518403A170097D11F /* LGCommunityNavigationController.m */; };
+		D0A233591840B66300AF13C1 /* pic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D0A233581840B66300AF13C1 /* pic.jpg */; };
+		D0A233851840B9A500AF13C1 /* abed_911.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2335C1840B9A500AF13C1 /* abed_911.mp3 */; };
+		D0A233861840B9A500AF13C1 /* abed_aids.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2335D1840B9A500AF13C1 /* abed_aids.mp3 */; };
+		D0A233871840B9A500AF13C1 /* abed_attractive.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2335E1840B9A500AF13C1 /* abed_attractive.mp3 */; };
+		D0A233881840B9A500AF13C1 /* abed_balls.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2335F1840B9A500AF13C1 /* abed_balls.mp3 */; };
+		D0A233891840B9A500AF13C1 /* abed_batmanlong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233601840B9A500AF13C1 /* abed_batmanlong.mp3 */; };
+		D0A2338A1840B9A500AF13C1 /* abed_batmanshort.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233611840B9A500AF13C1 /* abed_batmanshort.mp3 */; };
+		D0A2338B1840B9A500AF13C1 /* abed_bender.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233621840B9A500AF13C1 /* abed_bender.mp3 */; };
+		D0A2338C1840B9A500AF13C1 /* abed_broke.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233631840B9A500AF13C1 /* abed_broke.mp3 */; };
+		D0A2338D1840B9A500AF13C1 /* abed_clock.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233641840B9A500AF13C1 /* abed_clock.mp3 */; };
+		D0A2338E1840B9A500AF13C1 /* abed_coatrack.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233651840B9A500AF13C1 /* abed_coatrack.mp3 */; };
+		D0A2338F1840B9A500AF13C1 /* abed_condoms.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233661840B9A500AF13C1 /* abed_condoms.mp3 */; };
+		D0A233901840B9A500AF13C1 /* abed_cool.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233671840B9A500AF13C1 /* abed_cool.mp3 */; };
+		D0A233911840B9A500AF13C1 /* abed_deaf.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233681840B9A500AF13C1 /* abed_deaf.mp3 */; };
+		D0A233921840B9A500AF13C1 /* abed_deargod.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233691840B9A500AF13C1 /* abed_deargod.mp3 */; };
+		D0A233931840B9A500AF13C1 /* abed_f15.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2336A1840B9A500AF13C1 /* abed_f15.mp3 */; };
+		D0A233941840B9A500AF13C1 /* abed_glee.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2336B1840B9A500AF13C1 /* abed_glee.mp3 */; };
+		D0A233951840B9A500AF13C1 /* abed_imabed.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2336C1840B9A500AF13C1 /* abed_imabed.mp3 */; };
+		D0A233961840B9A500AF13C1 /* abed_jeffscar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2336D1840B9A500AF13C1 /* abed_jeffscar.mp3 */; };
+		D0A233971840B9A500AF13C1 /* abed_ladyparts.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2336E1840B9A500AF13C1 /* abed_ladyparts.mp3 */; };
+		D0A233981840B9A500AF13C1 /* abed_mention.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2336F1840B9A500AF13C1 /* abed_mention.mp3 */; };
+		D0A233991840B9A500AF13C1 /* abed_onmywatch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233701840B9A500AF13C1 /* abed_onmywatch.mp3 */; };
+		D0A2339A1840B9A500AF13C1 /* abed_pam.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233711840B9A500AF13C1 /* abed_pam.mp3 */; };
+		D0A2339B1840B9A500AF13C1 /* abed_partyfoul.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233721840B9A500AF13C1 /* abed_partyfoul.mp3 */; };
+		D0A2339C1840B9A500AF13C1 /* abed_predator.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233731840B9A500AF13C1 /* abed_predator.mp3 */; };
+		D0A2339D1840B9A500AF13C1 /* abed_predictable.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233741840B9A500AF13C1 /* abed_predictable.mp3 */; };
+		D0A2339E1840B9A500AF13C1 /* abed_reacting.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233751840B9A500AF13C1 /* abed_reacting.mp3 */; };
+		D0A2339F1840B9A500AF13C1 /* abed_recordscratch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233761840B9A500AF13C1 /* abed_recordscratch.mp3 */; };
+		D0A233A01840B9A500AF13C1 /* abed_sexual.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233771840B9A500AF13C1 /* abed_sexual.mp3 */; };
+		D0A233A11840B9A500AF13C1 /* abed_sixseasonsandamovie.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233781840B9A500AF13C1 /* abed_sixseasonsandamovie.mp3 */; };
+		D0A233A21840B9A500AF13C1 /* abed_smile.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233791840B9A500AF13C1 /* abed_smile.mp3 */; };
+		D0A233A31840B9A500AF13C1 /* abed_socialcue.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2337A1840B9A500AF13C1 /* abed_socialcue.mp3 */; };
+		D0A233A41840B9A500AF13C1 /* abed_specialdrink.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2337B1840B9A500AF13C1 /* abed_specialdrink.mp3 */; };
+		D0A233A51840B9A500AF13C1 /* abed_subdueyourguest.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2337C1840B9A500AF13C1 /* abed_subdueyourguest.mp3 */; };
+		D0A233A61840B9A500AF13C1 /* abed_thumb.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2337D1840B9A500AF13C1 /* abed_thumb.mp3 */; };
+		D0A233A71840B9A500AF13C1 /* abed_troyandabed.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2337E1840B9A500AF13C1 /* abed_troyandabed.mp3 */; };
+		D0A233A81840B9A500AF13C1 /* abed_xmasbritta.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2337F1840B9A500AF13C1 /* abed_xmasbritta.mp3 */; };
+		D0A233A91840B9A500AF13C1 /* abed_xmassad.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233801840B9A500AF13C1 /* abed_xmassad.mp3 */; };
+		D0A233AA1840B9A500AF13C1 /* abed_xmasshirley.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233811840B9A500AF13C1 /* abed_xmasshirley.mp3 */; };
+		D0A233AB1840B9A500AF13C1 /* abed_xmastheme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233821840B9A500AF13C1 /* abed_xmastheme.mp3 */; };
+		D0A233AC1840B9A500AF13C1 /* abed_xmastroy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233831840B9A500AF13C1 /* abed_xmastroy.mp3 */; };
+		D0A233AD1840B9A500AF13C1 /* abed_xmaswonderland.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A233841840B9A500AF13C1 /* abed_xmaswonderland.mp3 */; };
+		D0A647A61840ED3900C07F1F /* LGFavesNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A647A51840ED3900C07F1F /* LGFavesNavigationController.m */; };
 		D0AFC2A1183CF43300BDD2D5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0AFC2A0183CF43300BDD2D5 /* Foundation.framework */; };
 		D0AFC2A3183CF43300BDD2D5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0AFC2A2183CF43300BDD2D5 /* CoreGraphics.framework */; };
 		D0AFC2A5183CF43300BDD2D5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0AFC2A4183CF43300BDD2D5 /* UIKit.framework */; };
@@ -14,7 +58,6 @@
 		D0AFC2AD183CF43300BDD2D5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2AC183CF43300BDD2D5 /* main.m */; };
 		D0AFC2B1183CF43300BDD2D5 /* LGAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2B0183CF43300BDD2D5 /* LGAppDelegate.m */; };
 		D0AFC2B4183CF43300BDD2D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0AFC2B2183CF43300BDD2D5 /* Main.storyboard */; };
-		D0AFC2BA183CF43300BDD2D5 /* LGSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2B9183CF43300BDD2D5 /* LGSecondViewController.m */; };
 		D0AFC2BC183CF43300BDD2D5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0AFC2BB183CF43300BDD2D5 /* Images.xcassets */; };
 		D0AFC2C3183CF43300BDD2D5 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0AFC2C2183CF43300BDD2D5 /* XCTest.framework */; };
 		D0AFC2C4183CF43300BDD2D5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0AFC2A0183CF43300BDD2D5 /* Foundation.framework */; };
@@ -26,6 +69,7 @@
 		D0AFC2E2183CFB3800BDD2D5 /* LGPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2E1183CFB3800BDD2D5 /* LGPerson.m */; };
 		D0AFC2E5183D08C600BDD2D5 /* LGSound.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2E4183D08C600BDD2D5 /* LGSound.m */; };
 		D0AFC2E8183D08E800BDD2D5 /* LGSoundViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0AFC2E7183D08E800BDD2D5 /* LGSoundViewController.m */; };
+		D0BD19BD18407CD200A7F668 /* LGFavesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0BD19BC18407CD200A7F668 /* LGFavesViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +83,52 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D00BD84418403A170097D11F /* LGCommunityNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGCommunityNavigationController.h; sourceTree = "<group>"; };
+		D00BD84518403A170097D11F /* LGCommunityNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGCommunityNavigationController.m; sourceTree = "<group>"; };
+		D0A233581840B66300AF13C1 /* pic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic.jpg; sourceTree = "<group>"; };
+		D0A2335C1840B9A500AF13C1 /* abed_911.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_911.mp3; sourceTree = "<group>"; };
+		D0A2335D1840B9A500AF13C1 /* abed_aids.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_aids.mp3; sourceTree = "<group>"; };
+		D0A2335E1840B9A500AF13C1 /* abed_attractive.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_attractive.mp3; sourceTree = "<group>"; };
+		D0A2335F1840B9A500AF13C1 /* abed_balls.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_balls.mp3; sourceTree = "<group>"; };
+		D0A233601840B9A500AF13C1 /* abed_batmanlong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_batmanlong.mp3; sourceTree = "<group>"; };
+		D0A233611840B9A500AF13C1 /* abed_batmanshort.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_batmanshort.mp3; sourceTree = "<group>"; };
+		D0A233621840B9A500AF13C1 /* abed_bender.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_bender.mp3; sourceTree = "<group>"; };
+		D0A233631840B9A500AF13C1 /* abed_broke.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_broke.mp3; sourceTree = "<group>"; };
+		D0A233641840B9A500AF13C1 /* abed_clock.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_clock.mp3; sourceTree = "<group>"; };
+		D0A233651840B9A500AF13C1 /* abed_coatrack.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_coatrack.mp3; sourceTree = "<group>"; };
+		D0A233661840B9A500AF13C1 /* abed_condoms.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_condoms.mp3; sourceTree = "<group>"; };
+		D0A233671840B9A500AF13C1 /* abed_cool.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_cool.mp3; sourceTree = "<group>"; };
+		D0A233681840B9A500AF13C1 /* abed_deaf.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_deaf.mp3; sourceTree = "<group>"; };
+		D0A233691840B9A500AF13C1 /* abed_deargod.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_deargod.mp3; sourceTree = "<group>"; };
+		D0A2336A1840B9A500AF13C1 /* abed_f15.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_f15.mp3; sourceTree = "<group>"; };
+		D0A2336B1840B9A500AF13C1 /* abed_glee.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_glee.mp3; sourceTree = "<group>"; };
+		D0A2336C1840B9A500AF13C1 /* abed_imabed.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_imabed.mp3; sourceTree = "<group>"; };
+		D0A2336D1840B9A500AF13C1 /* abed_jeffscar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_jeffscar.mp3; sourceTree = "<group>"; };
+		D0A2336E1840B9A500AF13C1 /* abed_ladyparts.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_ladyparts.mp3; sourceTree = "<group>"; };
+		D0A2336F1840B9A500AF13C1 /* abed_mention.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_mention.mp3; sourceTree = "<group>"; };
+		D0A233701840B9A500AF13C1 /* abed_onmywatch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_onmywatch.mp3; sourceTree = "<group>"; };
+		D0A233711840B9A500AF13C1 /* abed_pam.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_pam.mp3; sourceTree = "<group>"; };
+		D0A233721840B9A500AF13C1 /* abed_partyfoul.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_partyfoul.mp3; sourceTree = "<group>"; };
+		D0A233731840B9A500AF13C1 /* abed_predator.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_predator.mp3; sourceTree = "<group>"; };
+		D0A233741840B9A500AF13C1 /* abed_predictable.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_predictable.mp3; sourceTree = "<group>"; };
+		D0A233751840B9A500AF13C1 /* abed_reacting.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_reacting.mp3; sourceTree = "<group>"; };
+		D0A233761840B9A500AF13C1 /* abed_recordscratch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_recordscratch.mp3; sourceTree = "<group>"; };
+		D0A233771840B9A500AF13C1 /* abed_sexual.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_sexual.mp3; sourceTree = "<group>"; };
+		D0A233781840B9A500AF13C1 /* abed_sixseasonsandamovie.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_sixseasonsandamovie.mp3; sourceTree = "<group>"; };
+		D0A233791840B9A500AF13C1 /* abed_smile.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_smile.mp3; sourceTree = "<group>"; };
+		D0A2337A1840B9A500AF13C1 /* abed_socialcue.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_socialcue.mp3; sourceTree = "<group>"; };
+		D0A2337B1840B9A500AF13C1 /* abed_specialdrink.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_specialdrink.mp3; sourceTree = "<group>"; };
+		D0A2337C1840B9A500AF13C1 /* abed_subdueyourguest.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_subdueyourguest.mp3; sourceTree = "<group>"; };
+		D0A2337D1840B9A500AF13C1 /* abed_thumb.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_thumb.mp3; sourceTree = "<group>"; };
+		D0A2337E1840B9A500AF13C1 /* abed_troyandabed.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_troyandabed.mp3; sourceTree = "<group>"; };
+		D0A2337F1840B9A500AF13C1 /* abed_xmasbritta.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_xmasbritta.mp3; sourceTree = "<group>"; };
+		D0A233801840B9A500AF13C1 /* abed_xmassad.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_xmassad.mp3; sourceTree = "<group>"; };
+		D0A233811840B9A500AF13C1 /* abed_xmasshirley.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_xmasshirley.mp3; sourceTree = "<group>"; };
+		D0A233821840B9A500AF13C1 /* abed_xmastheme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_xmastheme.mp3; sourceTree = "<group>"; };
+		D0A233831840B9A500AF13C1 /* abed_xmastroy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_xmastroy.mp3; sourceTree = "<group>"; };
+		D0A233841840B9A500AF13C1 /* abed_xmaswonderland.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_xmaswonderland.mp3; sourceTree = "<group>"; };
+		D0A647A41840ED3900C07F1F /* LGFavesNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGFavesNavigationController.h; sourceTree = "<group>"; };
+		D0A647A51840ED3900C07F1F /* LGFavesNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGFavesNavigationController.m; sourceTree = "<group>"; };
 		D0AFC29D183CF43300BDD2D5 /* Soundboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Soundboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0AFC2A0183CF43300BDD2D5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D0AFC2A2183CF43300BDD2D5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -50,8 +140,6 @@
 		D0AFC2AF183CF43300BDD2D5 /* LGAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LGAppDelegate.h; sourceTree = "<group>"; };
 		D0AFC2B0183CF43300BDD2D5 /* LGAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LGAppDelegate.m; sourceTree = "<group>"; };
 		D0AFC2B3183CF43300BDD2D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D0AFC2B8183CF43300BDD2D5 /* LGSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LGSecondViewController.h; sourceTree = "<group>"; };
-		D0AFC2B9183CF43300BDD2D5 /* LGSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LGSecondViewController.m; sourceTree = "<group>"; };
 		D0AFC2BB183CF43300BDD2D5 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		D0AFC2C1183CF43300BDD2D5 /* SoundboardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SoundboardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0AFC2C2183CF43300BDD2D5 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -67,6 +155,8 @@
 		D0AFC2E4183D08C600BDD2D5 /* LGSound.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGSound.m; sourceTree = "<group>"; };
 		D0AFC2E6183D08E800BDD2D5 /* LGSoundViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGSoundViewController.h; sourceTree = "<group>"; };
 		D0AFC2E7183D08E800BDD2D5 /* LGSoundViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGSoundViewController.m; sourceTree = "<group>"; };
+		D0BD19BB18407CD200A7F668 /* LGFavesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGFavesViewController.h; sourceTree = "<group>"; };
+		D0BD19BC18407CD200A7F668 /* LGFavesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGFavesViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +183,70 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D0A233571840B5E800AF13C1 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				D0A233581840B66300AF13C1 /* pic.jpg */,
+			);
+			name = Image;
+			sourceTree = "<group>";
+		};
+		D0A2335A1840B8EE00AF13C1 /* Sound */ = {
+			isa = PBXGroup;
+			children = (
+				D0A2335B1840B96A00AF13C1 /* abed */,
+			);
+			name = Sound;
+			sourceTree = "<group>";
+		};
+		D0A2335B1840B96A00AF13C1 /* abed */ = {
+			isa = PBXGroup;
+			children = (
+				D0A2335C1840B9A500AF13C1 /* abed_911.mp3 */,
+				D0A2335D1840B9A500AF13C1 /* abed_aids.mp3 */,
+				D0A2335E1840B9A500AF13C1 /* abed_attractive.mp3 */,
+				D0A2335F1840B9A500AF13C1 /* abed_balls.mp3 */,
+				D0A233601840B9A500AF13C1 /* abed_batmanlong.mp3 */,
+				D0A233611840B9A500AF13C1 /* abed_batmanshort.mp3 */,
+				D0A233621840B9A500AF13C1 /* abed_bender.mp3 */,
+				D0A233631840B9A500AF13C1 /* abed_broke.mp3 */,
+				D0A233641840B9A500AF13C1 /* abed_clock.mp3 */,
+				D0A233651840B9A500AF13C1 /* abed_coatrack.mp3 */,
+				D0A233661840B9A500AF13C1 /* abed_condoms.mp3 */,
+				D0A233671840B9A500AF13C1 /* abed_cool.mp3 */,
+				D0A233681840B9A500AF13C1 /* abed_deaf.mp3 */,
+				D0A233691840B9A500AF13C1 /* abed_deargod.mp3 */,
+				D0A2336A1840B9A500AF13C1 /* abed_f15.mp3 */,
+				D0A2336B1840B9A500AF13C1 /* abed_glee.mp3 */,
+				D0A2336C1840B9A500AF13C1 /* abed_imabed.mp3 */,
+				D0A2336D1840B9A500AF13C1 /* abed_jeffscar.mp3 */,
+				D0A2336E1840B9A500AF13C1 /* abed_ladyparts.mp3 */,
+				D0A2336F1840B9A500AF13C1 /* abed_mention.mp3 */,
+				D0A233701840B9A500AF13C1 /* abed_onmywatch.mp3 */,
+				D0A233711840B9A500AF13C1 /* abed_pam.mp3 */,
+				D0A233721840B9A500AF13C1 /* abed_partyfoul.mp3 */,
+				D0A233731840B9A500AF13C1 /* abed_predator.mp3 */,
+				D0A233741840B9A500AF13C1 /* abed_predictable.mp3 */,
+				D0A233751840B9A500AF13C1 /* abed_reacting.mp3 */,
+				D0A233761840B9A500AF13C1 /* abed_recordscratch.mp3 */,
+				D0A233771840B9A500AF13C1 /* abed_sexual.mp3 */,
+				D0A233781840B9A500AF13C1 /* abed_sixseasonsandamovie.mp3 */,
+				D0A233791840B9A500AF13C1 /* abed_smile.mp3 */,
+				D0A2337A1840B9A500AF13C1 /* abed_socialcue.mp3 */,
+				D0A2337B1840B9A500AF13C1 /* abed_specialdrink.mp3 */,
+				D0A2337C1840B9A500AF13C1 /* abed_subdueyourguest.mp3 */,
+				D0A2337D1840B9A500AF13C1 /* abed_thumb.mp3 */,
+				D0A2337E1840B9A500AF13C1 /* abed_troyandabed.mp3 */,
+				D0A2337F1840B9A500AF13C1 /* abed_xmasbritta.mp3 */,
+				D0A233801840B9A500AF13C1 /* abed_xmassad.mp3 */,
+				D0A233811840B9A500AF13C1 /* abed_xmasshirley.mp3 */,
+				D0A233821840B9A500AF13C1 /* abed_xmastheme.mp3 */,
+				D0A233831840B9A500AF13C1 /* abed_xmastroy.mp3 */,
+				D0A233841840B9A500AF13C1 /* abed_xmaswonderland.mp3 */,
+			);
+			name = abed;
+			sourceTree = "<group>";
+		};
 		D0AFC294183CF43300BDD2D5 = {
 			isa = PBXGroup;
 			children = (
@@ -126,14 +280,14 @@
 		D0AFC2A6183CF43300BDD2D5 /* Soundboard */ = {
 			isa = PBXGroup;
 			children = (
+				D0A2335A1840B8EE00AF13C1 /* Sound */,
+				D0A233571840B5E800AF13C1 /* Image */,
 				D0AFC2DD183CF88800BDD2D5 /* Resource */,
 				D0AFC2D9183CF4AD00BDD2D5 /* Controller */,
 				D0AFC2D8183CF4A400BDD2D5 /* Model */,
 				D0AFC2AF183CF43300BDD2D5 /* LGAppDelegate.h */,
 				D0AFC2B0183CF43300BDD2D5 /* LGAppDelegate.m */,
 				D0AFC2B2183CF43300BDD2D5 /* Main.storyboard */,
-				D0AFC2B8183CF43300BDD2D5 /* LGSecondViewController.h */,
-				D0AFC2B9183CF43300BDD2D5 /* LGSecondViewController.m */,
 				D0AFC2BB183CF43300BDD2D5 /* Images.xcassets */,
 				D0AFC2A7183CF43300BDD2D5 /* Supporting Files */,
 			);
@@ -187,6 +341,12 @@
 				D0AFC2DB183CF75500BDD2D5 /* LGPeopleViewController.m */,
 				D0AFC2E6183D08E800BDD2D5 /* LGSoundViewController.h */,
 				D0AFC2E7183D08E800BDD2D5 /* LGSoundViewController.m */,
+				D00BD84418403A170097D11F /* LGCommunityNavigationController.h */,
+				D00BD84518403A170097D11F /* LGCommunityNavigationController.m */,
+				D0BD19BB18407CD200A7F668 /* LGFavesViewController.h */,
+				D0BD19BC18407CD200A7F668 /* LGFavesViewController.m */,
+				D0A647A41840ED3900C07F1F /* LGFavesNavigationController.h */,
+				D0A647A51840ED3900C07F1F /* LGFavesNavigationController.m */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -276,10 +436,52 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0A233A51840B9A500AF13C1 /* abed_subdueyourguest.mp3 in Resources */,
 				D0AFC2BC183CF43300BDD2D5 /* Images.xcassets in Resources */,
+				D0A233891840B9A500AF13C1 /* abed_batmanlong.mp3 in Resources */,
+				D0A233A01840B9A500AF13C1 /* abed_sexual.mp3 in Resources */,
+				D0A233A91840B9A500AF13C1 /* abed_xmassad.mp3 in Resources */,
 				D0AFC2AB183CF43300BDD2D5 /* InfoPlist.strings in Resources */,
+				D0A233A81840B9A500AF13C1 /* abed_xmasbritta.mp3 in Resources */,
+				D0A233AD1840B9A500AF13C1 /* abed_xmaswonderland.mp3 in Resources */,
+				D0A2338D1840B9A500AF13C1 /* abed_clock.mp3 in Resources */,
+				D0A233851840B9A500AF13C1 /* abed_911.mp3 in Resources */,
+				D0A233961840B9A500AF13C1 /* abed_jeffscar.mp3 in Resources */,
+				D0A233A31840B9A500AF13C1 /* abed_socialcue.mp3 in Resources */,
+				D0A2339F1840B9A500AF13C1 /* abed_recordscratch.mp3 in Resources */,
+				D0A233871840B9A500AF13C1 /* abed_attractive.mp3 in Resources */,
 				D0AFC2B4183CF43300BDD2D5 /* Main.storyboard in Resources */,
+				D0A233901840B9A500AF13C1 /* abed_cool.mp3 in Resources */,
+				D0A2339B1840B9A500AF13C1 /* abed_partyfoul.mp3 in Resources */,
+				D0A2338A1840B9A500AF13C1 /* abed_batmanshort.mp3 in Resources */,
+				D0A233941840B9A500AF13C1 /* abed_glee.mp3 in Resources */,
+				D0A233861840B9A500AF13C1 /* abed_aids.mp3 in Resources */,
+				D0A233AB1840B9A500AF13C1 /* abed_xmastheme.mp3 in Resources */,
+				D0A233A21840B9A500AF13C1 /* abed_smile.mp3 in Resources */,
+				D0A233A71840B9A500AF13C1 /* abed_troyandabed.mp3 in Resources */,
+				D0A233911840B9A500AF13C1 /* abed_deaf.mp3 in Resources */,
+				D0A233981840B9A500AF13C1 /* abed_mention.mp3 in Resources */,
+				D0A2338C1840B9A500AF13C1 /* abed_broke.mp3 in Resources */,
+				D0A233921840B9A500AF13C1 /* abed_deargod.mp3 in Resources */,
+				D0A2338B1840B9A500AF13C1 /* abed_bender.mp3 in Resources */,
+				D0A233A61840B9A500AF13C1 /* abed_thumb.mp3 in Resources */,
+				D0A2338E1840B9A500AF13C1 /* abed_coatrack.mp3 in Resources */,
+				D0A2338F1840B9A500AF13C1 /* abed_condoms.mp3 in Resources */,
 				D0AFC2DF183CF89A00BDD2D5 /* people.plist in Resources */,
+				D0A233A11840B9A500AF13C1 /* abed_sixseasonsandamovie.mp3 in Resources */,
+				D0A233951840B9A500AF13C1 /* abed_imabed.mp3 in Resources */,
+				D0A233AC1840B9A500AF13C1 /* abed_xmastroy.mp3 in Resources */,
+				D0A2339E1840B9A500AF13C1 /* abed_reacting.mp3 in Resources */,
+				D0A2339C1840B9A500AF13C1 /* abed_predator.mp3 in Resources */,
+				D0A233931840B9A500AF13C1 /* abed_f15.mp3 in Resources */,
+				D0A233881840B9A500AF13C1 /* abed_balls.mp3 in Resources */,
+				D0A233A41840B9A500AF13C1 /* abed_specialdrink.mp3 in Resources */,
+				D0A2339A1840B9A500AF13C1 /* abed_pam.mp3 in Resources */,
+				D0A233991840B9A500AF13C1 /* abed_onmywatch.mp3 in Resources */,
+				D0A233591840B66300AF13C1 /* pic.jpg in Resources */,
+				D0A2339D1840B9A500AF13C1 /* abed_predictable.mp3 in Resources */,
+				D0A233971840B9A500AF13C1 /* abed_ladyparts.mp3 in Resources */,
+				D0A233AA1840B9A500AF13C1 /* abed_xmasshirley.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,11 +500,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D00BD84618403A170097D11F /* LGCommunityNavigationController.m in Sources */,
+				D0BD19BD18407CD200A7F668 /* LGFavesViewController.m in Sources */,
 				D0AFC2AD183CF43300BDD2D5 /* main.m in Sources */,
-				D0AFC2BA183CF43300BDD2D5 /* LGSecondViewController.m in Sources */,
 				D0AFC2E2183CFB3800BDD2D5 /* LGPerson.m in Sources */,
 				D0AFC2DC183CF75500BDD2D5 /* LGPeopleViewController.m in Sources */,
 				D0AFC2E5183D08C600BDD2D5 /* LGSound.m in Sources */,
+				D0A647A61840ED3900C07F1F /* LGFavesNavigationController.m in Sources */,
 				D0AFC2E8183D08E800BDD2D5 /* LGSoundViewController.m in Sources */,
 				D0AFC2B1183CF43300BDD2D5 /* LGAppDelegate.m in Sources */,
 			);
@@ -513,6 +717,7 @@
 				D0AFC2D4183CF43300BDD2D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0AFC2D5183CF43300BDD2D5 /* Build configuration list for PBXNativeTarget "SoundboardTests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +726,7 @@
 				D0AFC2D7183CF43300BDD2D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

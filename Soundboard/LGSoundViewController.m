@@ -6,60 +6,30 @@
 //  Copyright (c) 2013 Emanuel Saringan. All rights reserved.
 //
 
+#import <AudioToolbox/AudioToolbox.h>
+#import <AVFoundation/AVFoundation.h>
 #import "LGSoundViewController.h"
 #import "LGSound.h"
 
 @interface LGSoundViewController ()
 
-@property (nonatomic, strong) NSMutableArray* objects;
-
 @end
 
-@implementation LGSoundViewController
+@implementation LGSoundViewController {
+    AVAudioPlayer* player;
+}
 
 - (id)initWithStyle:(UITableViewStyle)style {
     self = [super initWithStyle:style];
     if (self) {
         // Custom initialization
     }
+    
     return self;
 }
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSString* bundle = [[NSBundle mainBundle] pathForResource:@"people" ofType:@"plist"];
-    NSArray* people = [NSArray arrayWithContentsOfFile:bundle];
-    NSInteger peopleCnt = [people count];
-    
-    for (NSInteger i = 0; i < peopleCnt; i++) {
-        NSDictionary* personDict = [people objectAtIndex:i];
-        
-        if ([self.person.code intValue] == [[personDict objectForKey:@"code"] intValue]) {
-            NSArray* sounds = [personDict objectForKey:@"sounds"];
-            NSInteger soundsCnt = [sounds count];
-            
-            for (NSInteger j = 0; j < soundsCnt; j++) {
-                LGSound* sound = [[LGSound alloc] init];
-                sound.label = [sounds objectAtIndex:j];
-                
-                [self insertNewObject:sound];
-            }
-            
-            break;
-        }
-    }
-}
-
--(void) insertNewObject:(LGSound*) sound {
-    [self.objects addObject:sound];
-}
-
--(NSMutableArray*) objects {
-    if (!_objects) {
-        _objects = [[NSMutableArray alloc] init];
-    }
-    
-    return _objects;
 }
 
 - (void)didReceiveMemoryWarning {
@@ -73,16 +43,84 @@
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    return [self.objects count];
+    return [self.person.sounds count];
+}
+
+-(void) tableView:(UITableView *)tableView commitEditingStyle:(UITableViewCellEditingStyle)editingStyle forRowAtIndexPath:(NSIndexPath *)indexPath {
+    if (UITableViewCellEditingStyleDelete == editingStyle) {
+        LGSound* sound = [self.person.sounds objectAtIndex:indexPath.row];
+        sound.isFave = YES;
+        
+        [self saveFaveSound:sound];
+    }
+    
+    [self.tableView reloadRowsAtIndexPaths:[NSArray arrayWithObject:indexPath] withRowAnimation:UITableViewRowAnimationRight];
+}
+
+-(void) saveFaveSound:(LGSound*) sound {
+    NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
+    NSString *documentsDirectory = [paths objectAtIndex:0];
+    NSString *favesFile = [documentsDirectory stringByAppendingPathComponent:@"faves.plist"];
+    
+    //Load the sounds
+    NSMutableArray* favesArr = [NSMutableArray arrayWithContentsOfFile: favesFile];
+    
+    if(!favesArr) {
+        favesArr = [[NSMutableArray alloc] init];
+    }
+    
+    NSMutableDictionary* soundDict = [[NSMutableDictionary alloc] init];
+    [soundDict setObject:sound.code forKey:@"code"];
+    [soundDict setObject:sound.label forKey:@"label"];
+    
+    // Add fave sound code
+    [favesArr addObject:soundDict];
+    
+    //Save the array
+    [favesArr writeToFile:favesFile atomically:YES];
+}
+
+-(BOOL) tableView:(UITableView *)tableView canEditRowAtIndexPath:(NSIndexPath *)indexPath {
+    LGSound* sound = [self.person.sounds objectAtIndex:indexPath.row];
+    
+    return !sound.isFave;
+}
+
+-(NSString*) tableView:(UITableView *)tableView titleForDeleteConfirmationButtonForRowAtIndexPath:(NSIndexPath *)indexPath {
+    LGSound* sound = [self.person.sounds objectAtIndex:indexPath.row];
+    
+    if (!sound.isFave) {
+        return @"Add to Faves";
+    }
+    
+    // Should not happen
+    return nil;
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"SoundCell" forIndexPath:indexPath];
     
-    LGSound* sound = [self.objects objectAtIndex:indexPath.row];
+    LGSound* sound = [self.person.sounds objectAtIndex:indexPath.row];
     cell.textLabel.text = sound.label;
     
+    if (sound.isFave) {
+        cell.detailTextLabel.text = @"Fave";
+    } else {
+        cell.detailTextLabel.text = @"";
+    }
+    
     return cell;
+}
+
+-(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+    LGSound* sound = [self.person.sounds objectAtIndex:indexPath.row];
+    
+    NSString* soundFilePath = [[NSBundle mainBundle] pathForResource:sound.code ofType:@"mp3"];
+    NSURL* soundFileURL = [NSURL fileURLWithPath:soundFilePath];
+    
+    player = [[AVAudioPlayer alloc] initWithContentsOfURL:soundFileURL error:nil];
+    player.volume = 1.0;
+    [player play];
 }
 
 @end

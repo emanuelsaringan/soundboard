@@ -10,6 +10,8 @@
 
 @interface LGSound : NSObject
 
+@property (nonatomic, strong) NSString* code;
 @property (nonatomic, strong) NSString* label;
+@property (nonatomic, assign) BOOL isFave;
 
 @end

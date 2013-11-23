@@ -10,4 +10,12 @@
 
 @implementation LGPerson
 
+-(NSMutableArray*) sounds {
+    if (!_sounds) {
+        _sounds = [[NSMutableArray alloc] init];
+    }
+    
+    return _sounds;
+}
+
 @end

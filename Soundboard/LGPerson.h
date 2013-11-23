@@ -10,7 +10,7 @@
 
 @interface LGPerson : NSObject
 
-@property (nonatomic, strong) NSString* code;
 @property (nonatomic, strong) NSString* name;
+@property (nonatomic, strong) NSMutableArray* sounds;
 
 @end

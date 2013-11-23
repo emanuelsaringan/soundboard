@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "LGPerson.h"
 
-@interface LGSoundViewController : UITableViewController
+@interface LGSoundViewController : UITableViewController<UITableViewDelegate>
 
 @property (strong, nonatomic) LGPerson* person;
 

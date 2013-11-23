@@ -3,152 +3,402 @@
 <plist version="1.0">
     <array>
         <dict>
-            <key>code</key>
-            <string>1</string>
-            
             <key>name</key>
             <string>Abed</string>
             
             <key>sounds</key>
             <array>
-                <string>Hello</string>
-                <string>Hi</string>
-                <string>Good morning</string>
+                <dict>
+                    <key>code</key>
+                    <string>abed_911</string>
+                    
+                    <key>label</key>
+                    <string>911</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_aids</string>
+                    
+                    <key>label</key>
+                    <string>AIDS</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_attractive</string>
+                    
+                    <key>label</key>
+                    <string>Attractive</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_balls</string>
+                    
+                    <key>label</key>
+                    <string>Balls</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_batmanlong</string>
+                    
+                    <key>label</key>
+                    <string>Batman (Long)</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_batmanshort</string>
+                    
+                    <key>label</key>
+                    <string>Batman (Short)</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_bender</string>
+                    
+                    <key>label</key>
+                    <string>Bender</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_broke</string>
+                    
+                    <key>label</key>
+                    <string>Broke</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_clock</string>
+                    
+                    <key>label</key>
+                    <string>Clock</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_coatrack</string>
+                    
+                    <key>label</key>
+                    <string>Coa Track</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_condoms</string>
+                    
+                    <key>label</key>
+                    <string>Condoms</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_cool</string>
+                    
+                    <key>label</key>
+                    <string>Cool</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_deaf</string>
+                    
+                    <key>label</key>
+                    <string>Deaf</string>
+                </dict>
             </array>
         </dict>
         
         <dict>
-            <key>code</key>
-            <string>2</string>
-            
             <key>name</key>
             <string>Annie</string>
             
             <key>sounds</key>
             <array>
-                <string>Goodbye</string>
-                <string>HAHA</string>
-                <string>Baby</string>
+                <dict>
+                    <key>code</key>
+                    <string>2a</string>
+                    
+                    <key>label</key>
+                    <string>Goodbye</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>2b</string>
+                    
+                    <key>label</key>
+                    <string>HAHA</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>2c</string>
+                    
+                    <key>label</key>
+                    <string>Baby</string>
+                </dict>
             </array>
         </dict>
         
         <dict>
-            <key>code</key>
-            <string>3</string>
-            
             <key>name</key>
             <string>Britta</string>
             
             <key>sounds</key>
             <array>
-                <string>Fat</string>
-                <string>DERP</string>
-                <string>Macbook Air</string>
+                <dict>
+                    <key>code</key>
+                    <string>3a</string>
+                    
+                    <key>label</key>
+                    <string>Fat</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>3b</string>
+                    
+                    <key>label</key>
+                    <string>DERP</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>3c</string>
+                    
+                    <key>label</key>
+                    <string>Macbook Air</string>
+                </dict>
             </array>
         </dict>
         
         <dict>
-            <key>code</key>
-            <string>4</string>
-            
             <key>name</key>
             <string>Jeff</string>
             
             <key>sounds</key>
             <array>
-                <string>YAHOO</string>
-                <string>GOOGLE</string>
-                <string>Microsoft</string>
+                <dict>
+                    <key>code</key>
+                    <string>4a</string>
+                    
+                    <key>label</key>
+                    <string>Yahoo</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>4b</string>
+                    
+                    <key>label</key>
+                    <string>Google</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>4c</string>
+                    
+                    <key>label</key>
+                    <string>Microsoft</string>
+                </dict>
             </array>
         </dict>
         
         <dict>
-            <key>code</key>
-            <string>5</string>
-            
             <key>name</key>
             <string>Pierce</string>
             
             <key>sounds</key>
             <array>
-                <string>Apple</string>
-                <string>iMac</string>
-                <string>Retina Display</string>
+                <dict>
+                    <key>code</key>
+                    <string>5a</string>
+                    
+                    <key>label</key>
+                    <string>Apple</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>5b</string>
+                    
+                    <key>label</key>
+                    <string>iMac</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>5c</string>
+                    
+                    <key>label</key>
+                    <string>Retina Display</string>
+                </dict>
             </array>
         </dict>
         
         <dict>
-            <key>code</key>
-            <string>6</string>
-            
             <key>name</key>
             <string>Shirley</string>
             
             <key>sounds</key>
             <array>
-                <string>Kobe Bryant</string>
-                <string>Lebron James</string>
-                <string>Derrick Rose</string>
+                <dict>
+                    <key>code</key>
+                    <string>6a</string>
+                    
+                    <key>label</key>
+                    <string>Kobe Bryant</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>6b</string>
+                    
+                    <key>label</key>
+                    <string>Lebron James</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>6c</string>
+                    
+                    <key>label</key>
+                    <string>Derrick Rose</string>
+                </dict>
             </array>
         </dict>
         
         <dict>
-            <key>code</key>
-            <string>7</string>
-            
             <key>name</key>
             <string>Troy</string>
             
             <key>sounds</key>
             <array>
-                <string>Steve</string>
-                <string>Bill</string>
-                <string>Larry</string>
+                <dict>
+                    <key>code</key>
+                    <string>7a</string>
+                    
+                    <key>label</key>
+                    <string>Steve</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>7b</string>
+                    
+                    <key>label</key>
+                    <string>Bill</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>7c</string>
+                    
+                    <key>label</key>
+                    <string>Larry</string>
+                </dict>
             </array>
         </dict>
         
         <dict>
-            <key>code</key>
-            <string>8</string>
-            
             <key>name</key>
             <string>Chang</string>
             
             <key>sounds</key>
             <array>
-                <string>Chinese</string>
-                <string>Filipino</string>
-                <string>American</string>
+                <dict>
+                    <key>code</key>
+                    <string>8a</string>
+                    
+                    <key>label</key>
+                    <string>Ching</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>8b</string>
+                    
+                    <key>label</key>
+                    <string>Chong</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>8c</string>
+                    
+                    <key>label</key>
+                    <string>Chang</string>
+                </dict>
             </array>
         </dict>
         
         <dict>
-            <key>code</key>
-            <string>9</string>
-            
             <key>name</key>
             <string>Dean</string>
             
             <key>sounds</key>
             <array>
-                <string>McDonald's'</string>
-                <string>Burger King</string>
-                <string>Taco Bell</string>
+                <dict>
+                    <key>code</key>
+                    <string>9a</string>
+                    
+                    <key>label</key>
+                    <string>McDonald's'</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>9b</string>
+                    
+                    <key>label</key>
+                    <string>Taco Bell</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>9c</string>
+                    
+                    <key>label</key>
+                    <string>Burger King</string>
+                </dict>
             </array>
         </dict>
         
         <dict>
-            <key>code</key>
-            <string>10</string>
-            
             <key>name</key>
             <string>Other</string>
             
             <key>sounds</key>
             <array>
-                <string>The</string>
-                <string>Walking</string>
-                <string>Dead</string>
+                <dict>
+                    <key>code</key>
+                    <string>10a</string>
+                    
+                    <key>label</key>
+                    <string>The</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>10b</string>
+                    
+                    <key>label</key>
+                    <string>Walking</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>10c</string>
+                    
+                    <key>label</key>
+                    <string>Dead</string>
+                </dict>
             </array>
         </dict>
     </array>

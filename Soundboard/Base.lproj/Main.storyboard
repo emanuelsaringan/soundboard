@@ -24,10 +24,10 @@
             </objects>
             <point key="canvasLocation" x="132" y="180"/>
         </scene>
-        <!--Table View Controller - Faves-->
+        <!--Faves View Controller - Faves-->
         <scene sceneID="JSD-15-cNa">
             <objects>
-                <tableViewController id="w8V-eJ-gxU" sceneMemberID="viewController">
+                <tableViewController id="w8V-eJ-gxU" customClass="LGFavesViewController" sceneMemberID="viewController">
                     <tableView key="view" opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="5f2-Yy-Ptw">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -86,7 +86,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="This app is a community soundboard created by Emanuel Saringan. More info, more info...." translatesAutoresizingMaskIntoConstraints="NO" id="thv-UQ-8V3">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="This app is a community soundboard created by Emanuel Saringan. More info, more info...." selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="thv-UQ-8V3">
                                 <rect key="frame" x="21" y="85" width="279" height="463"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
@@ -102,10 +102,10 @@
             </objects>
             <point key="canvasLocation" x="1122" y="1188"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--Faves Navigation Controller-->
         <scene sceneID="3mW-H4-Shb">
             <objects>
-                <navigationController definesPresentationContext="YES" id="gmv-aD-AoR" sceneMemberID="viewController">
+                <navigationController definesPresentationContext="YES" id="gmv-aD-AoR" customClass="LGFavesNavigationController" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" systemItem="favorites" id="cfo-qP-8zZ"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="PVB-IL-9UU">
                         <autoresizingMask key="autoresizingMask"/>
@@ -164,7 +164,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <prototypes>
-                            <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="SoundCell" textLabel="GAT-CI-4lK" style="IBUITableViewCellStyleDefault" id="Rfl-5e-Jdl">
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="SoundCell" textLabel="GAT-CI-4lK" detailTextLabel="wZe-Bh-TS8" style="IBUITableViewCellStyleValue1" id="Rfl-5e-Jdl">
                                 <rect key="frame" x="0.0" y="86" width="320" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Rfl-5e-Jdl" id="3QB-O0-OaR">
@@ -172,10 +172,17 @@
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="GAT-CI-4lK">
-                                            <rect key="frame" x="15" y="0.0" width="290" height="43"/>
+                                            <rect key="frame" x="15" y="11" width="33" height="21"/>
                                             <autoresizingMask key="autoresizingMask"/>
-                                            <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                             <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Detail" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="wZe-Bh-TS8">
+                                            <rect key="frame" x="261" y="11" width="44" height="21"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <color key="textColor" red="0.55686274509803924" green="0.55686274509803924" blue="0.57647058823529407" alpha="1" colorSpace="calibratedRGB"/>
                                             <nil key="highlightedColor"/>
                                         </label>
                                     </subviews>
@@ -193,10 +200,10 @@
             </objects>
             <point key="canvasLocation" x="1574" y="-198"/>
         </scene>
-        <!--Navigation Controller - Community-->
+        <!--Community Navigation Controller - Community-->
         <scene sceneID="Zcf-oP-lnz">
             <objects>
-                <navigationController definesPresentationContext="YES" id="MIA-1Z-wyW" sceneMemberID="viewController">
+                <navigationController definesPresentationContext="YES" id="MIA-1Z-wyW" customClass="LGCommunityNavigationController" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="Community" image="first" id="59x-J3-WzY"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="r4J-AM-cMc">
                         <autoresizingMask key="autoresizingMask"/>

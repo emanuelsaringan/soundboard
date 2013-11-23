@@ -6,14 +6,14 @@
 //  Copyright (c) 2013 Emanuel Saringan. All rights reserved.
 //
 
-#import "LGPeopleViewController.h"
+#import "LGSound.h"
 #import "LGPerson.h"
 #import "LGSoundViewController.h"
+#import "LGPeopleViewController.h"
 
 @interface LGPeopleViewController ()
 
 @property (nonatomic, strong) NSMutableArray* objects;
-@property LGPerson* selectedPerson;
 
 @end
 
@@ -28,13 +28,26 @@
     return self;
 }
 
-- (void)viewDidLoad {
-    [super viewDidLoad];
-
-    // Uncomment the following line to preserve selection between presentations.
-    self.clearsSelectionOnViewWillAppear = NO;
+-(void) viewWillAppear:(BOOL)animated {
+    [super viewWillAppear:animated];
+    
+    // Load fave sounds
+    static NSString* favesFileName = @"faves.plist";
+    
+    NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
+    NSString *documentsDirectory = [paths objectAtIndex:0];
+    NSString *favesFile = [documentsDirectory stringByAppendingPathComponent:favesFileName];
+    
+    NSMutableArray* favesArr = [[NSMutableArray alloc] initWithContentsOfFile: favesFile];
+    NSMutableArray* faveCodesArr = [[NSMutableArray alloc] init];
+    NSInteger favesArrCnt = [favesArr count];
+    for (NSInteger i = 0; i < favesArrCnt; i++) {
+        NSDictionary* faveDict = [favesArr objectAtIndex:i];
+        [faveCodesArr addObject:[faveDict objectForKey:@"code" ]];
+    }
     
     // Load people from plist
+    [self.objects removeAllObjects];
     NSString* bundle = [[NSBundle mainBundle] pathForResource:@"people" ofType:@"plist"];
     NSArray* people = [NSArray arrayWithContentsOfFile:bundle];
     NSInteger cnt = [people count];
@@ -42,11 +55,34 @@
         NSDictionary* personDict = [people objectAtIndex:i];
         
         LGPerson* person = [[LGPerson alloc] init];
-        person.code = [personDict objectForKey:@"code"];
         person.name = [personDict objectForKey:@"name"];
+        
+        // Retrieve sounds
+        NSArray* sounds = [personDict objectForKey:@"sounds"];
+        NSInteger soundsCnt = [sounds count];
+        
+        for (NSInteger j = 0; j < soundsCnt; j++) {
+            NSDictionary* soundDict = [sounds objectAtIndex:j];
+            
+            LGSound* sound = [[LGSound alloc] init];
+            sound.code = [soundDict objectForKey:@"code"];
+            sound.label = [soundDict objectForKey:@"label"];
+            sound.isFave = [faveCodesArr containsObject:sound.code];
+            
+            [person.sounds addObject:sound];
+        }
         
         [self insertNewObject:person];
     }
+    
+    [self.tableView reloadData];
+}
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+
+    // Uncomment the following line to preserve selection between presentations.
+    self.clearsSelectionOnViewWillAppear = NO;
 }
 
 -(void) insertNewObject:(LGPerson*) person {
@@ -80,23 +116,18 @@
     
     LGPerson* person = [self.objects objectAtIndex:indexPath.row];
     cell.textLabel.text = person.name;
+    cell.imageView.image = [UIImage imageNamed:@"pic.jpg"];
     
     return cell;
 }
 
-//-(void) tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-////    self.selectedPerson = [self.objects objectAtIndex:indexPath.row];
-////    [self performSegueWithIdentifier:@"person_sound" sender:self];
-////    NSLog(@"NO");
-//}
-
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
     if ([@"person_sound" isEqualToString:segue.identifier]) {
         NSIndexPath* indexPath = [self.tableView indexPathForSelectedRow];
-        self.selectedPerson = [self.objects objectAtIndex:indexPath.row];
+        LGPerson* selectedPerson = [self.objects objectAtIndex:indexPath.row];
         
         LGSoundViewController* soundViewController = (LGSoundViewController*)segue.destinationViewController;
-        soundViewController.person = self.selectedPerson;
+        soundViewController.person = selectedPerson;
     }
 }
 
