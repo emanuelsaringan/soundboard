@@ -111,6 +111,230 @@
                     <key>label</key>
                     <string>Deaf</string>
                 </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_deargod</string>
+                    
+                    <key>label</key>
+                    <string>Dear God</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_f15</string>
+                    
+                    <key>label</key>
+                    <string>F15</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_glee</string>
+                    
+                    <key>label</key>
+                    <string>Glee</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_imabed</string>
+                    
+                    <key>label</key>
+                    <string>I'm Abed</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_jeffscar</string>
+                    
+                    <key>label</key>
+                    <string>Jeff's Car</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_ladyparts</string>
+                    
+                    <key>label</key>
+                    <string>Lady Parts</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_mention</string>
+                    
+                    <key>label</key>
+                    <string>Mention</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_onmywatch</string>
+                    
+                    <key>label</key>
+                    <string>On My Watch</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_pam</string>
+                    
+                    <key>label</key>
+                    <string>Deaf</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_partyfoul</string>
+                    
+                    <key>label</key>
+                    <string>Party Foul</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_predator</string>
+                    
+                    <key>label</key>
+                    <string>Predator</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_predictable</string>
+                    
+                    <key>label</key>
+                    <string>Predictable</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_reacting</string>
+                    
+                    <key>label</key>
+                    <string>Reacting</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_recordscratch</string>
+                    
+                    <key>label</key>
+                    <string>Record Scratch</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_sexual</string>
+                    
+                    <key>label</key>
+                    <string>Sexual</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_sixseasonsandamovie</string>
+                    
+                    <key>label</key>
+                    <string>Six Seasons and a Movie</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_smile</string>
+                    
+                    <key>label</key>
+                    <string>Smile</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_socialcue</string>
+                    
+                    <key>label</key>
+                    <string>Social Cue</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_specialdrink</string>
+                    
+                    <key>label</key>
+                    <string>Special Drink</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_subdueyourguest</string>
+                    
+                    <key>label</key>
+                    <string>Subdue Your Guest</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_thumb</string>
+                    
+                    <key>label</key>
+                    <string>Thumb</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_troyandabed</string>
+                    
+                    <key>label</key>
+                    <string>Troy and Abed</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_xmasbritta</string>
+                    
+                    <key>label</key>
+                    <string>Xmas Britta</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_xmassad</string>
+                    
+                    <key>label</key>
+                    <string>Xmas Sad</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_xmasshirley</string>
+                    
+                    <key>label</key>
+                    <string>Xmas Shirley</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_xmastheme</string>
+                    
+                    <key>label</key>
+                    <string>Xmas Theme</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_xmastroy</string>
+                    
+                    <key>label</key>
+                    <string>Xmas Troy</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>abed_xmaswonderland</string>
+                    
+                    <key>label</key>
+                    <string>Xmas Wonderland</string>
+                </dict>
             </array>
         </dict>
         
@@ -122,26 +346,194 @@
             <array>
                 <dict>
                     <key>code</key>
-                    <string>2a</string>
+                    <string>annie_bigots</string>
                     
                     <key>label</key>
-                    <string>Goodbye</string>
+                    <string>Bigots</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>2b</string>
+                    <string>annie_blade</string>
                     
                     <key>label</key>
-                    <string>HAHA</string>
+                    <string>Blade</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>2c</string>
+                    <string>annie_boobbump</string>
                     
                     <key>label</key>
-                    <string>Baby</string>
+                    <string>Boob Bump</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_boopsex</string>
+                    
+                    <key>label</key>
+                    <string>Boop Sex</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_callmepsycho</string>
+                    
+                    <key>label</key>
+                    <string>Call Me Psycho</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_cheer</string>
+                    
+                    <key>label</key>
+                    <string>Cheer</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_cry</string>
+                    
+                    <key>label</key>
+                    <string>Cry</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_edisonout</string>
+                    
+                    <key>label</key>
+                    <string>Edison Out</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_friendlyfire</string>
+                    
+                    <key>label</key>
+                    <string>Friendly Fire</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_gay</string>
+                    
+                    <key>label</key>
+                    <string>Gay</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_horney</string>
+                    
+                    <key>label</key>
+                    <string>Horney</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_large</string>
+                    
+                    <key>label</key>
+                    <string>Large</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_pregnant</string>
+                    
+                    <key>label</key>
+                    <string>Pregnant</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_raisins</string>
+                    
+                    <key>label</key>
+                    <string>Raisins</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_thething</string>
+                    
+                    <key>label</key>
+                    <string>The Thing</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_turtleneck</string>
+                    
+                    <key>label</key>
+                    <string>Turtleneck</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_tuttut</string>
+                    
+                    <key>label</key>
+                    <string>Tut Tut</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_uhh</string>
+                    
+                    <key>label</key>
+                    <string>Uhh</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_unpopular</string>
+                    
+                    <key>label</key>
+                    <string>Unpopular</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_waiting</string>
+                    
+                    <key>label</key>
+                    <string>Waiting</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_withdrawn</string>
+                    
+                    <key>label</key>
+                    <string>Withdrawn</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_xmashipster</string>
+                    
+                    <key>label</key>
+                    <string>Xmas Hipster</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_xmassong</string>
+                    
+                    <key>label</key>
+                    <string>Xmas Song</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>annie_zambia</string>
+                    
+                    <key>label</key>
+                    <string>Zambia</string>
                 </dict>
             </array>
         </dict>
@@ -154,26 +546,306 @@
             <array>
                 <dict>
                     <key>code</key>
-                    <string>3a</string>
+                    <string>britta_alongline</string>
                     
                     <key>label</key>
-                    <string>Fat</string>
+                    <string>A Long Line</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>3b</string>
+                    <string>britta_alotofsoftserve</string>
                     
                     <key>label</key>
-                    <string>DERP</string>
+                    <string>A Lot of Soft Serve</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>3c</string>
+                    <string>britta_analogy</string>
                     
                     <key>label</key>
-                    <string>Macbook Air</string>
+                    <string>Analogy</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_answers</string>
+                    
+                    <key>label</key>
+                    <string>Answers</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_autoworkers</string>
+                    
+                    <key>label</key>
+                    <string>Autoworkers</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_awkwardsong</string>
+                    
+                    <key>label</key>
+                    <string>Awkward Song</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_bang</string>
+                    
+                    <key>label</key>
+                    <string>Bang</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_cancer</string>
+                    
+                    <key>label</key>
+                    <string>Cancer</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_closure</string>
+                    
+                    <key>label</key>
+                    <string>Closure</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_complisult</string>
+                    
+                    <key>label</key>
+                    <string>Complisult</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_dumbgaydad</string>
+                    
+                    <key>label</key>
+                    <string>Dumb Gay Dad</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_excuseme</string>
+                    
+                    <key>label</key>
+                    <string>Excuse Me</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_flavourcountry</string>
+                    
+                    <key>label</key>
+                    <string>Flavour Country</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_ftw</string>
+                    
+                    <key>label</key>
+                    <string>FTW</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_genie</string>
+                    
+                    <key>label</key>
+                    <string>Genie</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_gravedanger</string>
+                    
+                    <key>label</key>
+                    <string>Grave Danger</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_heyjesus</string>
+                    
+                    <key>label</key>
+                    <string>Hey Jesus</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_homophobe</string>
+                    
+                    <key>label</key>
+                    <string>Homophobe</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_hugbutton</string>
+                    
+                    <key>label</key>
+                    <string>Hug Button</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_kisshim</string>
+                    
+                    <key>label</key>
+                    <string>Kiss Him</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_memorypops</string>
+                    
+                    <key>label</key>
+                    <string>Memory Pops</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_myfinal</string>
+                    
+                    <key>label</key>
+                    <string>My Final</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_peedalone</string>
+                    
+                    <key>label</key>
+                    <string>Peed Alone</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_pewpew</string>
+                    
+                    <key>label</key>
+                    <string>Pew Pew</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_pizza</string>
+                    
+                    <key>label</key>
+                    <string>Pizza</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_pleasureunit</string>
+                    
+                    <key>label</key>
+                    <string>Pleasure Unit</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_pointyface</string>
+                    
+                    <key>label</key>
+                    <string>Pointy Face</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_psych101</string>
+                    
+                    <key>label</key>
+                    <string>Psych 101</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_racistpedophiles</string>
+                    
+                    <key>label</key>
+                    <string>Racist Pedophiles</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_rage</string>
+                    
+                    <key>label</key>
+                    <string>Rage</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_rowboat</string>
+                    
+                    <key>label</key>
+                    <string>Row Boat</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_subway</string>
+                    
+                    <key>label</key>
+                    <string>Subway</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_turd</string>
+                    
+                    <key>label</key>
+                    <string>Turd</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_unbang</string>
+                    
+                    <key>label</key>
+                    <string>Unbang</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_wesleysnipes</string>
+                    
+                    <key>label</key>
+                    <string>Wesley Snipes</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_whiteproblems</string>
+                    
+                    <key>label</key>
+                    <string>White Problems</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_woah</string>
+                    
+                    <key>label</key>
+                    <string>Woah</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>britta_youpeople</string>
+                    
+                    <key>label</key>
+                    <string>You People</string>
                 </dict>
             </array>
         </dict>
@@ -186,26 +858,314 @@
             <array>
                 <dict>
                     <key>code</key>
-                    <string>4a</string>
+                    <string>jeff_anniesprettyyoung</string>
                     
                     <key>label</key>
-                    <string>Yahoo</string>
+                    <string>Annie's Pretty Young</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>4b</string>
+                    <string>jeff_benchang</string>
                     
                     <key>label</key>
-                    <string>Google</string>
+                    <string>Ben Chang</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>4c</string>
+                    <string>jeff_bitchdog</string>
                     
                     <key>label</key>
-                    <string>Microsoft</string>
+                    <string>Bitch Dog</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_changry</string>
+                    
+                    <key>label</key>
+                    <string>Changry</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_checkmate</string>
+                    
+                    <key>label</key>
+                    <string>Checkmate</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_chucknorris</string>
+                    
+                    <key>label</key>
+                    <string>Chuck Norris</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_congrahorrible</string>
+                    
+                    <key>label</key>
+                    <string>Congrahorrible</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_dean</string>
+                    
+                    <key>label</key>
+                    <string>Dean</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_diealone</string>
+                    
+                    <key>label</key>
+                    <string>Die Alone</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_drinking</string>
+                    
+                    <key>label</key>
+                    <string>Drinking</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_ferrari</string>
+                    
+                    <key>label</key>
+                    <string>Ferrari</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_football</string>
+                    
+                    <key>label</key>
+                    <string>Football</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_glee</string>
+                    
+                    <key>label</key>
+                    <string>Glee</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_goldblum</string>
+                    
+                    <key>label</key>
+                    <string>Goldblum</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_grapplinghooks</string>
+                    
+                    <key>label</key>
+                    <string>Grappling Hooks</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_groovy</string>
+                    
+                    <key>label</key>
+                    <string>Groovy</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_groups</string>
+                    
+                    <key>label</key>
+                    <string>Groups</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_harrisonford</string>
+                    
+                    <key>label</key>
+                    <string>Harrison Ford</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_herpes</string>
+                    
+                    <key>label</key>
+                    <string>Herpes</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_isreal</string>
+                    
+                    <key>label</key>
+                    <string>Is Real</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_killus</string>
+                    
+                    <key>label</key>
+                    <string>Kill Us</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_laid</string>
+                    
+                    <key>label</key>
+                    <string>Laid</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_learn</string>
+                    
+                    <key>label</key>
+                    <string>Learn</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_leonard</string>
+                    
+                    <key>label</key>
+                    <string>Leonard</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_mantis</string>
+                    
+                    <key>label</key>
+                    <string>Mantis</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_menaremonsters</string>
+                    
+                    <key>label</key>
+                    <string>Men Are Monsters</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_nancyscrew</string>
+                    
+                    <key>label</key>
+                    <string>Nancy Screw</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_no</string>
+                    
+                    <key>label</key>
+                    <string>No</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_notracist</string>
+                    
+                    <key>label</key>
+                    <string>Not Racist</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_oldcrazy</string>
+                    
+                    <key>label</key>
+                    <string>Old Crazy</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_older</string>
+                    
+                    <key>label</key>
+                    <string>Older</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_pairofdreams</string>
+                    
+                    <key>label</key>
+                    <string>Pair of Dreams</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_problems</string>
+                    
+                    <key>label</key>
+                    <string>Problems</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_romance</string>
+                    
+                    <key>label</key>
+                    <string>Romance</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_sauce</string>
+                    
+                    <key>label</key>
+                    <string>Sauce</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_scaryworld</string>
+                    
+                    <key>label</key>
+                    <string>Scary World</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_seemenude</string>
+                    
+                    <key>label</key>
+                    <string>See Me Nude</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_seeyouinhell</string>
+                    
+                    <key>label</key>
+                    <string>See You In Hell</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_sharkweek</string>
+                    
+                    <key>label</key>
+                    <string>Shark Week</string>
                 </dict>
             </array>
         </dict>
@@ -314,26 +1274,386 @@
             <array>
                 <dict>
                     <key>code</key>
-                    <string>8a</string>
+                    <string>chang_alotofchicks</string>
                     
                     <key>label</key>
-                    <string>Ching</string>
+                    <string>A Lot of Chicks</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>8b</string>
+                    <string>chang_backofmy</string>
                     
                     <key>label</key>
-                    <string>Chong</string>
+                    <string>Back of My</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>8c</string>
+                    <string>chang_body</string>
                     
                     <key>label</key>
-                    <string>Chang</string>
+                    <string>Body</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_bowwow</string>
+                    
+                    <key>label</key>
+                    <string>Bow Wow</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_bsmeter</string>
+                    
+                    <key>label</key>
+                    <string>BS Meter</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_buenosdias</string>
+                    
+                    <key>label</key>
+                    <string>Buenos Dias</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_chachang</string>
+                    
+                    <key>label</key>
+                    <string>Cha Chang</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_changd</string>
+                    
+                    <key>label</key>
+                    <string>Changd</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_changuage</string>
+                    
+                    <key>label</key>
+                    <string>Changuage</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_crazy</string>
+                    
+                    <key>label</key>
+                    <string>Crazy</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_crying</string>
+                    
+                    <key>label</key>
+                    <string>Crying</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_donttell</string>
+                    
+                    <key>label</key>
+                    <string>Don't Tell</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_drunkandstupid</string>
+                    
+                    <key>label</key>
+                    <string>Drunk and Stupid</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_f</string>
+                    
+                    <key>label</key>
+                    <string>F</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_feeltheheat</string>
+                    
+                    <key>label</key>
+                    <string>Feel The Heat</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_gay</string>
+                    
+                    <key>label</key>
+                    <string>Gay</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_gayfact</string>
+                    
+                    <key>label</key>
+                    <string>Gay Fact</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_giveitup</string>
+                    
+                    <key>label</key>
+                    <string>Give It Up</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_guilty</string>
+                    
+                    <key>label</key>
+                    <string>Guilty</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_hands</string>
+                    
+                    <key>label</key>
+                    <string>Hands</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_homealone</string>
+                    
+                    <key>label</key>
+                    <string>Home Alone</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_keepdoingthat</string>
+                    
+                    <key>label</key>
+                    <string>Keep Doing That</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_keytar</string>
+                    
+                    <key>label</key>
+                    <string>Keytar</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_korean</string>
+                    
+                    <key>label</key>
+                    <string>Korean</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_ladies</string>
+                    
+                    <key>label</key>
+                    <string>Ladies</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_metme</string>
+                    
+                    <key>label</key>
+                    <string>Met Me</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_mexicanhalloween</string>
+                    
+                    <key>label</key>
+                    <string>Mexican Halloween</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_neverdie</string>
+                    
+                    <key>label</key>
+                    <string>Never Die</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_nine</string>
+                    
+                    <key>label</key>
+                    <string>Nine</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_paintball</string>
+                    
+                    <key>label</key>
+                    <string>Paintball</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_pecs</string>
+                    
+                    <key>label</key>
+                    <string>Pecs</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_pitterpatter</string>
+                    
+                    <key>label</key>
+                    <string>Pitter Patter</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_preggers</string>
+                    
+                    <key>label</key>
+                    <string>Preggers</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_rabbitdragon</string>
+                    
+                    <key>label</key>
+                    <string>Rabbit Dragon</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_rap</string>
+                    
+                    <key>label</key>
+                    <string>Rap</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_robbed</string>
+                    
+                    <key>label</key>
+                    <string>Robbed</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_sex</string>
+                    
+                    <key>label</key>
+                    <string>Sex</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_snap</string>
+                    
+                    <key>label</key>
+                    <string>Snap</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_snarf</string>
+                    
+                    <key>label</key>
+                    <string>Snarf</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_sneaky</string>
+                    
+                    <key>label</key>
+                    <string>Sneaky</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_spanish</string>
+                    
+                    <key>label</key>
+                    <string>Spanish</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_spanishrap</string>
+                    
+                    <key>label</key>
+                    <string>Spanish Rap</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_sparechang</string>
+                    
+                    <key>label</key>
+                    <string>Spare Chang</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_tails</string>
+                    
+                    <key>label</key>
+                    <string>Tails</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_thesubject</string>
+                    
+                    <key>label</key>
+                    <string>The Subject</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_theworld</string>
+                    
+                    <key>label</key>
+                    <string>The World</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_turn</string>
+                    
+                    <key>label</key>
+                    <string>Turn</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>chang_usingit</string>
+                    
+                    <key>label</key>
+                    <string>Using It</string>
                 </dict>
             </array>
         </dict>
@@ -346,26 +1666,250 @@
             <array>
                 <dict>
                     <key>code</key>
-                    <string>9a</string>
+                    <string>dean_awken</string>
                     
                     <key>label</key>
-                    <string>McDonald's'</string>
+                    <string>Awken</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>9b</string>
+                    <string>dean_ballers</string>
                     
                     <key>label</key>
-                    <string>Taco Bell</string>
+                    <string>Ballers</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>9c</string>
+                    <string>dean_bitches</string>
                     
                     <key>label</key>
-                    <string>Burger King</string>
+                    <string>Bitches</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_brittainthis</string>
+                    
+                    <key>label</key>
+                    <string>Britta In This</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_caesarsalad</string>
+                    
+                    <key>label</key>
+                    <string>Caesar Salad</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_daylightsavings</string>
+                    
+                    <key>label</key>
+                    <string>Daylight Savings</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_deaneow</string>
+                    
+                    <key>label</key>
+                    <string>Deane Ow</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_dontgiveadean</string>
+                    
+                    <key>label</key>
+                    <string>Don't Give A Dean</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_driveby</string>
+                    
+                    <key>label</key>
+                    <string>Drive By</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_dualidean</string>
+                    
+                    <key>label</key>
+                    <string>Dualidean</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_everykind</string>
+                    
+                    <key>label</key>
+                    <string>Every Kind</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_eyesclosed</string>
+                    
+                    <key>label</key>
+                    <string>Eyes Closed</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_gay</string>
+                    
+                    <key>label</key>
+                    <string>Gay</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_gaymarriage</string>
+                    
+                    <key>label</key>
+                    <string>Gay Marriage</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_handicap</string>
+                    
+                    <key>label</key>
+                    <string>Handicap</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_jeffissexy</string>
+                    
+                    <key>label</key>
+                    <string>Jeff Is Sexy</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_jerkwad</string>
+                    
+                    <key>label</key>
+                    <string>Jerk Wad</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_lookatthisshadow</string>
+                    
+                    <key>label</key>
+                    <string>Look At This Shadow</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_low</string>
+                    
+                    <key>label</key>
+                    <string>Low</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_machine</string>
+                    
+                    <key>label</key>
+                    <string>Machine</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_monkeyhotel</string>
+                    
+                    <key>label</key>
+                    <string>Monkey Hotel</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_mountdean</string>
+                    
+                    <key>label</key>
+                    <string>Mount Dean</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_musicdepartment</string>
+                    
+                    <key>label</key>
+                    <string>Music Department</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_nehao</string>
+                    
+                    <key>label</key>
+                    <string>Nehao</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_puppyparade</string>
+                    
+                    <key>label</key>
+                    <string>Puppy Parade</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_seal</string>
+                    
+                    <key>label</key>
+                    <string>Seal</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_sweetdeans</string>
+                    
+                    <key>label</key>
+                    <string>Sweet Deans</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_therapist</string>
+                    
+                    <key>label</key>
+                    <string>Therapist</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_timehoodie</string>
+                    
+                    <key>label</key>
+                    <string>Time Hoodie</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_trickordean</string>
+                    
+                    <key>label</key>
+                    <string>Trick or Dean</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>dean_yoko</string>
+                    
+                    <key>label</key>
+                    <string>Yoko</string>
                 </dict>
             </array>
         </dict>
