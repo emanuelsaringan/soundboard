@@ -6,6 +6,7 @@
 //  Copyright (c) 2013 Emanuel Saringan. All rights reserved.
 //
 
+#import <QuartzCore/QuartzCore.h>
 #import "LGSound.h"
 #import "LGPerson.h"
 #import "LGSoundViewController.h"
@@ -115,7 +116,7 @@
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"PersonCell" forIndexPath:indexPath];
     
     LGPerson* person = [self.objects objectAtIndex:indexPath.row];
-    cell.textLabel.text = person.name;
+    cell.textLabel.text = person.name;  
     cell.imageView.image = [UIImage imageNamed:@"pic.jpg"];
     
     return cell;

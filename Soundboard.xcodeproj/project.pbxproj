@@ -8,6 +8,195 @@
 
 /* Begin PBXBuildFile section */
 		D00BD84618403A170097D11F /* LGCommunityNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = D00BD84518403A170097D11F /* LGCommunityNavigationController.m */; };
+		D091AB68184619AD009EDF76 /* pierce_5to1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB67184619AD009EDF76 /* pierce_5to1.mp3 */; };
+		D091ABB0184619BF009EDF76 /* pierce_aintnoparty.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB69184619BF009EDF76 /* pierce_aintnoparty.mp3 */; };
+		D091ABB1184619BF009EDF76 /* pierce_alertnerd.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB6A184619BF009EDF76 /* pierce_alertnerd.mp3 */; };
+		D091ABB2184619BF009EDF76 /* pierce_areyouonweed.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB6B184619BF009EDF76 /* pierce_areyouonweed.mp3 */; };
+		D091ABB3184619BF009EDF76 /* pierce_bald.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB6C184619BF009EDF76 /* pierce_bald.mp3 */; };
+		D091ABB4184619BF009EDF76 /* pierce_bdaycake.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB6D184619BF009EDF76 /* pierce_bdaycake.mp3 */; };
+		D091ABB5184619BF009EDF76 /* pierce_bettygrable.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB6E184619BF009EDF76 /* pierce_bettygrable.mp3 */; };
+		D091ABB6184619BF009EDF76 /* pierce_blackpeople.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB6F184619BF009EDF76 /* pierce_blackpeople.mp3 */; };
+		D091ABB7184619BF009EDF76 /* pierce_britta.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB70184619BF009EDF76 /* pierce_britta.mp3 */; };
+		D091ABB8184619BF009EDF76 /* pierce_burner.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB71184619BF009EDF76 /* pierce_burner.mp3 */; };
+		D091ABB9184619BF009EDF76 /* pierce_burnthismotherdown.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB72184619BF009EDF76 /* pierce_burnthismotherdown.mp3 */; };
+		D091ABBA184619BF009EDF76 /* pierce_chinese.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB73184619BF009EDF76 /* pierce_chinese.mp3 */; };
+		D091ABBB184619BF009EDF76 /* pierce_cmon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB74184619BF009EDF76 /* pierce_cmon.mp3 */; };
+		D091ABBC184619BF009EDF76 /* pierce_dialitback.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB75184619BF009EDF76 /* pierce_dialitback.mp3 */; };
+		D091ABBD184619BF009EDF76 /* pierce_dryspell.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB76184619BF009EDF76 /* pierce_dryspell.mp3 */; };
+		D091ABBE184619BF009EDF76 /* pierce_ear.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB77184619BF009EDF76 /* pierce_ear.mp3 */; };
+		D091ABBF184619BF009EDF76 /* pierce_erect.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB78184619BF009EDF76 /* pierce_erect.mp3 */; };
+		D091ABC0184619BF009EDF76 /* pierce_erections.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB79184619BF009EDF76 /* pierce_erections.mp3 */; };
+		D091ABC1184619BF009EDF76 /* pierce_excuseme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB7A184619BF009EDF76 /* pierce_excuseme.mp3 */; };
+		D091ABC2184619BF009EDF76 /* pierce_explosioin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB7B184619BF009EDF76 /* pierce_explosioin.mp3 */; };
+		D091ABC3184619BF009EDF76 /* pierce_fight.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB7C184619BF009EDF76 /* pierce_fight.mp3 */; };
+		D091ABC4184619BF009EDF76 /* pierce_firstofall.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB7D184619BF009EDF76 /* pierce_firstofall.mp3 */; };
+		D091ABC5184619BF009EDF76 /* pierce_garfunkel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB7E184619BF009EDF76 /* pierce_garfunkel.mp3 */; };
+		D091ABC6184619BF009EDF76 /* pierce_gayguess.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB7F184619BF009EDF76 /* pierce_gayguess.mp3 */; };
+		D091ABC7184619BF009EDF76 /* pierce_gaysex.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB80184619BF009EDF76 /* pierce_gaysex.mp3 */; };
+		D091ABC8184619BF009EDF76 /* pierce_genius.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB81184619BF009EDF76 /* pierce_genius.mp3 */; };
+		D091ABC9184619BF009EDF76 /* pierce_guilt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB82184619BF009EDF76 /* pierce_guilt.mp3 */; };
+		D091ABCA184619BF009EDF76 /* pierce_hatesamerica.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB83184619BF009EDF76 /* pierce_hatesamerica.mp3 */; };
+		D091ABCB184619BF009EDF76 /* pierce_heyguys.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB84184619BF009EDF76 /* pierce_heyguys.mp3 */; };
+		D091ABCC184619BF009EDF76 /* pierce_huntpeople.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB85184619BF009EDF76 /* pierce_huntpeople.mp3 */; };
+		D091ABCD184619BF009EDF76 /* pierce_illbealivinggod.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB86184619BF009EDF76 /* pierce_illbealivinggod.mp3 */; };
+		D091ABCE184619BF009EDF76 /* pierce_inmyday.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB87184619BF009EDF76 /* pierce_inmyday.mp3 */; };
+		D091ABCF184619BF009EDF76 /* pierce_insult1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB88184619BF009EDF76 /* pierce_insult1.mp3 */; };
+		D091ABD0184619BF009EDF76 /* pierce_insult2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB89184619BF009EDF76 /* pierce_insult2.mp3 */; };
+		D091ABD1184619BF009EDF76 /* pierce_iwasdead.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB8A184619BF009EDF76 /* pierce_iwasdead.mp3 */; };
+		D091ABD2184619BF009EDF76 /* pierce_killyourfamilies.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB8B184619BF009EDF76 /* pierce_killyourfamilies.mp3 */; };
+		D091ABD3184619BF009EDF76 /* pierce_marrythem.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB8C184619BF009EDF76 /* pierce_marrythem.mp3 */; };
+		D091ABD4184619BF009EDF76 /* pierce_mensroom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB8D184619BF009EDF76 /* pierce_mensroom.mp3 */; };
+		D091ABD5184619BF009EDF76 /* pierce_monkeyshots.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB8E184619BF009EDF76 /* pierce_monkeyshots.mp3 */; };
+		D091ABD6184619BF009EDF76 /* pierce_moustache.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB8F184619BF009EDF76 /* pierce_moustache.mp3 */; };
+		D091ABD7184619BF009EDF76 /* pierce_myplatform.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB90184619BF009EDF76 /* pierce_myplatform.mp3 */; };
+		D091ABD8184619BF009EDF76 /* pierce_nietzsche.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB91184619BF009EDF76 /* pierce_nietzsche.mp3 */; };
+		D091ABD9184619BF009EDF76 /* pierce_northkorean.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB92184619BF009EDF76 /* pierce_northkorean.mp3 */; };
+		D091ABDA184619BF009EDF76 /* pierce_obamasamerica.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB93184619BF009EDF76 /* pierce_obamasamerica.mp3 */; };
+		D091ABDB184619BF009EDF76 /* pierce_operation.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB94184619BF009EDF76 /* pierce_operation.mp3 */; };
+		D091ABDC184619BF009EDF76 /* pierce_party.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB95184619BF009EDF76 /* pierce_party.mp3 */; };
+		D091ABDD184619BF009EDF76 /* pierce_pillowfight.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB96184619BF009EDF76 /* pierce_pillowfight.mp3 */; };
+		D091ABDE184619BF009EDF76 /* pierce_pocketphone.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB97184619BF009EDF76 /* pierce_pocketphone.mp3 */; };
+		D091ABDF184619BF009EDF76 /* pierce_poop.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB98184619BF009EDF76 /* pierce_poop.mp3 */; };
+		D091ABE0184619BF009EDF76 /* pierce_rainbow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB99184619BF009EDF76 /* pierce_rainbow.mp3 */; };
+		D091ABE1184619BF009EDF76 /* pierce_sausage.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB9A184619BF009EDF76 /* pierce_sausage.mp3 */; };
+		D091ABE2184619BF009EDF76 /* pierce_shesfat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB9B184619BF009EDF76 /* pierce_shesfat.mp3 */; };
+		D091ABE3184619BF009EDF76 /* pierce_sneakattack.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB9C184619BF009EDF76 /* pierce_sneakattack.mp3 */; };
+		D091ABE4184619BF009EDF76 /* pierce_somalia.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB9D184619BF009EDF76 /* pierce_somalia.mp3 */; };
+		D091ABE5184619BF009EDF76 /* pierce_sperm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB9E184619BF009EDF76 /* pierce_sperm.mp3 */; };
+		D091ABE6184619BF009EDF76 /* pierce_straighttohell.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AB9F184619BF009EDF76 /* pierce_straighttohell.mp3 */; };
+		D091ABE7184619BF009EDF76 /* pierce_streetsahead.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABA0184619BF009EDF76 /* pierce_streetsahead.mp3 */; };
+		D091ABE8184619BF009EDF76 /* pierce_tbd.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABA1184619BF009EDF76 /* pierce_tbd.mp3 */; };
+		D091ABE9184619BF009EDF76 /* pierce_theyareruthless.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABA2184619BF009EDF76 /* pierce_theyareruthless.mp3 */; };
+		D091ABEA184619BF009EDF76 /* pierce_theyregay.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABA3184619BF009EDF76 /* pierce_theyregay.mp3 */; };
+		D091ABEB184619BF009EDF76 /* pierce_tongue.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABA4184619BF009EDF76 /* pierce_tongue.mp3 */; };
+		D091ABEC184619BF009EDF76 /* pierce_tool.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABA5184619BF009EDF76 /* pierce_tool.mp3 */; };
+		D091ABED184619BF009EDF76 /* pierce_totally.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABA6184619BF009EDF76 /* pierce_totally.mp3 */; };
+		D091ABEE184619BF009EDF76 /* pierce_tweedle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABA7184619BF009EDF76 /* pierce_tweedle.mp3 */; };
+		D091ABEF184619BF009EDF76 /* pierce_vengance.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABA8184619BF009EDF76 /* pierce_vengance.mp3 */; };
+		D091ABF0184619BF009EDF76 /* pierce_vietnam.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABA9184619BF009EDF76 /* pierce_vietnam.mp3 */; };
+		D091ABF1184619BF009EDF76 /* pierce_voicecommand.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABAA184619BF009EDF76 /* pierce_voicecommand.mp3 */; };
+		D091ABF2184619BF009EDF76 /* pierce_whore.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABAB184619BF009EDF76 /* pierce_whore.mp3 */; };
+		D091ABF3184619BF009EDF76 /* pierce_whoresmanship.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABAC184619BF009EDF76 /* pierce_whoresmanship.mp3 */; };
+		D091ABF4184619BF009EDF76 /* pierce_wiener.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABAD184619BF009EDF76 /* pierce_wiener.mp3 */; };
+		D091ABF5184619BF009EDF76 /* pierce_yawn.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABAE184619BF009EDF76 /* pierce_yawn.mp3 */; };
+		D091ABF6184619BF009EDF76 /* pierce_youregay.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABAF184619BF009EDF76 /* pierce_youregay.mp3 */; };
+		D091AC121846217C009EDF76 /* shirley_asssense.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABF81846217C009EDF76 /* shirley_asssense.mp3 */; };
+		D091AC131846217C009EDF76 /* shirley_bdayjesus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABF91846217C009EDF76 /* shirley_bdayjesus.mp3 */; };
+		D091AC141846217C009EDF76 /* shirley_behave.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABFA1846217C009EDF76 /* shirley_behave.mp3 */; };
+		D091AC151846217C009EDF76 /* shirley_checkers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABFB1846217C009EDF76 /* shirley_checkers.mp3 */; };
+		D091AC161846217C009EDF76 /* shirley_cocaine.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABFC1846217C009EDF76 /* shirley_cocaine.mp3 */; };
+		D091AC171846217C009EDF76 /* shirley_cohabitation.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABFD1846217C009EDF76 /* shirley_cohabitation.mp3 */; };
+		D091AC181846217C009EDF76 /* shirley_damn.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABFE1846217C009EDF76 /* shirley_damn.mp3 */; };
+		D091AC191846217C009EDF76 /* shirley_godmad.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091ABFF1846217C009EDF76 /* shirley_godmad.mp3 */; };
+		D091AC1A1846217C009EDF76 /* shirley_hateme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC001846217C009EDF76 /* shirley_hateme.mp3 */; };
+		D091AC1B1846217C009EDF76 /* shirley_immadie.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC011846217C009EDF76 /* shirley_immadie.mp3 */; };
+		D091AC1C1846217C009EDF76 /* shirley_kegstand.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC021846217C009EDF76 /* shirley_kegstand.mp3 */; };
+		D091AC1D1846217C009EDF76 /* shirley_ladiesroom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC031846217C009EDF76 /* shirley_ladiesroom.mp3 */; };
+		D091AC1E1846217C009EDF76 /* shirley_livinginyourcar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC041846217C009EDF76 /* shirley_livinginyourcar.mp3 */; };
+		D091AC1F1846217C009EDF76 /* shirley_marijuanalighter.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC051846217C009EDF76 /* shirley_marijuanalighter.mp3 */; };
+		D091AC201846217C009EDF76 /* shirley_megan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC061846217C009EDF76 /* shirley_megan.mp3 */; };
+		D091AC211846217C009EDF76 /* shirley_pity.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC071846217C009EDF76 /* shirley_pity.mp3 */; };
+		D091AC221846217C009EDF76 /* shirley_pumpkinass.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC081846217C009EDF76 /* shirley_pumpkinass.mp3 */; };
+		D091AC231846217C009EDF76 /* shirley_rascist.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC091846217C009EDF76 /* shirley_rascist.mp3 */; };
+		D091AC241846217C009EDF76 /* shirley_sassy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC0A1846217C009EDF76 /* shirley_sassy.mp3 */; };
+		D091AC251846217C009EDF76 /* shirley_scriptureme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC0B1846217C009EDF76 /* shirley_scriptureme.mp3 */; };
+		D091AC261846217C009EDF76 /* shirley_skinnybitches.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC0C1846217C009EDF76 /* shirley_skinnybitches.mp3 */; };
+		D091AC271846217C009EDF76 /* shirley_soundslike.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC0D1846217C009EDF76 /* shirley_soundslike.mp3 */; };
+		D091AC281846217C009EDF76 /* shirley_stepaside.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC0E1846217C009EDF76 /* shirley_stepaside.mp3 */; };
+		D091AC291846217C009EDF76 /* shirley_sun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC0F1846217C009EDF76 /* shirley_sun.mp3 */; };
+		D091AC2A1846217C009EDF76 /* shirley_witch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC101846217C009EDF76 /* shirley_witch.mp3 */; };
+		D091AC2B1846217C009EDF76 /* shirley_wizard.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC111846217C009EDF76 /* shirley_wizard.mp3 */; };
+		D091AC881846258D009EDF76 /* troy_69th.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC2D1846258C009EDF76 /* troy_69th.mp3 */; };
+		D091AC891846258D009EDF76 /* troy_afteranniesboobs.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC2E1846258C009EDF76 /* troy_afteranniesboobs.mp3 */; };
+		D091AC8A1846258D009EDF76 /* troy_alliheardwassuck.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC2F1846258C009EDF76 /* troy_alliheardwassuck.mp3 */; };
+		D091AC8B1846258D009EDF76 /* troy_allterrain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC301846258C009EDF76 /* troy_allterrain.mp3 */; };
+		D091AC8C1846258D009EDF76 /* troy_alltomato.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC311846258C009EDF76 /* troy_alltomato.mp3 */; };
+		D091AC8D1846258D009EDF76 /* troy_analogy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC321846258C009EDF76 /* troy_analogy.mp3 */; };
+		D091AC8E1846258D009EDF76 /* troy_animalhospital.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC331846258C009EDF76 /* troy_animalhospital.mp3 */; };
+		D091AC8F1846258D009EDF76 /* troy_anniesboobs.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC341846258C009EDF76 /* troy_anniesboobs.mp3 */; };
+		D091AC901846258D009EDF76 /* troy_ateit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC351846258C009EDF76 /* troy_ateit.mp3 */; };
+		D091AC911846258D009EDF76 /* troy_attofpeople.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC361846258C009EDF76 /* troy_attofpeople.mp3 */; };
+		D091AC921846258D009EDF76 /* troy_beblack.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC371846258C009EDF76 /* troy_beblack.mp3 */; };
+		D091AC931846258D009EDF76 /* troy_bloodmoney.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC381846258C009EDF76 /* troy_bloodmoney.mp3 */; };
+		D091AC941846258D009EDF76 /* troy_boner.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC391846258C009EDF76 /* troy_boner.mp3 */; };
+		D091AC951846258D009EDF76 /* troy_booty.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC3A1846258C009EDF76 /* troy_booty.mp3 */; };
+		D091AC961846258D009EDF76 /* troy_borninthe80s.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC3B1846258C009EDF76 /* troy_borninthe80s.mp3 */; };
+		D091AC971846258D009EDF76 /* troy_brain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC3C1846258C009EDF76 /* troy_brain.mp3 */; };
+		D091AC981846258D009EDF76 /* troy_catpenis.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC3D1846258C009EDF76 /* troy_catpenis.mp3 */; };
+		D091AC991846258D009EDF76 /* troy_chinesepowers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC3E1846258C009EDF76 /* troy_chinesepowers.mp3 */; };
+		D091AC9A1846258D009EDF76 /* troy_confessions.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC3F1846258C009EDF76 /* troy_confessions.mp3 */; };
+		D091AC9B1846258D009EDF76 /* troy_cookiewand.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC401846258C009EDF76 /* troy_cookiewand.mp3 */; };
+		D091AC9C1846258D009EDF76 /* troy_crabdip.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC411846258C009EDF76 /* troy_crabdip.mp3 */; };
+		D091AC9D1846258D009EDF76 /* troy_dad.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC421846258C009EDF76 /* troy_dad.mp3 */; };
+		D091AC9E1846258D009EDF76 /* troy_daybreak.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC431846258C009EDF76 /* troy_daybreak.mp3 */; };
+		D091AC9F1846258D009EDF76 /* troy_daybreaksad.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC441846258C009EDF76 /* troy_daybreaksad.mp3 */; };
+		D091ACA01846258D009EDF76 /* troy_doctor.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC451846258C009EDF76 /* troy_doctor.mp3 */; };
+		D091ACA11846258D009EDF76 /* troy_dracula.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC461846258C009EDF76 /* troy_dracula.mp3 */; };
+		D091ACA21846258D009EDF76 /* troy_eataghost.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC471846258C009EDF76 /* troy_eataghost.mp3 */; };
+		D091ACA31846258D009EDF76 /* troy_feet.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC481846258C009EDF76 /* troy_feet.mp3 */; };
+		D091ACA41846258D009EDF76 /* troy_football.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC491846258C009EDF76 /* troy_football.mp3 */; };
+		D091ACA51846258D009EDF76 /* troy_footballrap1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC4A1846258C009EDF76 /* troy_footballrap1.mp3 */; };
+		D091ACA61846258D009EDF76 /* troy_footballrap2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC4B1846258C009EDF76 /* troy_footballrap2.mp3 */; };
+		D091ACA71846258D009EDF76 /* troy_funvampire.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC4C1846258C009EDF76 /* troy_funvampire.mp3 */; };
+		D091ACA81846258D009EDF76 /* troy_genitals.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC4D1846258C009EDF76 /* troy_genitals.mp3 */; };
+		D091ACA91846258D009EDF76 /* troy_gentle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC4E1846258C009EDF76 /* troy_gentle.mp3 */; };
+		D091ACAA1846258D009EDF76 /* troy_gogurt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC4F1846258C009EDF76 /* troy_gogurt.mp3 */; };
+		D091ACAB1846258D009EDF76 /* troy_help.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC501846258C009EDF76 /* troy_help.mp3 */; };
+		D091ACAC1846258D009EDF76 /* troy_howmanylies.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC511846258C009EDF76 /* troy_howmanylies.mp3 */; };
+		D091ACAD1846258D009EDF76 /* troy_howyoulivin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC521846258C009EDF76 /* troy_howyoulivin.mp3 */; };
+		D091ACAE1846258D009EDF76 /* troy_hurry.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC531846258C009EDF76 /* troy_hurry.mp3 */; };
+		D091ACAF1846258D009EDF76 /* troy_huzzah.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC541846258C009EDF76 /* troy_huzzah.mp3 */; };
+		D091ACB01846258D009EDF76 /* troy_huzzahsad.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC551846258C009EDF76 /* troy_huzzahsad.mp3 */; };
+		D091ACB11846258D009EDF76 /* troy_idontunderstand.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC561846258C009EDF76 /* troy_idontunderstand.mp3 */; };
+		D091ACB21846258D009EDF76 /* troy_ihateyoupierce.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC571846258C009EDF76 /* troy_ihateyoupierce.mp3 */; };
+		D091ACB31846258D009EDF76 /* troy_ijustwantedapicture.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC581846258C009EDF76 /* troy_ijustwantedapicture.mp3 */; };
+		D091ACB41846258D009EDF76 /* troy_ijustwantedapicturelong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC591846258C009EDF76 /* troy_ijustwantedapicturelong.mp3 */; };
+		D091ACB51846258D009EDF76 /* troy_intimacy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC5A1846258C009EDF76 /* troy_intimacy.mp3 */; };
+		D091ACB61846258D009EDF76 /* troy_jackson.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC5B1846258C009EDF76 /* troy_jackson.mp3 */; };
+		D091ACB71846258D009EDF76 /* troy_jumptheshark.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC5C1846258D009EDF76 /* troy_jumptheshark.mp3 */; };
+		D091ACB81846258D009EDF76 /* troy_kettlecorn.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC5D1846258D009EDF76 /* troy_kettlecorn.mp3 */; };
+		D091ACB91846258D009EDF76 /* troy_lickit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC5E1846258D009EDF76 /* troy_lickit.mp3 */; };
+		D091ACBA1846258D009EDF76 /* troy_lightning.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC5F1846258D009EDF76 /* troy_lightning.mp3 */; };
+		D091ACBB1846258D009EDF76 /* troy_likeness.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC601846258D009EDF76 /* troy_likeness.mp3 */; };
+		D091ACBC1846258D009EDF76 /* troy_linebacker.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC611846258D009EDF76 /* troy_linebacker.mp3 */; };
+		D091ACBD1846258D009EDF76 /* troy_marketprice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC621846258D009EDF76 /* troy_marketprice.mp3 */; };
+		D091ACBE1846258D009EDF76 /* troy_multiplepersonalities.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC631846258D009EDF76 /* troy_multiplepersonalities.mp3 */; };
+		D091ACBF1846258D009EDF76 /* troy_myemotions.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC641846258D009EDF76 /* troy_myemotions.mp3 */; };
+		D091ACC01846258D009EDF76 /* troy_mymom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC651846258D009EDF76 /* troy_mymom.mp3 */; };
+		D091ACC11846258D009EDF76 /* troy_notdrugs.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC661846258D009EDF76 /* troy_notdrugs.mp3 */; };
+		D091ACC21846258D009EDF76 /* troy_omgjoshua.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC671846258D009EDF76 /* troy_omgjoshua.mp3 */; };
+		D091ACC31846258D009EDF76 /* troy_parkedbyameter.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC681846258D009EDF76 /* troy_parkedbyameter.mp3 */; };
+		D091ACC41846258D009EDF76 /* troy_pepperwatter.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC691846258D009EDF76 /* troy_pepperwatter.mp3 */; };
+		D091ACC51846258D009EDF76 /* troy_popwhat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC6A1846258D009EDF76 /* troy_popwhat.mp3 */; };
+		D091ACC61846258D009EDF76 /* troy_punchedintheface.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC6B1846258D009EDF76 /* troy_punchedintheface.mp3 */; };
+		D091ACC71846258D009EDF76 /* troy_raft.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC6C1846258D009EDF76 /* troy_raft.mp3 */; };
+		D091ACC81846258D009EDF76 /* troy_randomdessert.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC6D1846258D009EDF76 /* troy_randomdessert.mp3 */; };
+		D091ACC91846258D009EDF76 /* troy_randy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC6E1846258D009EDF76 /* troy_randy.mp3 */; };
+		D091ACCA1846258D009EDF76 /* troy_repairman.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC6F1846258D009EDF76 /* troy_repairman.mp3 */; };
+		D091ACCB1846258D009EDF76 /* troy_richpeople.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC701846258D009EDF76 /* troy_richpeople.mp3 */; };
+		D091ACCC1846258D009EDF76 /* troy_right.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC711846258D009EDF76 /* troy_right.mp3 */; };
+		D091ACCD1846258D009EDF76 /* troy_setphasers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC721846258D009EDF76 /* troy_setphasers.mp3 */; };
+		D091ACCE1846258D009EDF76 /* troy_sex.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC731846258D009EDF76 /* troy_sex.mp3 */; };
+		D091ACCF1846258D009EDF76 /* troy_slut.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC741846258D009EDF76 /* troy_slut.mp3 */; };
+		D091ACD01846258D009EDF76 /* troy_snake.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC751846258D009EDF76 /* troy_snake.mp3 */; };
+		D091ACD11846258D009EDF76 /* troy_snap.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC761846258D009EDF76 /* troy_snap.mp3 */; };
+		D091ACD21846258D009EDF76 /* troy_sneeze.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC771846258D009EDF76 /* troy_sneeze.mp3 */; };
+		D091ACD31846258D009EDF76 /* troy_soultrain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC781846258D009EDF76 /* troy_soultrain.mp3 */; };
+		D091ACD41846258D009EDF76 /* troy_spacemanpaninis.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC791846258D009EDF76 /* troy_spacemanpaninis.mp3 */; };
+		D091ACD51846258D009EDF76 /* troy_stalin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC7A1846258D009EDF76 /* troy_stalin.mp3 */; };
+		D091ACD61846258D009EDF76 /* troy_sugarbear.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC7B1846258D009EDF76 /* troy_sugarbear.mp3 */; };
+		D091ACD71846258D009EDF76 /* troy_swim.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC7C1846258D009EDF76 /* troy_swim.mp3 */; };
+		D091ACD81846258D009EDF76 /* troy_ta.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC7D1846258D009EDF76 /* troy_ta.mp3 */; };
+		D091ACD91846258D009EDF76 /* troy_tarnish.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC7E1846258D009EDF76 /* troy_tarnish.mp3 */; };
+		D091ACDA1846258D009EDF76 /* troy_thinking.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC7F1846258D009EDF76 /* troy_thinking.mp3 */; };
+		D091ACDB1846258D009EDF76 /* troy_thoughtpolice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC801846258D009EDF76 /* troy_thoughtpolice.mp3 */; };
+		D091ACDC1846258D009EDF76 /* troy_transfusions.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC811846258D009EDF76 /* troy_transfusions.mp3 */; };
+		D091ACDD1846258D009EDF76 /* troy_trippin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC821846258D009EDF76 /* troy_trippin.mp3 */; };
+		D091ACDE1846258D009EDF76 /* troy_whitepeople.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC831846258D009EDF76 /* troy_whitepeople.mp3 */; };
+		D091ACDF1846258D009EDF76 /* troy_wholebrain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC841846258D009EDF76 /* troy_wholebrain.mp3 */; };
+		D091ACE01846258D009EDF76 /* troy_whosbetty.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC851846258D009EDF76 /* troy_whosbetty.mp3 */; };
+		D091ACE11846258D009EDF76 /* troy_xmas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC861846258D009EDF76 /* troy_xmas.mp3 */; };
+		D091ACE21846258D009EDF76 /* troy_youare.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D091AC871846258D009EDF76 /* troy_youare.mp3 */; };
 		D0A233591840B66300AF13C1 /* pic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D0A233581840B66300AF13C1 /* pic.jpg */; };
 		D0A233851840B9A500AF13C1 /* abed_911.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2335C1840B9A500AF13C1 /* abed_911.mp3 */; };
 		D0A233861840B9A500AF13C1 /* abed_aids.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0A2335D1840B9A500AF13C1 /* abed_aids.mp3 */; };
@@ -260,6 +449,58 @@
 		D0B062471841D7DC00D83CE0 /* jeff_toldyouso.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B062151841D7DC00D83CE0 /* jeff_toldyouso.mp3 */; };
 		D0B062481841D7DC00D83CE0 /* jeff_trombone.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B062161841D7DC00D83CE0 /* jeff_trombone.mp3 */; };
 		D0B062491841D7DC00D83CE0 /* jeff_walkaway.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B062171841D7DC00D83CE0 /* jeff_walkaway.mp3 */; };
+		D0B9DB6B1846116D00ACBEFB /* other_africa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB371846116D00ACBEFB /* other_africa.mp3 */; };
+		D0B9DB6C1846116D00ACBEFB /* other_alex.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB381846116D00ACBEFB /* other_alex.mp3 */; };
+		D0B9DB6D1846116D00ACBEFB /* other_anniessong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB391846116D00ACBEFB /* other_anniessong.mp3 */; };
+		D0B9DB6E1846116D00ACBEFB /* other_antioxidant.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB3A1846116D00ACBEFB /* other_antioxidant.mp3 */; };
+		D0B9DB6F1846116D00ACBEFB /* other_avemaria.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB3B1846116D00ACBEFB /* other_avemaria.mp3 */; };
+		D0B9DB701846116D00ACBEFB /* other_beastmaster.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB3C1846116D00ACBEFB /* other_beastmaster.mp3 */; };
+		D0B9DB711846116D00ACBEFB /* other_blow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB3D1846116D00ACBEFB /* other_blow.mp3 */; };
+		D0B9DB721846116D00ACBEFB /* other_boobs.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB3E1846116D00ACBEFB /* other_boobs.mp3 */; };
+		D0B9DB731846116D00ACBEFB /* other_byzeus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB3F1846116D00ACBEFB /* other_byzeus.mp3 */; };
+		D0B9DB741846116D00ACBEFB /* other_cake.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB401846116D00ACBEFB /* other_cake.mp3 */; };
+		D0B9DB751846116D00ACBEFB /* other_chillaxing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB411846116D00ACBEFB /* other_chillaxing.mp3 */; };
+		D0B9DB761846116D00ACBEFB /* other_crisis.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB421846116D00ACBEFB /* other_crisis.mp3 */; };
+		D0B9DB771846116D00ACBEFB /* other_duncanbitemybanger.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB431846116D00ACBEFB /* other_duncanbitemybanger.mp3 */; };
+		D0B9DB781846116D00ACBEFB /* other_duncanrap.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB441846116D00ACBEFB /* other_duncanrap.mp3 */; };
+		D0B9DB791846116D00ACBEFB /* other_evil.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB451846116D00ACBEFB /* other_evil.mp3 */; };
+		D0B9DB7A1846116D00ACBEFB /* other_finallybefine.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB461846116D00ACBEFB /* other_finallybefine.mp3 */; };
+		D0B9DB7B1846116D00ACBEFB /* other_garretsunny.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB471846116D00ACBEFB /* other_garretsunny.mp3 */; };
+		D0B9DB7C1846116D00ACBEFB /* other_kissedbyarose.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB481846116D00ACBEFB /* other_kissedbyarose.mp3 */; };
+		D0B9DB7D1846116D00ACBEFB /* other_knockknock.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB491846116D00ACBEFB /* other_knockknock.mp3 */; };
+		D0B9DB7E1846116D00ACBEFB /* other_labiblioteca.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB4A1846116D00ACBEFB /* other_labiblioteca.mp3 */; };
+		D0B9DB7F1846116D00ACBEFB /* other_leasttight.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB4B1846116D00ACBEFB /* other_leasttight.mp3 */; };
+		D0B9DB801846116D00ACBEFB /* other_leonardlikesthispost.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB4C1846116D00ACBEFB /* other_leonardlikesthispost.mp3 */; };
+		D0B9DB811846116D00ACBEFB /* other_leonardgaywads.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB4D1846116D00ACBEFB /* other_leonardgaywads.mp3 */; };
+		D0B9DB821846116D00ACBEFB /* other_magnitudepoppopcaptain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB4E1846116D00ACBEFB /* other_magnitudepoppopcaptain.mp3 */; };
+		D0B9DB831846116D00ACBEFB /* other_magnitudevsleonard.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB4F1846116D00ACBEFB /* other_magnitudevsleonard.mp3 */; };
+		D0B9DB841846116D00ACBEFB /* other_narratorakinto911.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB501846116D00ACBEFB /* other_narratorakinto911.mp3 */; };
+		D0B9DB851846116D00ACBEFB /* other_narratorenglishmemorial.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB511846116D00ACBEFB /* other_narratorenglishmemorial.mp3 */; };
+		D0B9DB861846116D00ACBEFB /* other_newapartment.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB521846116D00ACBEFB /* other_newapartment.mp3 */; };
+		D0B9DB871846116D00ACBEFB /* other_pocketfullofhawthornes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB531846116D00ACBEFB /* other_pocketfullofhawthornes.mp3 */; };
+		D0B9DB881846116D00ACBEFB /* other_poppop.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB541846116D00ACBEFB /* other_poppop.mp3 */; };
+		D0B9DB891846116D00ACBEFB /* other_poppop2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB551846116D00ACBEFB /* other_poppop2.mp3 */; };
+		D0B9DB8A1846116D00ACBEFB /* other_poppoppolitical.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB561846116D00ACBEFB /* other_poppoppolitical.mp3 */; };
+		D0B9DB8B1846116D00ACBEFB /* other_poppoppolitical2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB571846116D00ACBEFB /* other_poppoppolitical2.mp3 */; };
+		D0B9DB8C1846116D00ACBEFB /* other_pregnancyscarces.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB581846116D00ACBEFB /* other_pregnancyscarces.mp3 */; };
+		D0B9DB8D1846116D00ACBEFB /* other_realwars.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB591846116D00ACBEFB /* other_realwars.mp3 */; };
+		D0B9DB8E1846116D00ACBEFB /* other_sabotage.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB5A1846116D00ACBEFB /* other_sabotage.mp3 */; };
+		D0B9DB8F1846116D00ACBEFB /* other_sex.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB5B1846116D00ACBEFB /* other_sex.mp3 */; };
+		D0B9DB901846116D00ACBEFB /* other_someworries.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB5C1846116D00ACBEFB /* other_someworries.mp3 */; };
+		D0B9DB911846116D00ACBEFB /* other_song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB5D1846116D00ACBEFB /* other_song.mp3 */; };
+		D0B9DB921846116D00ACBEFB /* other_sonofabitch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB5E1846116D00ACBEFB /* other_sonofabitch.mp3 */; };
+		D0B9DB931846116D00ACBEFB /* other_soulbrother.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB5F1846116D00ACBEFB /* other_soulbrother.mp3 */; };
+		D0B9DB941846116D00ACBEFB /* other_takei.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB601846116D00ACBEFB /* other_takei.mp3 */; };
+		D0B9DB951846116D00ACBEFB /* other_testicles.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB611846116D00ACBEFB /* other_testicles.mp3 */; };
+		D0B9DB961846116D00ACBEFB /* other_toddfoundaturtle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB621846116D00ACBEFB /* other_toddfoundaturtle.mp3 */; };
+		D0B9DB971846116D00ACBEFB /* other_troyabedpiercexmas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB631846116D00ACBEFB /* other_troyabedpiercexmas.mp3 */; };
+		D0B9DB981846116D00ACBEFB /* other_troyandabedbeingnormal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB641846116D00ACBEFB /* other_troyandabedbeingnormal.mp3 */; };
+		D0B9DB991846116D00ACBEFB /* other_vaughnrap.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB651846116D00ACBEFB /* other_vaughnrap.mp3 */; };
+		D0B9DB9A1846116D00ACBEFB /* other_vicki.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB661846116D00ACBEFB /* other_vicki.mp3 */; };
+		D0B9DB9B1846116D00ACBEFB /* other_whitewoman.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB671846116D00ACBEFB /* other_whitewoman.mp3 */; };
+		D0B9DB9C1846116D00ACBEFB /* other_xmasisfor.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB681846116D00ACBEFB /* other_xmasisfor.mp3 */; };
+		D0B9DB9D1846116D00ACBEFB /* other_yourgod.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB691846116D00ACBEFB /* other_yourgod.mp3 */; };
+		D0B9DB9E1846116D00ACBEFB /* other_yousuck.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0B9DB6A1846116D00ACBEFB /* other_yousuck.mp3 */; };
 		D0BD19BD18407CD200A7F668 /* LGFavesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0BD19BC18407CD200A7F668 /* LGFavesViewController.m */; };
 /* End PBXBuildFile section */
 
@@ -276,6 +517,195 @@
 /* Begin PBXFileReference section */
 		D00BD84418403A170097D11F /* LGCommunityNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGCommunityNavigationController.h; sourceTree = "<group>"; };
 		D00BD84518403A170097D11F /* LGCommunityNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGCommunityNavigationController.m; sourceTree = "<group>"; };
+		D091AB67184619AD009EDF76 /* pierce_5to1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_5to1.mp3; sourceTree = "<group>"; };
+		D091AB69184619BF009EDF76 /* pierce_aintnoparty.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_aintnoparty.mp3; sourceTree = "<group>"; };
+		D091AB6A184619BF009EDF76 /* pierce_alertnerd.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_alertnerd.mp3; sourceTree = "<group>"; };
+		D091AB6B184619BF009EDF76 /* pierce_areyouonweed.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_areyouonweed.mp3; sourceTree = "<group>"; };
+		D091AB6C184619BF009EDF76 /* pierce_bald.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_bald.mp3; sourceTree = "<group>"; };
+		D091AB6D184619BF009EDF76 /* pierce_bdaycake.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_bdaycake.mp3; sourceTree = "<group>"; };
+		D091AB6E184619BF009EDF76 /* pierce_bettygrable.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_bettygrable.mp3; sourceTree = "<group>"; };
+		D091AB6F184619BF009EDF76 /* pierce_blackpeople.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_blackpeople.mp3; sourceTree = "<group>"; };
+		D091AB70184619BF009EDF76 /* pierce_britta.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_britta.mp3; sourceTree = "<group>"; };
+		D091AB71184619BF009EDF76 /* pierce_burner.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_burner.mp3; sourceTree = "<group>"; };
+		D091AB72184619BF009EDF76 /* pierce_burnthismotherdown.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_burnthismotherdown.mp3; sourceTree = "<group>"; };
+		D091AB73184619BF009EDF76 /* pierce_chinese.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_chinese.mp3; sourceTree = "<group>"; };
+		D091AB74184619BF009EDF76 /* pierce_cmon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_cmon.mp3; sourceTree = "<group>"; };
+		D091AB75184619BF009EDF76 /* pierce_dialitback.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_dialitback.mp3; sourceTree = "<group>"; };
+		D091AB76184619BF009EDF76 /* pierce_dryspell.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_dryspell.mp3; sourceTree = "<group>"; };
+		D091AB77184619BF009EDF76 /* pierce_ear.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_ear.mp3; sourceTree = "<group>"; };
+		D091AB78184619BF009EDF76 /* pierce_erect.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_erect.mp3; sourceTree = "<group>"; };
+		D091AB79184619BF009EDF76 /* pierce_erections.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_erections.mp3; sourceTree = "<group>"; };
+		D091AB7A184619BF009EDF76 /* pierce_excuseme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_excuseme.mp3; sourceTree = "<group>"; };
+		D091AB7B184619BF009EDF76 /* pierce_explosioin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_explosioin.mp3; sourceTree = "<group>"; };
+		D091AB7C184619BF009EDF76 /* pierce_fight.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_fight.mp3; sourceTree = "<group>"; };
+		D091AB7D184619BF009EDF76 /* pierce_firstofall.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_firstofall.mp3; sourceTree = "<group>"; };
+		D091AB7E184619BF009EDF76 /* pierce_garfunkel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_garfunkel.mp3; sourceTree = "<group>"; };
+		D091AB7F184619BF009EDF76 /* pierce_gayguess.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_gayguess.mp3; sourceTree = "<group>"; };
+		D091AB80184619BF009EDF76 /* pierce_gaysex.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_gaysex.mp3; sourceTree = "<group>"; };
+		D091AB81184619BF009EDF76 /* pierce_genius.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_genius.mp3; sourceTree = "<group>"; };
+		D091AB82184619BF009EDF76 /* pierce_guilt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_guilt.mp3; sourceTree = "<group>"; };
+		D091AB83184619BF009EDF76 /* pierce_hatesamerica.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_hatesamerica.mp3; sourceTree = "<group>"; };
+		D091AB84184619BF009EDF76 /* pierce_heyguys.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_heyguys.mp3; sourceTree = "<group>"; };
+		D091AB85184619BF009EDF76 /* pierce_huntpeople.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_huntpeople.mp3; sourceTree = "<group>"; };
+		D091AB86184619BF009EDF76 /* pierce_illbealivinggod.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_illbealivinggod.mp3; sourceTree = "<group>"; };
+		D091AB87184619BF009EDF76 /* pierce_inmyday.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_inmyday.mp3; sourceTree = "<group>"; };
+		D091AB88184619BF009EDF76 /* pierce_insult1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_insult1.mp3; sourceTree = "<group>"; };
+		D091AB89184619BF009EDF76 /* pierce_insult2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_insult2.mp3; sourceTree = "<group>"; };
+		D091AB8A184619BF009EDF76 /* pierce_iwasdead.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_iwasdead.mp3; sourceTree = "<group>"; };
+		D091AB8B184619BF009EDF76 /* pierce_killyourfamilies.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_killyourfamilies.mp3; sourceTree = "<group>"; };
+		D091AB8C184619BF009EDF76 /* pierce_marrythem.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_marrythem.mp3; sourceTree = "<group>"; };
+		D091AB8D184619BF009EDF76 /* pierce_mensroom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_mensroom.mp3; sourceTree = "<group>"; };
+		D091AB8E184619BF009EDF76 /* pierce_monkeyshots.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_monkeyshots.mp3; sourceTree = "<group>"; };
+		D091AB8F184619BF009EDF76 /* pierce_moustache.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_moustache.mp3; sourceTree = "<group>"; };
+		D091AB90184619BF009EDF76 /* pierce_myplatform.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_myplatform.mp3; sourceTree = "<group>"; };
+		D091AB91184619BF009EDF76 /* pierce_nietzsche.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_nietzsche.mp3; sourceTree = "<group>"; };
+		D091AB92184619BF009EDF76 /* pierce_northkorean.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_northkorean.mp3; sourceTree = "<group>"; };
+		D091AB93184619BF009EDF76 /* pierce_obamasamerica.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_obamasamerica.mp3; sourceTree = "<group>"; };
+		D091AB94184619BF009EDF76 /* pierce_operation.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_operation.mp3; sourceTree = "<group>"; };
+		D091AB95184619BF009EDF76 /* pierce_party.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_party.mp3; sourceTree = "<group>"; };
+		D091AB96184619BF009EDF76 /* pierce_pillowfight.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_pillowfight.mp3; sourceTree = "<group>"; };
+		D091AB97184619BF009EDF76 /* pierce_pocketphone.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_pocketphone.mp3; sourceTree = "<group>"; };
+		D091AB98184619BF009EDF76 /* pierce_poop.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_poop.mp3; sourceTree = "<group>"; };
+		D091AB99184619BF009EDF76 /* pierce_rainbow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_rainbow.mp3; sourceTree = "<group>"; };
+		D091AB9A184619BF009EDF76 /* pierce_sausage.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_sausage.mp3; sourceTree = "<group>"; };
+		D091AB9B184619BF009EDF76 /* pierce_shesfat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_shesfat.mp3; sourceTree = "<group>"; };
+		D091AB9C184619BF009EDF76 /* pierce_sneakattack.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_sneakattack.mp3; sourceTree = "<group>"; };
+		D091AB9D184619BF009EDF76 /* pierce_somalia.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_somalia.mp3; sourceTree = "<group>"; };
+		D091AB9E184619BF009EDF76 /* pierce_sperm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_sperm.mp3; sourceTree = "<group>"; };
+		D091AB9F184619BF009EDF76 /* pierce_straighttohell.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_straighttohell.mp3; sourceTree = "<group>"; };
+		D091ABA0184619BF009EDF76 /* pierce_streetsahead.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_streetsahead.mp3; sourceTree = "<group>"; };
+		D091ABA1184619BF009EDF76 /* pierce_tbd.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_tbd.mp3; sourceTree = "<group>"; };
+		D091ABA2184619BF009EDF76 /* pierce_theyareruthless.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_theyareruthless.mp3; sourceTree = "<group>"; };
+		D091ABA3184619BF009EDF76 /* pierce_theyregay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_theyregay.mp3; sourceTree = "<group>"; };
+		D091ABA4184619BF009EDF76 /* pierce_tongue.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_tongue.mp3; sourceTree = "<group>"; };
+		D091ABA5184619BF009EDF76 /* pierce_tool.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_tool.mp3; sourceTree = "<group>"; };
+		D091ABA6184619BF009EDF76 /* pierce_totally.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_totally.mp3; sourceTree = "<group>"; };
+		D091ABA7184619BF009EDF76 /* pierce_tweedle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_tweedle.mp3; sourceTree = "<group>"; };
+		D091ABA8184619BF009EDF76 /* pierce_vengance.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_vengance.mp3; sourceTree = "<group>"; };
+		D091ABA9184619BF009EDF76 /* pierce_vietnam.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_vietnam.mp3; sourceTree = "<group>"; };
+		D091ABAA184619BF009EDF76 /* pierce_voicecommand.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_voicecommand.mp3; sourceTree = "<group>"; };
+		D091ABAB184619BF009EDF76 /* pierce_whore.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_whore.mp3; sourceTree = "<group>"; };
+		D091ABAC184619BF009EDF76 /* pierce_whoresmanship.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_whoresmanship.mp3; sourceTree = "<group>"; };
+		D091ABAD184619BF009EDF76 /* pierce_wiener.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_wiener.mp3; sourceTree = "<group>"; };
+		D091ABAE184619BF009EDF76 /* pierce_yawn.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_yawn.mp3; sourceTree = "<group>"; };
+		D091ABAF184619BF009EDF76 /* pierce_youregay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pierce_youregay.mp3; sourceTree = "<group>"; };
+		D091ABF81846217C009EDF76 /* shirley_asssense.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_asssense.mp3; sourceTree = "<group>"; };
+		D091ABF91846217C009EDF76 /* shirley_bdayjesus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_bdayjesus.mp3; sourceTree = "<group>"; };
+		D091ABFA1846217C009EDF76 /* shirley_behave.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_behave.mp3; sourceTree = "<group>"; };
+		D091ABFB1846217C009EDF76 /* shirley_checkers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_checkers.mp3; sourceTree = "<group>"; };
+		D091ABFC1846217C009EDF76 /* shirley_cocaine.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_cocaine.mp3; sourceTree = "<group>"; };
+		D091ABFD1846217C009EDF76 /* shirley_cohabitation.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_cohabitation.mp3; sourceTree = "<group>"; };
+		D091ABFE1846217C009EDF76 /* shirley_damn.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_damn.mp3; sourceTree = "<group>"; };
+		D091ABFF1846217C009EDF76 /* shirley_godmad.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_godmad.mp3; sourceTree = "<group>"; };
+		D091AC001846217C009EDF76 /* shirley_hateme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_hateme.mp3; sourceTree = "<group>"; };
+		D091AC011846217C009EDF76 /* shirley_immadie.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_immadie.mp3; sourceTree = "<group>"; };
+		D091AC021846217C009EDF76 /* shirley_kegstand.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_kegstand.mp3; sourceTree = "<group>"; };
+		D091AC031846217C009EDF76 /* shirley_ladiesroom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_ladiesroom.mp3; sourceTree = "<group>"; };
+		D091AC041846217C009EDF76 /* shirley_livinginyourcar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_livinginyourcar.mp3; sourceTree = "<group>"; };
+		D091AC051846217C009EDF76 /* shirley_marijuanalighter.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_marijuanalighter.mp3; sourceTree = "<group>"; };
+		D091AC061846217C009EDF76 /* shirley_megan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_megan.mp3; sourceTree = "<group>"; };
+		D091AC071846217C009EDF76 /* shirley_pity.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_pity.mp3; sourceTree = "<group>"; };
+		D091AC081846217C009EDF76 /* shirley_pumpkinass.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_pumpkinass.mp3; sourceTree = "<group>"; };
+		D091AC091846217C009EDF76 /* shirley_rascist.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_rascist.mp3; sourceTree = "<group>"; };
+		D091AC0A1846217C009EDF76 /* shirley_sassy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_sassy.mp3; sourceTree = "<group>"; };
+		D091AC0B1846217C009EDF76 /* shirley_scriptureme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_scriptureme.mp3; sourceTree = "<group>"; };
+		D091AC0C1846217C009EDF76 /* shirley_skinnybitches.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_skinnybitches.mp3; sourceTree = "<group>"; };
+		D091AC0D1846217C009EDF76 /* shirley_soundslike.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_soundslike.mp3; sourceTree = "<group>"; };
+		D091AC0E1846217C009EDF76 /* shirley_stepaside.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_stepaside.mp3; sourceTree = "<group>"; };
+		D091AC0F1846217C009EDF76 /* shirley_sun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_sun.mp3; sourceTree = "<group>"; };
+		D091AC101846217C009EDF76 /* shirley_witch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_witch.mp3; sourceTree = "<group>"; };
+		D091AC111846217C009EDF76 /* shirley_wizard.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shirley_wizard.mp3; sourceTree = "<group>"; };
+		D091AC2D1846258C009EDF76 /* troy_69th.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_69th.mp3; sourceTree = "<group>"; };
+		D091AC2E1846258C009EDF76 /* troy_afteranniesboobs.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_afteranniesboobs.mp3; sourceTree = "<group>"; };
+		D091AC2F1846258C009EDF76 /* troy_alliheardwassuck.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_alliheardwassuck.mp3; sourceTree = "<group>"; };
+		D091AC301846258C009EDF76 /* troy_allterrain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_allterrain.mp3; sourceTree = "<group>"; };
+		D091AC311846258C009EDF76 /* troy_alltomato.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_alltomato.mp3; sourceTree = "<group>"; };
+		D091AC321846258C009EDF76 /* troy_analogy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_analogy.mp3; sourceTree = "<group>"; };
+		D091AC331846258C009EDF76 /* troy_animalhospital.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_animalhospital.mp3; sourceTree = "<group>"; };
+		D091AC341846258C009EDF76 /* troy_anniesboobs.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_anniesboobs.mp3; sourceTree = "<group>"; };
+		D091AC351846258C009EDF76 /* troy_ateit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_ateit.mp3; sourceTree = "<group>"; };
+		D091AC361846258C009EDF76 /* troy_attofpeople.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_attofpeople.mp3; sourceTree = "<group>"; };
+		D091AC371846258C009EDF76 /* troy_beblack.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_beblack.mp3; sourceTree = "<group>"; };
+		D091AC381846258C009EDF76 /* troy_bloodmoney.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_bloodmoney.mp3; sourceTree = "<group>"; };
+		D091AC391846258C009EDF76 /* troy_boner.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_boner.mp3; sourceTree = "<group>"; };
+		D091AC3A1846258C009EDF76 /* troy_booty.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_booty.mp3; sourceTree = "<group>"; };
+		D091AC3B1846258C009EDF76 /* troy_borninthe80s.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_borninthe80s.mp3; sourceTree = "<group>"; };
+		D091AC3C1846258C009EDF76 /* troy_brain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_brain.mp3; sourceTree = "<group>"; };
+		D091AC3D1846258C009EDF76 /* troy_catpenis.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_catpenis.mp3; sourceTree = "<group>"; };
+		D091AC3E1846258C009EDF76 /* troy_chinesepowers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_chinesepowers.mp3; sourceTree = "<group>"; };
+		D091AC3F1846258C009EDF76 /* troy_confessions.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_confessions.mp3; sourceTree = "<group>"; };
+		D091AC401846258C009EDF76 /* troy_cookiewand.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_cookiewand.mp3; sourceTree = "<group>"; };
+		D091AC411846258C009EDF76 /* troy_crabdip.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_crabdip.mp3; sourceTree = "<group>"; };
+		D091AC421846258C009EDF76 /* troy_dad.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_dad.mp3; sourceTree = "<group>"; };
+		D091AC431846258C009EDF76 /* troy_daybreak.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_daybreak.mp3; sourceTree = "<group>"; };
+		D091AC441846258C009EDF76 /* troy_daybreaksad.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_daybreaksad.mp3; sourceTree = "<group>"; };
+		D091AC451846258C009EDF76 /* troy_doctor.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_doctor.mp3; sourceTree = "<group>"; };
+		D091AC461846258C009EDF76 /* troy_dracula.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_dracula.mp3; sourceTree = "<group>"; };
+		D091AC471846258C009EDF76 /* troy_eataghost.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_eataghost.mp3; sourceTree = "<group>"; };
+		D091AC481846258C009EDF76 /* troy_feet.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_feet.mp3; sourceTree = "<group>"; };
+		D091AC491846258C009EDF76 /* troy_football.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_football.mp3; sourceTree = "<group>"; };
+		D091AC4A1846258C009EDF76 /* troy_footballrap1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_footballrap1.mp3; sourceTree = "<group>"; };
+		D091AC4B1846258C009EDF76 /* troy_footballrap2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_footballrap2.mp3; sourceTree = "<group>"; };
+		D091AC4C1846258C009EDF76 /* troy_funvampire.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_funvampire.mp3; sourceTree = "<group>"; };
+		D091AC4D1846258C009EDF76 /* troy_genitals.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_genitals.mp3; sourceTree = "<group>"; };
+		D091AC4E1846258C009EDF76 /* troy_gentle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_gentle.mp3; sourceTree = "<group>"; };
+		D091AC4F1846258C009EDF76 /* troy_gogurt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_gogurt.mp3; sourceTree = "<group>"; };
+		D091AC501846258C009EDF76 /* troy_help.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_help.mp3; sourceTree = "<group>"; };
+		D091AC511846258C009EDF76 /* troy_howmanylies.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_howmanylies.mp3; sourceTree = "<group>"; };
+		D091AC521846258C009EDF76 /* troy_howyoulivin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_howyoulivin.mp3; sourceTree = "<group>"; };
+		D091AC531846258C009EDF76 /* troy_hurry.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_hurry.mp3; sourceTree = "<group>"; };
+		D091AC541846258C009EDF76 /* troy_huzzah.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_huzzah.mp3; sourceTree = "<group>"; };
+		D091AC551846258C009EDF76 /* troy_huzzahsad.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_huzzahsad.mp3; sourceTree = "<group>"; };
+		D091AC561846258C009EDF76 /* troy_idontunderstand.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_idontunderstand.mp3; sourceTree = "<group>"; };
+		D091AC571846258C009EDF76 /* troy_ihateyoupierce.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_ihateyoupierce.mp3; sourceTree = "<group>"; };
+		D091AC581846258C009EDF76 /* troy_ijustwantedapicture.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_ijustwantedapicture.mp3; sourceTree = "<group>"; };
+		D091AC591846258C009EDF76 /* troy_ijustwantedapicturelong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_ijustwantedapicturelong.mp3; sourceTree = "<group>"; };
+		D091AC5A1846258C009EDF76 /* troy_intimacy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_intimacy.mp3; sourceTree = "<group>"; };
+		D091AC5B1846258C009EDF76 /* troy_jackson.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_jackson.mp3; sourceTree = "<group>"; };
+		D091AC5C1846258D009EDF76 /* troy_jumptheshark.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_jumptheshark.mp3; sourceTree = "<group>"; };
+		D091AC5D1846258D009EDF76 /* troy_kettlecorn.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_kettlecorn.mp3; sourceTree = "<group>"; };
+		D091AC5E1846258D009EDF76 /* troy_lickit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_lickit.mp3; sourceTree = "<group>"; };
+		D091AC5F1846258D009EDF76 /* troy_lightning.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_lightning.mp3; sourceTree = "<group>"; };
+		D091AC601846258D009EDF76 /* troy_likeness.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_likeness.mp3; sourceTree = "<group>"; };
+		D091AC611846258D009EDF76 /* troy_linebacker.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_linebacker.mp3; sourceTree = "<group>"; };
+		D091AC621846258D009EDF76 /* troy_marketprice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_marketprice.mp3; sourceTree = "<group>"; };
+		D091AC631846258D009EDF76 /* troy_multiplepersonalities.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_multiplepersonalities.mp3; sourceTree = "<group>"; };
+		D091AC641846258D009EDF76 /* troy_myemotions.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_myemotions.mp3; sourceTree = "<group>"; };
+		D091AC651846258D009EDF76 /* troy_mymom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_mymom.mp3; sourceTree = "<group>"; };
+		D091AC661846258D009EDF76 /* troy_notdrugs.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_notdrugs.mp3; sourceTree = "<group>"; };
+		D091AC671846258D009EDF76 /* troy_omgjoshua.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_omgjoshua.mp3; sourceTree = "<group>"; };
+		D091AC681846258D009EDF76 /* troy_parkedbyameter.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_parkedbyameter.mp3; sourceTree = "<group>"; };
+		D091AC691846258D009EDF76 /* troy_pepperwatter.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_pepperwatter.mp3; sourceTree = "<group>"; };
+		D091AC6A1846258D009EDF76 /* troy_popwhat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_popwhat.mp3; sourceTree = "<group>"; };
+		D091AC6B1846258D009EDF76 /* troy_punchedintheface.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_punchedintheface.mp3; sourceTree = "<group>"; };
+		D091AC6C1846258D009EDF76 /* troy_raft.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_raft.mp3; sourceTree = "<group>"; };
+		D091AC6D1846258D009EDF76 /* troy_randomdessert.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_randomdessert.mp3; sourceTree = "<group>"; };
+		D091AC6E1846258D009EDF76 /* troy_randy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_randy.mp3; sourceTree = "<group>"; };
+		D091AC6F1846258D009EDF76 /* troy_repairman.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_repairman.mp3; sourceTree = "<group>"; };
+		D091AC701846258D009EDF76 /* troy_richpeople.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_richpeople.mp3; sourceTree = "<group>"; };
+		D091AC711846258D009EDF76 /* troy_right.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_right.mp3; sourceTree = "<group>"; };
+		D091AC721846258D009EDF76 /* troy_setphasers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_setphasers.mp3; sourceTree = "<group>"; };
+		D091AC731846258D009EDF76 /* troy_sex.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_sex.mp3; sourceTree = "<group>"; };
+		D091AC741846258D009EDF76 /* troy_slut.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_slut.mp3; sourceTree = "<group>"; };
+		D091AC751846258D009EDF76 /* troy_snake.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_snake.mp3; sourceTree = "<group>"; };
+		D091AC761846258D009EDF76 /* troy_snap.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_snap.mp3; sourceTree = "<group>"; };
+		D091AC771846258D009EDF76 /* troy_sneeze.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_sneeze.mp3; sourceTree = "<group>"; };
+		D091AC781846258D009EDF76 /* troy_soultrain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_soultrain.mp3; sourceTree = "<group>"; };
+		D091AC791846258D009EDF76 /* troy_spacemanpaninis.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_spacemanpaninis.mp3; sourceTree = "<group>"; };
+		D091AC7A1846258D009EDF76 /* troy_stalin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_stalin.mp3; sourceTree = "<group>"; };
+		D091AC7B1846258D009EDF76 /* troy_sugarbear.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_sugarbear.mp3; sourceTree = "<group>"; };
+		D091AC7C1846258D009EDF76 /* troy_swim.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_swim.mp3; sourceTree = "<group>"; };
+		D091AC7D1846258D009EDF76 /* troy_ta.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_ta.mp3; sourceTree = "<group>"; };
+		D091AC7E1846258D009EDF76 /* troy_tarnish.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_tarnish.mp3; sourceTree = "<group>"; };
+		D091AC7F1846258D009EDF76 /* troy_thinking.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_thinking.mp3; sourceTree = "<group>"; };
+		D091AC801846258D009EDF76 /* troy_thoughtpolice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_thoughtpolice.mp3; sourceTree = "<group>"; };
+		D091AC811846258D009EDF76 /* troy_transfusions.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_transfusions.mp3; sourceTree = "<group>"; };
+		D091AC821846258D009EDF76 /* troy_trippin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_trippin.mp3; sourceTree = "<group>"; };
+		D091AC831846258D009EDF76 /* troy_whitepeople.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_whitepeople.mp3; sourceTree = "<group>"; };
+		D091AC841846258D009EDF76 /* troy_wholebrain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_wholebrain.mp3; sourceTree = "<group>"; };
+		D091AC851846258D009EDF76 /* troy_whosbetty.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_whosbetty.mp3; sourceTree = "<group>"; };
+		D091AC861846258D009EDF76 /* troy_xmas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_xmas.mp3; sourceTree = "<group>"; };
+		D091AC871846258D009EDF76 /* troy_youare.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = troy_youare.mp3; sourceTree = "<group>"; };
 		D0A233581840B66300AF13C1 /* pic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic.jpg; sourceTree = "<group>"; };
 		D0A2335C1840B9A500AF13C1 /* abed_911.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_911.mp3; sourceTree = "<group>"; };
 		D0A2335D1840B9A500AF13C1 /* abed_aids.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = abed_aids.mp3; sourceTree = "<group>"; };
@@ -537,6 +967,58 @@
 		D0B062151841D7DC00D83CE0 /* jeff_toldyouso.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jeff_toldyouso.mp3; sourceTree = "<group>"; };
 		D0B062161841D7DC00D83CE0 /* jeff_trombone.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jeff_trombone.mp3; sourceTree = "<group>"; };
 		D0B062171841D7DC00D83CE0 /* jeff_walkaway.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jeff_walkaway.mp3; sourceTree = "<group>"; };
+		D0B9DB371846116D00ACBEFB /* other_africa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_africa.mp3; sourceTree = "<group>"; };
+		D0B9DB381846116D00ACBEFB /* other_alex.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_alex.mp3; sourceTree = "<group>"; };
+		D0B9DB391846116D00ACBEFB /* other_anniessong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_anniessong.mp3; sourceTree = "<group>"; };
+		D0B9DB3A1846116D00ACBEFB /* other_antioxidant.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_antioxidant.mp3; sourceTree = "<group>"; };
+		D0B9DB3B1846116D00ACBEFB /* other_avemaria.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_avemaria.mp3; sourceTree = "<group>"; };
+		D0B9DB3C1846116D00ACBEFB /* other_beastmaster.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_beastmaster.mp3; sourceTree = "<group>"; };
+		D0B9DB3D1846116D00ACBEFB /* other_blow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_blow.mp3; sourceTree = "<group>"; };
+		D0B9DB3E1846116D00ACBEFB /* other_boobs.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_boobs.mp3; sourceTree = "<group>"; };
+		D0B9DB3F1846116D00ACBEFB /* other_byzeus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_byzeus.mp3; sourceTree = "<group>"; };
+		D0B9DB401846116D00ACBEFB /* other_cake.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_cake.mp3; sourceTree = "<group>"; };
+		D0B9DB411846116D00ACBEFB /* other_chillaxing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_chillaxing.mp3; sourceTree = "<group>"; };
+		D0B9DB421846116D00ACBEFB /* other_crisis.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_crisis.mp3; sourceTree = "<group>"; };
+		D0B9DB431846116D00ACBEFB /* other_duncanbitemybanger.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_duncanbitemybanger.mp3; sourceTree = "<group>"; };
+		D0B9DB441846116D00ACBEFB /* other_duncanrap.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_duncanrap.mp3; sourceTree = "<group>"; };
+		D0B9DB451846116D00ACBEFB /* other_evil.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_evil.mp3; sourceTree = "<group>"; };
+		D0B9DB461846116D00ACBEFB /* other_finallybefine.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_finallybefine.mp3; sourceTree = "<group>"; };
+		D0B9DB471846116D00ACBEFB /* other_garretsunny.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_garretsunny.mp3; sourceTree = "<group>"; };
+		D0B9DB481846116D00ACBEFB /* other_kissedbyarose.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_kissedbyarose.mp3; sourceTree = "<group>"; };
+		D0B9DB491846116D00ACBEFB /* other_knockknock.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_knockknock.mp3; sourceTree = "<group>"; };
+		D0B9DB4A1846116D00ACBEFB /* other_labiblioteca.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_labiblioteca.mp3; sourceTree = "<group>"; };
+		D0B9DB4B1846116D00ACBEFB /* other_leasttight.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_leasttight.mp3; sourceTree = "<group>"; };
+		D0B9DB4C1846116D00ACBEFB /* other_leonardlikesthispost.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_leonardlikesthispost.mp3; sourceTree = "<group>"; };
+		D0B9DB4D1846116D00ACBEFB /* other_leonardgaywads.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_leonardgaywads.mp3; sourceTree = "<group>"; };
+		D0B9DB4E1846116D00ACBEFB /* other_magnitudepoppopcaptain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_magnitudepoppopcaptain.mp3; sourceTree = "<group>"; };
+		D0B9DB4F1846116D00ACBEFB /* other_magnitudevsleonard.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_magnitudevsleonard.mp3; sourceTree = "<group>"; };
+		D0B9DB501846116D00ACBEFB /* other_narratorakinto911.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_narratorakinto911.mp3; sourceTree = "<group>"; };
+		D0B9DB511846116D00ACBEFB /* other_narratorenglishmemorial.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_narratorenglishmemorial.mp3; sourceTree = "<group>"; };
+		D0B9DB521846116D00ACBEFB /* other_newapartment.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_newapartment.mp3; sourceTree = "<group>"; };
+		D0B9DB531846116D00ACBEFB /* other_pocketfullofhawthornes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_pocketfullofhawthornes.mp3; sourceTree = "<group>"; };
+		D0B9DB541846116D00ACBEFB /* other_poppop.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_poppop.mp3; sourceTree = "<group>"; };
+		D0B9DB551846116D00ACBEFB /* other_poppop2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_poppop2.mp3; sourceTree = "<group>"; };
+		D0B9DB561846116D00ACBEFB /* other_poppoppolitical.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_poppoppolitical.mp3; sourceTree = "<group>"; };
+		D0B9DB571846116D00ACBEFB /* other_poppoppolitical2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_poppoppolitical2.mp3; sourceTree = "<group>"; };
+		D0B9DB581846116D00ACBEFB /* other_pregnancyscarces.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_pregnancyscarces.mp3; sourceTree = "<group>"; };
+		D0B9DB591846116D00ACBEFB /* other_realwars.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_realwars.mp3; sourceTree = "<group>"; };
+		D0B9DB5A1846116D00ACBEFB /* other_sabotage.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_sabotage.mp3; sourceTree = "<group>"; };
+		D0B9DB5B1846116D00ACBEFB /* other_sex.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_sex.mp3; sourceTree = "<group>"; };
+		D0B9DB5C1846116D00ACBEFB /* other_someworries.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_someworries.mp3; sourceTree = "<group>"; };
+		D0B9DB5D1846116D00ACBEFB /* other_song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_song.mp3; sourceTree = "<group>"; };
+		D0B9DB5E1846116D00ACBEFB /* other_sonofabitch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_sonofabitch.mp3; sourceTree = "<group>"; };
+		D0B9DB5F1846116D00ACBEFB /* other_soulbrother.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_soulbrother.mp3; sourceTree = "<group>"; };
+		D0B9DB601846116D00ACBEFB /* other_takei.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_takei.mp3; sourceTree = "<group>"; };
+		D0B9DB611846116D00ACBEFB /* other_testicles.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_testicles.mp3; sourceTree = "<group>"; };
+		D0B9DB621846116D00ACBEFB /* other_toddfoundaturtle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_toddfoundaturtle.mp3; sourceTree = "<group>"; };
+		D0B9DB631846116D00ACBEFB /* other_troyabedpiercexmas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_troyabedpiercexmas.mp3; sourceTree = "<group>"; };
+		D0B9DB641846116D00ACBEFB /* other_troyandabedbeingnormal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_troyandabedbeingnormal.mp3; sourceTree = "<group>"; };
+		D0B9DB651846116D00ACBEFB /* other_vaughnrap.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_vaughnrap.mp3; sourceTree = "<group>"; };
+		D0B9DB661846116D00ACBEFB /* other_vicki.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_vicki.mp3; sourceTree = "<group>"; };
+		D0B9DB671846116D00ACBEFB /* other_whitewoman.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_whitewoman.mp3; sourceTree = "<group>"; };
+		D0B9DB681846116D00ACBEFB /* other_xmasisfor.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_xmasisfor.mp3; sourceTree = "<group>"; };
+		D0B9DB691846116D00ACBEFB /* other_yourgod.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_yourgod.mp3; sourceTree = "<group>"; };
+		D0B9DB6A1846116D00ACBEFB /* other_yousuck.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = other_yousuck.mp3; sourceTree = "<group>"; };
 		D0BD19BB18407CD200A7F668 /* LGFavesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LGFavesViewController.h; sourceTree = "<group>"; };
 		D0BD19BC18407CD200A7F668 /* LGFavesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LGFavesViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -565,6 +1047,216 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D091AB6618461981009EDF76 /* pierce */ = {
+			isa = PBXGroup;
+			children = (
+				D091AB67184619AD009EDF76 /* pierce_5to1.mp3 */,
+				D091AB69184619BF009EDF76 /* pierce_aintnoparty.mp3 */,
+				D091AB6A184619BF009EDF76 /* pierce_alertnerd.mp3 */,
+				D091AB6B184619BF009EDF76 /* pierce_areyouonweed.mp3 */,
+				D091AB6C184619BF009EDF76 /* pierce_bald.mp3 */,
+				D091AB6D184619BF009EDF76 /* pierce_bdaycake.mp3 */,
+				D091AB6E184619BF009EDF76 /* pierce_bettygrable.mp3 */,
+				D091AB6F184619BF009EDF76 /* pierce_blackpeople.mp3 */,
+				D091AB70184619BF009EDF76 /* pierce_britta.mp3 */,
+				D091AB71184619BF009EDF76 /* pierce_burner.mp3 */,
+				D091AB72184619BF009EDF76 /* pierce_burnthismotherdown.mp3 */,
+				D091AB73184619BF009EDF76 /* pierce_chinese.mp3 */,
+				D091AB74184619BF009EDF76 /* pierce_cmon.mp3 */,
+				D091AB75184619BF009EDF76 /* pierce_dialitback.mp3 */,
+				D091AB76184619BF009EDF76 /* pierce_dryspell.mp3 */,
+				D091AB77184619BF009EDF76 /* pierce_ear.mp3 */,
+				D091AB78184619BF009EDF76 /* pierce_erect.mp3 */,
+				D091AB79184619BF009EDF76 /* pierce_erections.mp3 */,
+				D091AB7A184619BF009EDF76 /* pierce_excuseme.mp3 */,
+				D091AB7B184619BF009EDF76 /* pierce_explosioin.mp3 */,
+				D091AB7C184619BF009EDF76 /* pierce_fight.mp3 */,
+				D091AB7D184619BF009EDF76 /* pierce_firstofall.mp3 */,
+				D091AB7E184619BF009EDF76 /* pierce_garfunkel.mp3 */,
+				D091AB7F184619BF009EDF76 /* pierce_gayguess.mp3 */,
+				D091AB80184619BF009EDF76 /* pierce_gaysex.mp3 */,
+				D091AB81184619BF009EDF76 /* pierce_genius.mp3 */,
+				D091AB82184619BF009EDF76 /* pierce_guilt.mp3 */,
+				D091AB83184619BF009EDF76 /* pierce_hatesamerica.mp3 */,
+				D091AB84184619BF009EDF76 /* pierce_heyguys.mp3 */,
+				D091AB85184619BF009EDF76 /* pierce_huntpeople.mp3 */,
+				D091AB86184619BF009EDF76 /* pierce_illbealivinggod.mp3 */,
+				D091AB87184619BF009EDF76 /* pierce_inmyday.mp3 */,
+				D091AB88184619BF009EDF76 /* pierce_insult1.mp3 */,
+				D091AB89184619BF009EDF76 /* pierce_insult2.mp3 */,
+				D091AB8A184619BF009EDF76 /* pierce_iwasdead.mp3 */,
+				D091AB8B184619BF009EDF76 /* pierce_killyourfamilies.mp3 */,
+				D091AB8C184619BF009EDF76 /* pierce_marrythem.mp3 */,
+				D091AB8D184619BF009EDF76 /* pierce_mensroom.mp3 */,
+				D091AB8E184619BF009EDF76 /* pierce_monkeyshots.mp3 */,
+				D091AB8F184619BF009EDF76 /* pierce_moustache.mp3 */,
+				D091AB90184619BF009EDF76 /* pierce_myplatform.mp3 */,
+				D091AB91184619BF009EDF76 /* pierce_nietzsche.mp3 */,
+				D091AB92184619BF009EDF76 /* pierce_northkorean.mp3 */,
+				D091AB93184619BF009EDF76 /* pierce_obamasamerica.mp3 */,
+				D091AB94184619BF009EDF76 /* pierce_operation.mp3 */,
+				D091AB95184619BF009EDF76 /* pierce_party.mp3 */,
+				D091AB96184619BF009EDF76 /* pierce_pillowfight.mp3 */,
+				D091AB97184619BF009EDF76 /* pierce_pocketphone.mp3 */,
+				D091AB98184619BF009EDF76 /* pierce_poop.mp3 */,
+				D091AB99184619BF009EDF76 /* pierce_rainbow.mp3 */,
+				D091AB9A184619BF009EDF76 /* pierce_sausage.mp3 */,
+				D091AB9B184619BF009EDF76 /* pierce_shesfat.mp3 */,
+				D091AB9C184619BF009EDF76 /* pierce_sneakattack.mp3 */,
+				D091AB9D184619BF009EDF76 /* pierce_somalia.mp3 */,
+				D091AB9E184619BF009EDF76 /* pierce_sperm.mp3 */,
+				D091AB9F184619BF009EDF76 /* pierce_straighttohell.mp3 */,
+				D091ABA0184619BF009EDF76 /* pierce_streetsahead.mp3 */,
+				D091ABA1184619BF009EDF76 /* pierce_tbd.mp3 */,
+				D091ABA2184619BF009EDF76 /* pierce_theyareruthless.mp3 */,
+				D091ABA3184619BF009EDF76 /* pierce_theyregay.mp3 */,
+				D091ABA4184619BF009EDF76 /* pierce_tongue.mp3 */,
+				D091ABA5184619BF009EDF76 /* pierce_tool.mp3 */,
+				D091ABA6184619BF009EDF76 /* pierce_totally.mp3 */,
+				D091ABA7184619BF009EDF76 /* pierce_tweedle.mp3 */,
+				D091ABA8184619BF009EDF76 /* pierce_vengance.mp3 */,
+				D091ABA9184619BF009EDF76 /* pierce_vietnam.mp3 */,
+				D091ABAA184619BF009EDF76 /* pierce_voicecommand.mp3 */,
+				D091ABAB184619BF009EDF76 /* pierce_whore.mp3 */,
+				D091ABAC184619BF009EDF76 /* pierce_whoresmanship.mp3 */,
+				D091ABAD184619BF009EDF76 /* pierce_wiener.mp3 */,
+				D091ABAE184619BF009EDF76 /* pierce_yawn.mp3 */,
+				D091ABAF184619BF009EDF76 /* pierce_youregay.mp3 */,
+			);
+			name = pierce;
+			sourceTree = "<group>";
+		};
+		D091ABF71846216B009EDF76 /* shirley */ = {
+			isa = PBXGroup;
+			children = (
+				D091ABF81846217C009EDF76 /* shirley_asssense.mp3 */,
+				D091ABF91846217C009EDF76 /* shirley_bdayjesus.mp3 */,
+				D091ABFA1846217C009EDF76 /* shirley_behave.mp3 */,
+				D091ABFB1846217C009EDF76 /* shirley_checkers.mp3 */,
+				D091ABFC1846217C009EDF76 /* shirley_cocaine.mp3 */,
+				D091ABFD1846217C009EDF76 /* shirley_cohabitation.mp3 */,
+				D091ABFE1846217C009EDF76 /* shirley_damn.mp3 */,
+				D091ABFF1846217C009EDF76 /* shirley_godmad.mp3 */,
+				D091AC001846217C009EDF76 /* shirley_hateme.mp3 */,
+				D091AC011846217C009EDF76 /* shirley_immadie.mp3 */,
+				D091AC021846217C009EDF76 /* shirley_kegstand.mp3 */,
+				D091AC031846217C009EDF76 /* shirley_ladiesroom.mp3 */,
+				D091AC041846217C009EDF76 /* shirley_livinginyourcar.mp3 */,
+				D091AC051846217C009EDF76 /* shirley_marijuanalighter.mp3 */,
+				D091AC061846217C009EDF76 /* shirley_megan.mp3 */,
+				D091AC071846217C009EDF76 /* shirley_pity.mp3 */,
+				D091AC081846217C009EDF76 /* shirley_pumpkinass.mp3 */,
+				D091AC091846217C009EDF76 /* shirley_rascist.mp3 */,
+				D091AC0A1846217C009EDF76 /* shirley_sassy.mp3 */,
+				D091AC0B1846217C009EDF76 /* shirley_scriptureme.mp3 */,
+				D091AC0C1846217C009EDF76 /* shirley_skinnybitches.mp3 */,
+				D091AC0D1846217C009EDF76 /* shirley_soundslike.mp3 */,
+				D091AC0E1846217C009EDF76 /* shirley_stepaside.mp3 */,
+				D091AC0F1846217C009EDF76 /* shirley_sun.mp3 */,
+				D091AC101846217C009EDF76 /* shirley_witch.mp3 */,
+				D091AC111846217C009EDF76 /* shirley_wizard.mp3 */,
+			);
+			name = shirley;
+			sourceTree = "<group>";
+		};
+		D091AC2C18462565009EDF76 /* troy */ = {
+			isa = PBXGroup;
+			children = (
+				D091AC2D1846258C009EDF76 /* troy_69th.mp3 */,
+				D091AC2E1846258C009EDF76 /* troy_afteranniesboobs.mp3 */,
+				D091AC2F1846258C009EDF76 /* troy_alliheardwassuck.mp3 */,
+				D091AC301846258C009EDF76 /* troy_allterrain.mp3 */,
+				D091AC311846258C009EDF76 /* troy_alltomato.mp3 */,
+				D091AC321846258C009EDF76 /* troy_analogy.mp3 */,
+				D091AC331846258C009EDF76 /* troy_animalhospital.mp3 */,
+				D091AC341846258C009EDF76 /* troy_anniesboobs.mp3 */,
+				D091AC351846258C009EDF76 /* troy_ateit.mp3 */,
+				D091AC361846258C009EDF76 /* troy_attofpeople.mp3 */,
+				D091AC371846258C009EDF76 /* troy_beblack.mp3 */,
+				D091AC381846258C009EDF76 /* troy_bloodmoney.mp3 */,
+				D091AC391846258C009EDF76 /* troy_boner.mp3 */,
+				D091AC3A1846258C009EDF76 /* troy_booty.mp3 */,
+				D091AC3B1846258C009EDF76 /* troy_borninthe80s.mp3 */,
+				D091AC3C1846258C009EDF76 /* troy_brain.mp3 */,
+				D091AC3D1846258C009EDF76 /* troy_catpenis.mp3 */,
+				D091AC3E1846258C009EDF76 /* troy_chinesepowers.mp3 */,
+				D091AC3F1846258C009EDF76 /* troy_confessions.mp3 */,
+				D091AC401846258C009EDF76 /* troy_cookiewand.mp3 */,
+				D091AC411846258C009EDF76 /* troy_crabdip.mp3 */,
+				D091AC421846258C009EDF76 /* troy_dad.mp3 */,
+				D091AC431846258C009EDF76 /* troy_daybreak.mp3 */,
+				D091AC441846258C009EDF76 /* troy_daybreaksad.mp3 */,
+				D091AC451846258C009EDF76 /* troy_doctor.mp3 */,
+				D091AC461846258C009EDF76 /* troy_dracula.mp3 */,
+				D091AC471846258C009EDF76 /* troy_eataghost.mp3 */,
+				D091AC481846258C009EDF76 /* troy_feet.mp3 */,
+				D091AC491846258C009EDF76 /* troy_football.mp3 */,
+				D091AC4A1846258C009EDF76 /* troy_footballrap1.mp3 */,
+				D091AC4B1846258C009EDF76 /* troy_footballrap2.mp3 */,
+				D091AC4C1846258C009EDF76 /* troy_funvampire.mp3 */,
+				D091AC4D1846258C009EDF76 /* troy_genitals.mp3 */,
+				D091AC4E1846258C009EDF76 /* troy_gentle.mp3 */,
+				D091AC4F1846258C009EDF76 /* troy_gogurt.mp3 */,
+				D091AC501846258C009EDF76 /* troy_help.mp3 */,
+				D091AC511846258C009EDF76 /* troy_howmanylies.mp3 */,
+				D091AC521846258C009EDF76 /* troy_howyoulivin.mp3 */,
+				D091AC531846258C009EDF76 /* troy_hurry.mp3 */,
+				D091AC541846258C009EDF76 /* troy_huzzah.mp3 */,
+				D091AC551846258C009EDF76 /* troy_huzzahsad.mp3 */,
+				D091AC561846258C009EDF76 /* troy_idontunderstand.mp3 */,
+				D091AC571846258C009EDF76 /* troy_ihateyoupierce.mp3 */,
+				D091AC581846258C009EDF76 /* troy_ijustwantedapicture.mp3 */,
+				D091AC591846258C009EDF76 /* troy_ijustwantedapicturelong.mp3 */,
+				D091AC5A1846258C009EDF76 /* troy_intimacy.mp3 */,
+				D091AC5B1846258C009EDF76 /* troy_jackson.mp3 */,
+				D091AC5C1846258D009EDF76 /* troy_jumptheshark.mp3 */,
+				D091AC5D1846258D009EDF76 /* troy_kettlecorn.mp3 */,
+				D091AC5E1846258D009EDF76 /* troy_lickit.mp3 */,
+				D091AC5F1846258D009EDF76 /* troy_lightning.mp3 */,
+				D091AC601846258D009EDF76 /* troy_likeness.mp3 */,
+				D091AC611846258D009EDF76 /* troy_linebacker.mp3 */,
+				D091AC621846258D009EDF76 /* troy_marketprice.mp3 */,
+				D091AC631846258D009EDF76 /* troy_multiplepersonalities.mp3 */,
+				D091AC641846258D009EDF76 /* troy_myemotions.mp3 */,
+				D091AC651846258D009EDF76 /* troy_mymom.mp3 */,
+				D091AC661846258D009EDF76 /* troy_notdrugs.mp3 */,
+				D091AC671846258D009EDF76 /* troy_omgjoshua.mp3 */,
+				D091AC681846258D009EDF76 /* troy_parkedbyameter.mp3 */,
+				D091AC691846258D009EDF76 /* troy_pepperwatter.mp3 */,
+				D091AC6A1846258D009EDF76 /* troy_popwhat.mp3 */,
+				D091AC6B1846258D009EDF76 /* troy_punchedintheface.mp3 */,
+				D091AC6C1846258D009EDF76 /* troy_raft.mp3 */,
+				D091AC6D1846258D009EDF76 /* troy_randomdessert.mp3 */,
+				D091AC6E1846258D009EDF76 /* troy_randy.mp3 */,
+				D091AC6F1846258D009EDF76 /* troy_repairman.mp3 */,
+				D091AC701846258D009EDF76 /* troy_richpeople.mp3 */,
+				D091AC711846258D009EDF76 /* troy_right.mp3 */,
+				D091AC721846258D009EDF76 /* troy_setphasers.mp3 */,
+				D091AC731846258D009EDF76 /* troy_sex.mp3 */,
+				D091AC741846258D009EDF76 /* troy_slut.mp3 */,
+				D091AC751846258D009EDF76 /* troy_snake.mp3 */,
+				D091AC761846258D009EDF76 /* troy_snap.mp3 */,
+				D091AC771846258D009EDF76 /* troy_sneeze.mp3 */,
+				D091AC781846258D009EDF76 /* troy_soultrain.mp3 */,
+				D091AC791846258D009EDF76 /* troy_spacemanpaninis.mp3 */,
+				D091AC7A1846258D009EDF76 /* troy_stalin.mp3 */,
+				D091AC7B1846258D009EDF76 /* troy_sugarbear.mp3 */,
+				D091AC7C1846258D009EDF76 /* troy_swim.mp3 */,
+				D091AC7D1846258D009EDF76 /* troy_ta.mp3 */,
+				D091AC7E1846258D009EDF76 /* troy_tarnish.mp3 */,
+				D091AC7F1846258D009EDF76 /* troy_thinking.mp3 */,
+				D091AC801846258D009EDF76 /* troy_thoughtpolice.mp3 */,
+				D091AC811846258D009EDF76 /* troy_transfusions.mp3 */,
+				D091AC821846258D009EDF76 /* troy_trippin.mp3 */,
+				D091AC831846258D009EDF76 /* troy_whitepeople.mp3 */,
+				D091AC841846258D009EDF76 /* troy_wholebrain.mp3 */,
+				D091AC851846258D009EDF76 /* troy_whosbetty.mp3 */,
+				D091AC861846258D009EDF76 /* troy_xmas.mp3 */,
+				D091AC871846258D009EDF76 /* troy_youare.mp3 */,
+			);
+			name = troy;
+			sourceTree = "<group>";
+		};
 		D0A233571840B5E800AF13C1 /* Image */ = {
 			isa = PBXGroup;
 			children = (
@@ -582,6 +1274,10 @@
 				D0B061451841CF2E00D83CE0 /* chang */,
 				D0B061A61841D4AD00D83CE0 /* dean */,
 				D0B061E51841D7BD00D83CE0 /* jeff */,
+				D0B9DB361846114A00ACBEFB /* other */,
+				D091AB6618461981009EDF76 /* pierce */,
+				D091ABF71846216B009EDF76 /* shirley */,
+				D091AC2C18462565009EDF76 /* troy */,
 			);
 			name = Sound;
 			sourceTree = "<group>";
@@ -972,6 +1668,65 @@
 			name = jeff;
 			sourceTree = "<group>";
 		};
+		D0B9DB361846114A00ACBEFB /* other */ = {
+			isa = PBXGroup;
+			children = (
+				D0B9DB371846116D00ACBEFB /* other_africa.mp3 */,
+				D0B9DB381846116D00ACBEFB /* other_alex.mp3 */,
+				D0B9DB391846116D00ACBEFB /* other_anniessong.mp3 */,
+				D0B9DB3A1846116D00ACBEFB /* other_antioxidant.mp3 */,
+				D0B9DB3B1846116D00ACBEFB /* other_avemaria.mp3 */,
+				D0B9DB3C1846116D00ACBEFB /* other_beastmaster.mp3 */,
+				D0B9DB3D1846116D00ACBEFB /* other_blow.mp3 */,
+				D0B9DB3E1846116D00ACBEFB /* other_boobs.mp3 */,
+				D0B9DB3F1846116D00ACBEFB /* other_byzeus.mp3 */,
+				D0B9DB401846116D00ACBEFB /* other_cake.mp3 */,
+				D0B9DB411846116D00ACBEFB /* other_chillaxing.mp3 */,
+				D0B9DB421846116D00ACBEFB /* other_crisis.mp3 */,
+				D0B9DB431846116D00ACBEFB /* other_duncanbitemybanger.mp3 */,
+				D0B9DB441846116D00ACBEFB /* other_duncanrap.mp3 */,
+				D0B9DB451846116D00ACBEFB /* other_evil.mp3 */,
+				D0B9DB461846116D00ACBEFB /* other_finallybefine.mp3 */,
+				D0B9DB471846116D00ACBEFB /* other_garretsunny.mp3 */,
+				D0B9DB481846116D00ACBEFB /* other_kissedbyarose.mp3 */,
+				D0B9DB491846116D00ACBEFB /* other_knockknock.mp3 */,
+				D0B9DB4A1846116D00ACBEFB /* other_labiblioteca.mp3 */,
+				D0B9DB4B1846116D00ACBEFB /* other_leasttight.mp3 */,
+				D0B9DB4C1846116D00ACBEFB /* other_leonardlikesthispost.mp3 */,
+				D0B9DB4D1846116D00ACBEFB /* other_leonardgaywads.mp3 */,
+				D0B9DB4E1846116D00ACBEFB /* other_magnitudepoppopcaptain.mp3 */,
+				D0B9DB4F1846116D00ACBEFB /* other_magnitudevsleonard.mp3 */,
+				D0B9DB501846116D00ACBEFB /* other_narratorakinto911.mp3 */,
+				D0B9DB511846116D00ACBEFB /* other_narratorenglishmemorial.mp3 */,
+				D0B9DB521846116D00ACBEFB /* other_newapartment.mp3 */,
+				D0B9DB531846116D00ACBEFB /* other_pocketfullofhawthornes.mp3 */,
+				D0B9DB541846116D00ACBEFB /* other_poppop.mp3 */,
+				D0B9DB551846116D00ACBEFB /* other_poppop2.mp3 */,
+				D0B9DB561846116D00ACBEFB /* other_poppoppolitical.mp3 */,
+				D0B9DB571846116D00ACBEFB /* other_poppoppolitical2.mp3 */,
+				D0B9DB581846116D00ACBEFB /* other_pregnancyscarces.mp3 */,
+				D0B9DB591846116D00ACBEFB /* other_realwars.mp3 */,
+				D0B9DB5A1846116D00ACBEFB /* other_sabotage.mp3 */,
+				D0B9DB5B1846116D00ACBEFB /* other_sex.mp3 */,
+				D0B9DB5C1846116D00ACBEFB /* other_someworries.mp3 */,
+				D0B9DB5D1846116D00ACBEFB /* other_song.mp3 */,
+				D0B9DB5E1846116D00ACBEFB /* other_sonofabitch.mp3 */,
+				D0B9DB5F1846116D00ACBEFB /* other_soulbrother.mp3 */,
+				D0B9DB601846116D00ACBEFB /* other_takei.mp3 */,
+				D0B9DB611846116D00ACBEFB /* other_testicles.mp3 */,
+				D0B9DB621846116D00ACBEFB /* other_toddfoundaturtle.mp3 */,
+				D0B9DB631846116D00ACBEFB /* other_troyabedpiercexmas.mp3 */,
+				D0B9DB641846116D00ACBEFB /* other_troyandabedbeingnormal.mp3 */,
+				D0B9DB651846116D00ACBEFB /* other_vaughnrap.mp3 */,
+				D0B9DB661846116D00ACBEFB /* other_vicki.mp3 */,
+				D0B9DB671846116D00ACBEFB /* other_whitewoman.mp3 */,
+				D0B9DB681846116D00ACBEFB /* other_xmasisfor.mp3 */,
+				D0B9DB691846116D00ACBEFB /* other_yourgod.mp3 */,
+				D0B9DB6A1846116D00ACBEFB /* other_yousuck.mp3 */,
+			);
+			name = other;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1049,27 +1804,46 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0B9DB6E1846116D00ACBEFB /* other_antioxidant.mp3 in Resources */,
 				D0B0619B1841CF9800D83CE0 /* chang_snap.mp3 in Resources */,
+				D0B9DB701846116D00ACBEFB /* other_beastmaster.mp3 in Resources */,
+				D0B9DB6C1846116D00ACBEFB /* other_alex.mp3 in Resources */,
+				D091AC971846258D009EDF76 /* troy_brain.mp3 in Resources */,
+				D091AC2B1846217C009EDF76 /* shirley_wizard.mp3 in Resources */,
+				D0B9DB971846116D00ACBEFB /* other_troyabedpiercexmas.mp3 in Resources */,
 				D0A233A51840B9A500AF13C1 /* abed_subdueyourguest.mp3 in Resources */,
 				D0B060EF1841C87700D83CE0 /* annie_turtleneck.mp3 in Resources */,
 				D0AFC2BC183CF43300BDD2D5 /* Images.xcassets in Resources */,
 				D0B061871841CF9800D83CE0 /* chang_giveitup.mp3 in Resources */,
 				D0B061211841CB9300D83CE0 /* britta_analogy.mp3 in Resources */,
+				D091ACB91846258D009EDF76 /* troy_lickit.mp3 in Resources */,
 				D0B061CA1841D4D200D83CE0 /* dean_caesarsalad.mp3 in Resources */,
 				D0B0617F1841CF9800D83CE0 /* chang_crazy.mp3 in Resources */,
+				D091ACDD1846258D009EDF76 /* troy_trippin.mp3 in Resources */,
 				D0B0618A1841CF9800D83CE0 /* chang_homealone.mp3 in Resources */,
+				D091ACDB1846258D009EDF76 /* troy_thoughtpolice.mp3 in Resources */,
 				D0B0619A1841CF9800D83CE0 /* chang_sex.mp3 in Resources */,
+				D0B9DB9B1846116D00ACBEFB /* other_whitewoman.mp3 in Resources */,
 				D0B061D91841D4D200D83CE0 /* dean_machine.mp3 in Resources */,
 				D0A233891840B9A500AF13C1 /* abed_batmanlong.mp3 in Resources */,
+				D091ABD2184619BF009EDF76 /* pierce_killyourfamilies.mp3 in Resources */,
 				D0B061CC1841D4D200D83CE0 /* dean_deaneow.mp3 in Resources */,
 				D0B061E21841D4D200D83CE0 /* dean_timehoodie.mp3 in Resources */,
 				D0B061811841CF9800D83CE0 /* chang_donttell.mp3 in Resources */,
 				D0B062471841D7DC00D83CE0 /* jeff_toldyouso.mp3 in Resources */,
+				D091AC9C1846258D009EDF76 /* troy_crabdip.mp3 in Resources */,
 				D0B0613C1841CB9300D83CE0 /* britta_rage.mp3 in Resources */,
+				D091ACA31846258D009EDF76 /* troy_feet.mp3 in Resources */,
 				D0A233A01840B9A500AF13C1 /* abed_sexual.mp3 in Resources */,
 				D0A233A91840B9A500AF13C1 /* abed_xmassad.mp3 in Resources */,
 				D0B0623B1841D7DC00D83CE0 /* jeff_scaryworld.mp3 in Resources */,
+				D0B9DB841846116D00ACBEFB /* other_narratorakinto911.mp3 in Resources */,
+				D091AC191846217C009EDF76 /* shirley_godmad.mp3 in Resources */,
 				D0B062201841D7DC00D83CE0 /* jeff_diealone.mp3 in Resources */,
+				D091ABCD184619BF009EDF76 /* pierce_illbealivinggod.mp3 in Resources */,
+				D091ACD31846258D009EDF76 /* troy_soultrain.mp3 in Resources */,
+				D091ACD01846258D009EDF76 /* troy_snake.mp3 in Resources */,
+				D091ABCE184619BF009EDF76 /* pierce_inmyday.mp3 in Resources */,
 				D0B061A51841CF9800D83CE0 /* chang_usingit.mp3 in Resources */,
 				D0B061951841CF9800D83CE0 /* chang_pitterpatter.mp3 in Resources */,
 				D0AFC2AB183CF43300BDD2D5 /* InfoPlist.strings in Resources */,
@@ -1077,148 +1851,324 @@
 				D0B062331841D7DC00D83CE0 /* jeff_no.mp3 in Resources */,
 				D0B0622D1841D7DC00D83CE0 /* jeff_laid.mp3 in Resources */,
 				D0B061351841CB9300D83CE0 /* britta_peedalone.mp3 in Resources */,
+				D091ACCE1846258D009EDF76 /* troy_sex.mp3 in Resources */,
 				D0B060EA1841C87700D83CE0 /* annie_horney.mp3 in Resources */,
+				D091ABE0184619BF009EDF76 /* pierce_rainbow.mp3 in Resources */,
 				D0B062401841D7DC00D83CE0 /* jeff_shutuplong.mp3 in Resources */,
+				D091ABBF184619BF009EDF76 /* pierce_erect.mp3 in Resources */,
+				D091ABF1184619BF009EDF76 /* pierce_voicecommand.mp3 in Resources */,
+				D091AC1A1846217C009EDF76 /* shirley_hateme.mp3 in Resources */,
+				D091AC211846217C009EDF76 /* shirley_pity.mp3 in Resources */,
+				D091ABBC184619BF009EDF76 /* pierce_dialitback.mp3 in Resources */,
+				D091AC891846258D009EDF76 /* troy_afteranniesboobs.mp3 in Resources */,
+				D0B9DB961846116D00ACBEFB /* other_toddfoundaturtle.mp3 in Resources */,
 				D0A233A81840B9A500AF13C1 /* abed_xmasbritta.mp3 in Resources */,
+				D0B9DB7F1846116D00ACBEFB /* other_leasttight.mp3 in Resources */,
+				D091AC1D1846217C009EDF76 /* shirley_ladiesroom.mp3 in Resources */,
+				D091ABF2184619BF009EDF76 /* pierce_whore.mp3 in Resources */,
 				D0B0623F1841D7DC00D83CE0 /* jeff_shutupleonardirony.mp3 in Resources */,
+				D091ACB81846258D009EDF76 /* troy_kettlecorn.mp3 in Resources */,
+				D091AC9A1846258D009EDF76 /* troy_confessions.mp3 in Resources */,
 				D0B062301841D7DC00D83CE0 /* jeff_mantis.mp3 in Resources */,
 				D0B060E21841C87700D83CE0 /* annie_boobbump.mp3 in Resources */,
+				D0B9DB901846116D00ACBEFB /* other_someworries.mp3 in Resources */,
 				D0B062261841D7DC00D83CE0 /* jeff_grapplinghooks.mp3 in Resources */,
 				D0B0618D1841CF9800D83CE0 /* chang_korean.mp3 in Resources */,
 				D0A233AD1840B9A500AF13C1 /* abed_xmaswonderland.mp3 in Resources */,
 				D0B061201841CB9300D83CE0 /* britta_alotofsoftserve.mp3 in Resources */,
 				D0B060E01841C87700D83CE0 /* annie_bigots.mp3 in Resources */,
+				D0B9DB8A1846116D00ACBEFB /* other_poppoppolitical.mp3 in Resources */,
 				D0A2338D1840B9A500AF13C1 /* abed_clock.mp3 in Resources */,
+				D091AC8D1846258D009EDF76 /* troy_analogy.mp3 in Resources */,
+				D0B9DB7A1846116D00ACBEFB /* other_finallybefine.mp3 in Resources */,
+				D091ACE21846258D009EDF76 /* troy_youare.mp3 in Resources */,
 				D0B061321841CB9300D83CE0 /* britta_kisshim.mp3 in Resources */,
 				D0B061A31841CF9800D83CE0 /* chang_theworld.mp3 in Resources */,
+				D091AC181846217C009EDF76 /* shirley_damn.mp3 in Resources */,
+				D091ABE8184619BF009EDF76 /* pierce_tbd.mp3 in Resources */,
 				D0B062351841D7DC00D83CE0 /* jeff_oldcrazy.mp3 in Resources */,
 				D0B061421841CB9300D83CE0 /* britta_whiteproblems.mp3 in Resources */,
+				D091ACD51846258D009EDF76 /* troy_stalin.mp3 in Resources */,
+				D0B9DB771846116D00ACBEFB /* other_duncanbitemybanger.mp3 in Resources */,
 				D0B061D11841D4D200D83CE0 /* dean_eyesclosed.mp3 in Resources */,
+				D091ACBB1846258D009EDF76 /* troy_likeness.mp3 in Resources */,
+				D091ABB6184619BF009EDF76 /* pierce_blackpeople.mp3 in Resources */,
 				D0B0613D1841CB9300D83CE0 /* britta_rowboat.mp3 in Resources */,
+				D091AC241846217C009EDF76 /* shirley_sassy.mp3 in Resources */,
 				D0B061911841CF9800D83CE0 /* chang_neverdie.mp3 in Resources */,
 				D0B061431841CB9300D83CE0 /* britta_woah.mp3 in Resources */,
+				D0B9DB881846116D00ACBEFB /* other_poppop.mp3 in Resources */,
 				D0B060F61841C87700D83CE0 /* annie_xmassong.mp3 in Resources */,
+				D091ABE3184619BF009EDF76 /* pierce_sneakattack.mp3 in Resources */,
+				D091AC8A1846258D009EDF76 /* troy_alliheardwassuck.mp3 in Resources */,
+				D091ACC61846258D009EDF76 /* troy_punchedintheface.mp3 in Resources */,
+				D091AC8C1846258D009EDF76 /* troy_alltomato.mp3 in Resources */,
 				D0A233851840B9A500AF13C1 /* abed_911.mp3 in Resources */,
+				D091ACBD1846258D009EDF76 /* troy_marketprice.mp3 in Resources */,
+				D091ACA51846258D009EDF76 /* troy_footballrap1.mp3 in Resources */,
+				D091ABD7184619BF009EDF76 /* pierce_myplatform.mp3 in Resources */,
 				D0A233961840B9A500AF13C1 /* abed_jeffscar.mp3 in Resources */,
 				D0B0612C1841CB9300D83CE0 /* britta_ftw.mp3 in Resources */,
+				D091AC251846217C009EDF76 /* shirley_scriptureme.mp3 in Resources */,
+				D091ACD81846258D009EDF76 /* troy_ta.mp3 in Resources */,
 				D0B061901841CF9800D83CE0 /* chang_mexicanhalloween.mp3 in Resources */,
+				D0B9DB791846116D00ACBEFB /* other_evil.mp3 in Resources */,
 				D0B062231841D7DC00D83CE0 /* jeff_football.mp3 in Resources */,
+				D0B9DB9A1846116D00ACBEFB /* other_vicki.mp3 in Resources */,
+				D0B9DB871846116D00ACBEFB /* other_pocketfullofhawthornes.mp3 in Resources */,
+				D0B9DB811846116D00ACBEFB /* other_leonardgaywads.mp3 in Resources */,
+				D091ACB41846258D009EDF76 /* troy_ijustwantedapicturelong.mp3 in Resources */,
 				D0A233A31840B9A500AF13C1 /* abed_socialcue.mp3 in Resources */,
 				D0B062481841D7DC00D83CE0 /* jeff_trombone.mp3 in Resources */,
 				D0B0612A1841CB9300D83CE0 /* britta_excuseme.mp3 in Resources */,
 				D0B062461841D7DC00D83CE0 /* jeff_throne.mp3 in Resources */,
 				D0B061411841CB9300D83CE0 /* britta_wesleysnipes.mp3 in Resources */,
+				D091ABEC184619BF009EDF76 /* pierce_tool.mp3 in Resources */,
 				D0B060EE1841C87700D83CE0 /* annie_thething.mp3 in Resources */,
+				D0B9DB861846116D00ACBEFB /* other_newapartment.mp3 in Resources */,
 				D0B0621C1841D7DC00D83CE0 /* jeff_checkmate.mp3 in Resources */,
+				D091AC8F1846258D009EDF76 /* troy_anniesboobs.mp3 in Resources */,
+				D091ABC9184619BF009EDF76 /* pierce_guilt.mp3 in Resources */,
 				D0A2339F1840B9A500AF13C1 /* abed_recordscratch.mp3 in Resources */,
+				D0B9DB7B1846116D00ACBEFB /* other_garretsunny.mp3 in Resources */,
 				D0B061CB1841D4D200D83CE0 /* dean_daylightsavings.mp3 in Resources */,
 				D0B060F01841C87700D83CE0 /* annie_tuttut.mp3 in Resources */,
+				D0B9DB8C1846116D00ACBEFB /* other_pregnancyscarces.mp3 in Resources */,
+				D091AC8B1846258D009EDF76 /* troy_allterrain.mp3 in Resources */,
 				D0B061761841CF9800D83CE0 /* chang_alotofchicks.mp3 in Resources */,
+				D091AB68184619AD009EDF76 /* pierce_5to1.mp3 in Resources */,
 				D0B061271841CB9300D83CE0 /* britta_closure.mp3 in Resources */,
 				D0B061E11841D4D200D83CE0 /* dean_therapist.mp3 in Resources */,
 				D0B061381841CB9300D83CE0 /* britta_pleasureunit.mp3 in Resources */,
+				D091AC1B1846217C009EDF76 /* shirley_immadie.mp3 in Resources */,
 				D0B061971841CF9800D83CE0 /* chang_rabbitdragon.mp3 in Resources */,
+				D091ABDE184619BF009EDF76 /* pierce_pocketphone.mp3 in Resources */,
 				D0B061961841CF9800D83CE0 /* chang_preggers.mp3 in Resources */,
+				D091ABCC184619BF009EDF76 /* pierce_huntpeople.mp3 in Resources */,
 				D0B0623E1841D7DC00D83CE0 /* jeff_sharkweek.mp3 in Resources */,
 				D0B062371841D7DC00D83CE0 /* jeff_pairofdreams.mp3 in Resources */,
+				D091ACDA1846258D009EDF76 /* troy_thinking.mp3 in Resources */,
 				D0A233871840B9A500AF13C1 /* abed_attractive.mp3 in Resources */,
 				D0AFC2B4183CF43300BDD2D5 /* Main.storyboard in Resources */,
+				D091ABEF184619BF009EDF76 /* pierce_vengance.mp3 in Resources */,
+				D091AC131846217C009EDF76 /* shirley_bdayjesus.mp3 in Resources */,
+				D091ABC8184619BF009EDF76 /* pierce_genius.mp3 in Resources */,
+				D091ACC71846258D009EDF76 /* troy_raft.mp3 in Resources */,
+				D091ABB4184619BF009EDF76 /* pierce_bdaycake.mp3 in Resources */,
+				D0B9DB951846116D00ACBEFB /* other_testicles.mp3 in Resources */,
 				D0B0621D1841D7DC00D83CE0 /* jeff_chucknorris.mp3 in Resources */,
 				D0B0623C1841D7DC00D83CE0 /* jeff_seemenude.mp3 in Resources */,
+				D091ACCF1846258D009EDF76 /* troy_slut.mp3 in Resources */,
 				D0A233901840B9A500AF13C1 /* abed_cool.mp3 in Resources */,
+				D091ACC31846258D009EDF76 /* troy_parkedbyameter.mp3 in Resources */,
 				D0B061941841CF9800D83CE0 /* chang_pecs.mp3 in Resources */,
 				D0A2339B1840B9A500AF13C1 /* abed_partyfoul.mp3 in Resources */,
+				D091AC271846217C009EDF76 /* shirley_soundslike.mp3 in Resources */,
 				D0B0619C1841CF9800D83CE0 /* chang_snarf.mp3 in Resources */,
 				D0B060F71841C87700D83CE0 /* annie_zambia.mp3 in Resources */,
 				D0B0622F1841D7DC00D83CE0 /* jeff_leonard.mp3 in Resources */,
 				D0B061921841CF9800D83CE0 /* chang_nine.mp3 in Resources */,
+				D091ABE4184619BF009EDF76 /* pierce_somalia.mp3 in Resources */,
 				D0B0623D1841D7DC00D83CE0 /* jeff_seeyouinhell.mp3 in Resources */,
 				D0B0612F1841CB9300D83CE0 /* britta_heyjesus.mp3 in Resources */,
+				D091AC911846258D009EDF76 /* troy_attofpeople.mp3 in Resources */,
+				D091AC921846258D009EDF76 /* troy_beblack.mp3 in Resources */,
 				D0B0617E1841CF9800D83CE0 /* chang_changuage.mp3 in Resources */,
+				D091ABB7184619BF009EDF76 /* pierce_britta.mp3 in Resources */,
+				D091ACC91846258D009EDF76 /* troy_randy.mp3 in Resources */,
 				D0B061781841CF9800D83CE0 /* chang_body.mp3 in Resources */,
+				D091ACAA1846258D009EDF76 /* troy_gogurt.mp3 in Resources */,
+				D091ACC01846258D009EDF76 /* troy_mymom.mp3 in Resources */,
+				D091ACAE1846258D009EDF76 /* troy_hurry.mp3 in Resources */,
 				D0B061A11841CF9800D83CE0 /* chang_tails.mp3 in Resources */,
 				D0B062321841D7DC00D83CE0 /* jeff_nancyscrew.mp3 in Resources */,
 				D0B0619E1841CF9800D83CE0 /* chang_spanish.mp3 in Resources */,
+				D091ACB61846258D009EDF76 /* troy_jackson.mp3 in Resources */,
 				D0B060E41841C87700D83CE0 /* annie_callmepsycho.mp3 in Resources */,
+				D091ABB9184619BF009EDF76 /* pierce_burnthismotherdown.mp3 in Resources */,
+				D091ACBC1846258D009EDF76 /* troy_linebacker.mp3 in Resources */,
+				D091AC951846258D009EDF76 /* troy_booty.mp3 in Resources */,
+				D091ACD11846258D009EDF76 /* troy_snap.mp3 in Resources */,
 				D0B061801841CF9800D83CE0 /* chang_crying.mp3 in Resources */,
 				D0B0613A1841CB9300D83CE0 /* britta_psych101.mp3 in Resources */,
 				D0B060E61841C87700D83CE0 /* annie_cry.mp3 in Resources */,
+				D091ACA81846258D009EDF76 /* troy_genitals.mp3 in Resources */,
 				D0A2338A1840B9A500AF13C1 /* abed_batmanshort.mp3 in Resources */,
+				D091ABB2184619BF009EDF76 /* pierce_areyouonweed.mp3 in Resources */,
+				D091AC9D1846258D009EDF76 /* troy_dad.mp3 in Resources */,
+				D091ABF0184619BF009EDF76 /* pierce_vietnam.mp3 in Resources */,
 				D0B061991841CF9800D83CE0 /* chang_robbed.mp3 in Resources */,
+				D091ABD0184619BF009EDF76 /* pierce_insult2.mp3 in Resources */,
 				D0B062291841D7DC00D83CE0 /* jeff_harrisonford.mp3 in Resources */,
 				D0A233941840B9A500AF13C1 /* abed_glee.mp3 in Resources */,
+				D091AC161846217C009EDF76 /* shirley_cocaine.mp3 in Resources */,
 				D0B060E51841C87700D83CE0 /* annie_cheer.mp3 in Resources */,
+				D091ACAC1846258D009EDF76 /* troy_howmanylies.mp3 in Resources */,
+				D0B9DB991846116D00ACBEFB /* other_vaughnrap.mp3 in Resources */,
 				D0B061D21841D4D200D83CE0 /* dean_gay.mp3 in Resources */,
+				D091AC121846217C009EDF76 /* shirley_asssense.mp3 in Resources */,
 				D0B061A21841CF9800D83CE0 /* chang_thesubject.mp3 in Resources */,
+				D091ACDE1846258D009EDF76 /* troy_whitepeople.mp3 in Resources */,
+				D091AC901846258D009EDF76 /* troy_ateit.mp3 in Resources */,
 				D0B060EC1841C87700D83CE0 /* annie_pregnant.mp3 in Resources */,
+				D091ABE2184619BF009EDF76 /* pierce_shesfat.mp3 in Resources */,
 				D0B061D71841D4D200D83CE0 /* dean_lookathisshadow.mp3 in Resources */,
+				D091ABCA184619BF009EDF76 /* pierce_hatesamerica.mp3 in Resources */,
 				D0B062391841D7DC00D83CE0 /* jeff_romance.mp3 in Resources */,
+				D091AC991846258D009EDF76 /* troy_chinesepowers.mp3 in Resources */,
+				D091ABE5184619BF009EDF76 /* pierce_sperm.mp3 in Resources */,
+				D091ABF5184619BF009EDF76 /* pierce_yawn.mp3 in Resources */,
 				D0A233861840B9A500AF13C1 /* abed_aids.mp3 in Resources */,
+				D091ACD61846258D009EDF76 /* troy_sugarbear.mp3 in Resources */,
+				D091ACA01846258D009EDF76 /* troy_doctor.mp3 in Resources */,
+				D091ABBE184619BF009EDF76 /* pierce_ear.mp3 in Resources */,
+				D091ACCD1846258D009EDF76 /* troy_setphasers.mp3 in Resources */,
+				D0B9DB851846116D00ACBEFB /* other_narratorenglishmemorial.mp3 in Resources */,
+				D0B9DB801846116D00ACBEFB /* other_leonardlikesthispost.mp3 in Resources */,
 				D0B062271841D7DC00D83CE0 /* jeff_groovy.mp3 in Resources */,
 				D0B061D01841D4D200D83CE0 /* dean_everykind.mp3 in Resources */,
+				D091ACE01846258D009EDF76 /* troy_whosbetty.mp3 in Resources */,
+				D091AC171846217C009EDF76 /* shirley_cohabitation.mp3 in Resources */,
+				D0B9DB931846116D00ACBEFB /* other_soulbrother.mp3 in Resources */,
 				D0B061C81841D4D200D83CE0 /* dean_bitches.mp3 in Resources */,
+				D091ABE7184619BF009EDF76 /* pierce_streetsahead.mp3 in Resources */,
+				D091ACD21846258D009EDF76 /* troy_sneeze.mp3 in Resources */,
 				D0B0612D1841CB9300D83CE0 /* britta_genie.mp3 in Resources */,
+				D091ACCB1846258D009EDF76 /* troy_richpeople.mp3 in Resources */,
+				D091ACDF1846258D009EDF76 /* troy_wholebrain.mp3 in Resources */,
+				D091ABD6184619BF009EDF76 /* pierce_moustache.mp3 in Resources */,
 				D0B061CF1841D4D200D83CE0 /* dean_dualidean.mp3 in Resources */,
 				D0B060F41841C87700D83CE0 /* annie_withdrawn.mp3 in Resources */,
+				D091ACA21846258D009EDF76 /* troy_eataghost.mp3 in Resources */,
+				D091ABDC184619BF009EDF76 /* pierce_party.mp3 in Resources */,
+				D091ACB01846258D009EDF76 /* troy_huzzahsad.mp3 in Resources */,
+				D091ACC21846258D009EDF76 /* troy_omgjoshua.mp3 in Resources */,
 				D0B061E31841D4D200D83CE0 /* dean_trickordean.mp3 in Resources */,
 				D0B061281841CB9300D83CE0 /* britta_complisult.mp3 in Resources */,
+				D091ABD1184619BF009EDF76 /* pierce_iwasdead.mp3 in Resources */,
+				D0B9DB821846116D00ACBEFB /* other_magnitudepoppopcaptain.mp3 in Resources */,
+				D0B9DB6F1846116D00ACBEFB /* other_avemaria.mp3 in Resources */,
+				D091ABD3184619BF009EDF76 /* pierce_marrythem.mp3 in Resources */,
 				D0B061DA1841D4D200D83CE0 /* dean_monkeyhotel.mp3 in Resources */,
+				D091ACD71846258D009EDF76 /* troy_swim.mp3 in Resources */,
+				D091ABB5184619BF009EDF76 /* pierce_bettygrable.mp3 in Resources */,
 				D0B060EB1841C87700D83CE0 /* annie_large.mp3 in Resources */,
 				D0B061891841CF9800D83CE0 /* chang_hands.mp3 in Resources */,
+				D091AC9B1846258D009EDF76 /* troy_cookiewand.mp3 in Resources */,
 				D0B0619D1841CF9800D83CE0 /* chang_sneaky.mp3 in Resources */,
 				D0B062211841D7DC00D83CE0 /* jeff_drinking.mp3 in Resources */,
 				D0B0622B1841D7DC00D83CE0 /* jeff_isreal.mp3 in Resources */,
 				D0B062241841D7DC00D83CE0 /* jeff_glee.mp3 in Resources */,
+				D091ACAD1846258D009EDF76 /* troy_howyoulivin.mp3 in Resources */,
+				D091ACA71846258D009EDF76 /* troy_funvampire.mp3 in Resources */,
 				D0B060E71841C87700D83CE0 /* annie_edisonout.mp3 in Resources */,
 				D0B061D51841D4D200D83CE0 /* dean_jeffissexy.mp3 in Resources */,
 				D0B062251841D7DC00D83CE0 /* jeff_goldblum.mp3 in Resources */,
+				D091ABF4184619BF009EDF76 /* pierce_wiener.mp3 in Resources */,
+				D0B9DB741846116D00ACBEFB /* other_cake.mp3 in Resources */,
 				D0B060E81841C87700D83CE0 /* annie_friendlyfire.mp3 in Resources */,
+				D091ABF6184619BF009EDF76 /* pierce_youregay.mp3 in Resources */,
 				D0A233AB1840B9A500AF13C1 /* abed_xmastheme.mp3 in Resources */,
 				D0B061981841CF9800D83CE0 /* chang_rap.mp3 in Resources */,
 				D0B060E31841C87700D83CE0 /* annie_boopsex.mp3 in Resources */,
+				D091ABD5184619BF009EDF76 /* pierce_monkeyshots.mp3 in Resources */,
+				D091ACDC1846258D009EDF76 /* troy_transfusions.mp3 in Resources */,
+				D091ABD9184619BF009EDF76 /* pierce_northkorean.mp3 in Resources */,
+				D091ABDD184619BF009EDF76 /* pierce_pillowfight.mp3 in Resources */,
+				D091ACBF1846258D009EDF76 /* troy_myemotions.mp3 in Resources */,
 				D0B061261841CB9300D83CE0 /* britta_cancer.mp3 in Resources */,
+				D091AC151846217C009EDF76 /* shirley_checkers.mp3 in Resources */,
 				D0B0623A1841D7DC00D83CE0 /* jeff_sauce.mp3 in Resources */,
+				D0B9DB8B1846116D00ACBEFB /* other_poppoppolitical2.mp3 in Resources */,
 				D0B0612B1841CB9300D83CE0 /* britta_flavourcountry.mp3 in Resources */,
+				D091ABBD184619BF009EDF76 /* pierce_dryspell.mp3 in Resources */,
 				D0B061221841CB9300D83CE0 /* britta_answers.mp3 in Resources */,
 				D0B0617C1841CF9800D83CE0 /* chang_chachang.mp3 in Resources */,
+				D091AC141846217C009EDF76 /* shirley_behave.mp3 in Resources */,
+				D091ACD41846258D009EDF76 /* troy_spacemanpaninis.mp3 in Resources */,
+				D091ABB1184619BF009EDF76 /* pierce_alertnerd.mp3 in Resources */,
 				D0B062381841D7DC00D83CE0 /* jeff_problems.mp3 in Resources */,
 				D0B062491841D7DC00D83CE0 /* jeff_walkaway.mp3 in Resources */,
+				D0B9DB891846116D00ACBEFB /* other_poppop2.mp3 in Resources */,
+				D091AC2A1846217C009EDF76 /* shirley_witch.mp3 in Resources */,
 				D0A233A21840B9A500AF13C1 /* abed_smile.mp3 in Resources */,
 				D0A233A71840B9A500AF13C1 /* abed_troyandabed.mp3 in Resources */,
 				D0B0618E1841CF9800D83CE0 /* chang_ladies.mp3 in Resources */,
+				D091AC291846217C009EDF76 /* shirley_sun.mp3 in Resources */,
 				D0B061A01841CF9800D83CE0 /* chang_sparechang.mp3 in Resources */,
 				D0B061D61841D4D200D83CE0 /* dean_jerkwad.mp3 in Resources */,
+				D091ACB11846258D009EDF76 /* troy_idontunderstand.mp3 in Resources */,
 				D0B060ED1841C87700D83CE0 /* annie_raisins.mp3 in Resources */,
+				D091ACCA1846258D009EDF76 /* troy_repairman.mp3 in Resources */,
 				D0B062191841D7DC00D83CE0 /* jeff_benchang.mp3 in Resources */,
+				D091ABED184619BF009EDF76 /* pierce_totally.mp3 in Resources */,
+				D0B9DB6B1846116D00ACBEFB /* other_africa.mp3 in Resources */,
 				D0B0622E1841D7DC00D83CE0 /* jeff_learn.mp3 in Resources */,
+				D091AC221846217C009EDF76 /* shirley_pumpkinass.mp3 in Resources */,
+				D091AC9E1846258D009EDF76 /* troy_daybreak.mp3 in Resources */,
+				D091ABC3184619BF009EDF76 /* pierce_fight.mp3 in Resources */,
+				D091ABCB184619BF009EDF76 /* pierce_heyguys.mp3 in Resources */,
 				D0B061821841CF9800D83CE0 /* chang_drunkandstupid.mp3 in Resources */,
+				D0B9DB7C1846116D00ACBEFB /* other_kissedbyarose.mp3 in Resources */,
 				D0B061441841CB9300D83CE0 /* britta_youpeople.mp3 in Resources */,
+				D091ABEE184619BF009EDF76 /* pierce_tweedle.mp3 in Resources */,
 				D0B0613F1841CB9300D83CE0 /* britta_turd.mp3 in Resources */,
+				D091ABCF184619BF009EDF76 /* pierce_insult1.mp3 in Resources */,
+				D0B9DB9E1846116D00ACBEFB /* other_yousuck.mp3 in Resources */,
+				D091AC941846258D009EDF76 /* troy_boner.mp3 in Resources */,
 				D0B0617D1841CF9800D83CE0 /* chang_changd.mp3 in Resources */,
+				D091AC281846217C009EDF76 /* shirley_stepaside.mp3 in Resources */,
+				D091ACA91846258D009EDF76 /* troy_gentle.mp3 in Resources */,
+				D091ABF3184619BF009EDF76 /* pierce_whoresmanship.mp3 in Resources */,
+				D091ACC41846258D009EDF76 /* troy_pepperwatter.mp3 in Resources */,
 				D0B0622A1841D7DC00D83CE0 /* jeff_herpes.mp3 in Resources */,
 				D0B0621E1841D7DC00D83CE0 /* jeff_congrahorrible.mp3 in Resources */,
+				D091AC1F1846217C009EDF76 /* shirley_marijuanalighter.mp3 in Resources */,
+				D091ABD4184619BF009EDF76 /* pierce_mensroom.mp3 in Resources */,
 				D0B062311841D7DC00D83CE0 /* jeff_menaremonsters.mp3 in Resources */,
+				D091ACC11846258D009EDF76 /* troy_notdrugs.mp3 in Resources */,
+				D091ACCC1846258D009EDF76 /* troy_right.mp3 in Resources */,
+				D0B9DB8E1846116D00ACBEFB /* other_sabotage.mp3 in Resources */,
+				D091ACB51846258D009EDF76 /* troy_intimacy.mp3 in Resources */,
+				D091AC9F1846258D009EDF76 /* troy_daybreaksad.mp3 in Resources */,
 				D0B061361841CB9300D83CE0 /* britta_pewpew.mp3 in Resources */,
 				D0B061231841CB9300D83CE0 /* britta_autoworkers.mp3 in Resources */,
+				D0B9DB8F1846116D00ACBEFB /* other_sex.mp3 in Resources */,
 				D0B061311841CB9300D83CE0 /* britta_hugbutton.mp3 in Resources */,
 				D0B061291841CB9300D83CE0 /* britta_dumbgaydad.mp3 in Resources */,
 				D0B061DD1841D4D200D83CE0 /* dean_nehao.mp3 in Resources */,
 				D0A233911840B9A500AF13C1 /* abed_deaf.mp3 in Resources */,
+				D091ACC51846258D009EDF76 /* troy_popwhat.mp3 in Resources */,
 				D0A233981840B9A500AF13C1 /* abed_mention.mp3 in Resources */,
+				D091ACBE1846258D009EDF76 /* troy_multiplepersonalities.mp3 in Resources */,
+				D091ABE9184619BF009EDF76 /* pierce_theyareruthless.mp3 in Resources */,
 				D0B061301841CB9300D83CE0 /* britta_homophobe.mp3 in Resources */,
 				D0B060F31841C87700D83CE0 /* annie_waiting.mp3 in Resources */,
+				D091ACC81846258D009EDF76 /* troy_randomdessert.mp3 in Resources */,
 				D0B061331841CB9300D83CE0 /* britta_memorypops.mp3 in Resources */,
+				D091ABC7184619BF009EDF76 /* pierce_gaysex.mp3 in Resources */,
+				D091ABDA184619BF009EDF76 /* pierce_obamasamerica.mp3 in Resources */,
+				D091ABC0184619BF009EDF76 /* pierce_erections.mp3 in Resources */,
+				D091ACAF1846258D009EDF76 /* troy_huzzah.mp3 in Resources */,
 				D0B061841841CF9800D83CE0 /* chang_feeltheheat.mp3 in Resources */,
+				D091AC8E1846258D009EDF76 /* troy_animalhospital.mp3 in Resources */,
+				D091ABBA184619BF009EDF76 /* pierce_chinese.mp3 in Resources */,
 				D0B062441841D7DC00D83CE0 /* jeff_sup.mp3 in Resources */,
 				D0B0618B1841CF9800D83CE0 /* chang_keepdoingthat.mp3 in Resources */,
 				D0B061251841CB9300D83CE0 /* britta_bang.mp3 in Resources */,
+				D091ACB71846258D009EDF76 /* troy_jumptheshark.mp3 in Resources */,
 				D0B061851841CF9800D83CE0 /* chang_gay.mp3 in Resources */,
 				D0B0618F1841CF9800D83CE0 /* chang_metme.mp3 in Resources */,
 				D0A2338C1840B9A500AF13C1 /* abed_broke.mp3 in Resources */,
 				D0B062411841D7DC00D83CE0 /* jeff_shutupshort.mp3 in Resources */,
 				D0B061861841CF9800D83CE0 /* chang_gayfact.mp3 in Resources */,
+				D0B9DB831846116D00ACBEFB /* other_magnitudevsleonard.mp3 in Resources */,
+				D091ABDB184619BF009EDF76 /* pierce_operation.mp3 in Resources */,
+				D0B9DB751846116D00ACBEFB /* other_chillaxing.mp3 in Resources */,
+				D0B9DB8D1846116D00ACBEFB /* other_realwars.mp3 in Resources */,
 				D0A233921840B9A500AF13C1 /* abed_deargod.mp3 in Resources */,
 				D0B061401841CB9300D83CE0 /* britta_unbang.mp3 in Resources */,
+				D0B9DB911846116D00ACBEFB /* other_song.mp3 in Resources */,
 				D0B062281841D7DC00D83CE0 /* jeff_groups.mp3 in Resources */,
 				D0B0612E1841CB9300D83CE0 /* britta_gravedanger.mp3 in Resources */,
 				D0B061CD1841D4D200D83CE0 /* dean_dontgiveadean.mp3 in Resources */,
@@ -1226,12 +2176,18 @@
 				D0B062221841D7DC00D83CE0 /* jeff_ferrari.mp3 in Resources */,
 				D0B060F21841C87700D83CE0 /* annie_unpopular.mp3 in Resources */,
 				D0B061391841CB9300D83CE0 /* britta_pointyface.mp3 in Resources */,
+				D091AC981846258D009EDF76 /* troy_catpenis.mp3 in Resources */,
+				D091ABB8184619BF009EDF76 /* pierce_burner.mp3 in Resources */,
+				D091ABC5184619BF009EDF76 /* pierce_garfunkel.mp3 in Resources */,
 				D0A2338B1840B9A500AF13C1 /* abed_bender.mp3 in Resources */,
+				D091AC1E1846217C009EDF76 /* shirley_livinginyourcar.mp3 in Resources */,
 				D0B062361841D7DC00D83CE0 /* jeff_older.mp3 in Resources */,
+				D091ACA61846258D009EDF76 /* troy_footballrap2.mp3 in Resources */,
 				D0B0613B1841CB9300D83CE0 /* britta_racistpedophiles.mp3 in Resources */,
 				D0B061791841CF9800D83CE0 /* chang_bowwow.mp3 in Resources */,
 				D0A233A61840B9A500AF13C1 /* abed_thumb.mp3 in Resources */,
 				D0B062451841D7DC00D83CE0 /* jeff_tbone.mp3 in Resources */,
+				D0B9DB781846116D00ACBEFB /* other_duncanrap.mp3 in Resources */,
 				D0B061241841CB9300D83CE0 /* britta_awkwardsong.mp3 in Resources */,
 				D0A2338E1840B9A500AF13C1 /* abed_coatrack.mp3 in Resources */,
 				D0B060E91841C87700D83CE0 /* annie_gay.mp3 in Resources */,
@@ -1241,51 +2197,91 @@
 				D0B061E41841D4D200D83CE0 /* dean_yoko.mp3 in Resources */,
 				D0A2338F1840B9A500AF13C1 /* abed_condoms.mp3 in Resources */,
 				D0AFC2DF183CF89A00BDD2D5 /* people.plist in Resources */,
+				D091ACD91846258D009EDF76 /* troy_tarnish.mp3 in Resources */,
+				D091AC261846217C009EDF76 /* shirley_skinnybitches.mp3 in Resources */,
 				D0B061341841CB9300D83CE0 /* britta_myfinal.mp3 in Resources */,
 				D0B061931841CF9800D83CE0 /* chang_paintball.mp3 in Resources */,
+				D091ABC6184619BF009EDF76 /* pierce_gayguess.mp3 in Resources */,
 				D0B0617B1841CF9800D83CE0 /* chang_buenosdias.mp3 in Resources */,
 				D0A233A11840B9A500AF13C1 /* abed_sixseasonsandamovie.mp3 in Resources */,
+				D091AC1C1846217C009EDF76 /* shirley_kegstand.mp3 in Resources */,
 				D0B061CE1841D4D200D83CE0 /* dean_driveby.mp3 in Resources */,
+				D0B9DB921846116D00ACBEFB /* other_sonofabitch.mp3 in Resources */,
+				D091ACB31846258D009EDF76 /* troy_ijustwantedapicture.mp3 in Resources */,
 				D0B061C61841D4D200D83CE0 /* dean_awken.mp3 in Resources */,
 				D0B0613E1841CB9300D83CE0 /* britta_subway.mp3 in Resources */,
 				D0A233951840B9A500AF13C1 /* abed_imabed.mp3 in Resources */,
+				D0B9DB711846116D00ACBEFB /* other_blow.mp3 in Resources */,
+				D091AC931846258D009EDF76 /* troy_bloodmoney.mp3 in Resources */,
+				D091ABD8184619BF009EDF76 /* pierce_nietzsche.mp3 in Resources */,
+				D0B9DB9C1846116D00ACBEFB /* other_xmasisfor.mp3 in Resources */,
 				D0B062421841D7DC00D83CE0 /* jeff_sueastripper.mp3 in Resources */,
 				D0A233AC1840B9A500AF13C1 /* abed_xmastroy.mp3 in Resources */,
+				D0B9DB7E1846116D00ACBEFB /* other_labiblioteca.mp3 in Resources */,
+				D091ABDF184619BF009EDF76 /* pierce_poop.mp3 in Resources */,
 				D0A2339E1840B9A500AF13C1 /* abed_reacting.mp3 in Resources */,
 				D0B061DC1841D4D200D83CE0 /* dean_musicdepartment.mp3 in Resources */,
 				D0A2339C1840B9A500AF13C1 /* abed_predator.mp3 in Resources */,
 				D0B062341841D7DC00D83CE0 /* jeff_notracist.mp3 in Resources */,
+				D091ACA11846258D009EDF76 /* troy_dracula.mp3 in Resources */,
 				D0A233931840B9A500AF13C1 /* abed_f15.mp3 in Resources */,
 				D0B061DE1841D4D200D83CE0 /* dean_puppyparade.mp3 in Resources */,
 				D0B061D41841D4D200D83CE0 /* dean_handicap.mp3 in Resources */,
 				D0A233881840B9A500AF13C1 /* abed_balls.mp3 in Resources */,
+				D091ACBA1846258D009EDF76 /* troy_lightning.mp3 in Resources */,
+				D091ACB21846258D009EDF76 /* troy_ihateyoupierce.mp3 in Resources */,
 				D0A233A41840B9A500AF13C1 /* abed_specialdrink.mp3 in Resources */,
 				D0A2339A1840B9A500AF13C1 /* abed_pam.mp3 in Resources */,
+				D091ABE1184619BF009EDF76 /* pierce_sausage.mp3 in Resources */,
+				D091ABC1184619BF009EDF76 /* pierce_excuseme.mp3 in Resources */,
+				D091ACAB1846258D009EDF76 /* troy_help.mp3 in Resources */,
+				D091AC201846217C009EDF76 /* shirley_megan.mp3 in Resources */,
+				D091ABB3184619BF009EDF76 /* pierce_bald.mp3 in Resources */,
 				D0B062431841D7DC00D83CE0 /* jeff_suicide.mp3 in Resources */,
 				D0A233991840B9A500AF13C1 /* abed_onmywatch.mp3 in Resources */,
+				D0B9DB6D1846116D00ACBEFB /* other_anniessong.mp3 in Resources */,
+				D0B9DB731846116D00ACBEFB /* other_byzeus.mp3 in Resources */,
+				D091ABBB184619BF009EDF76 /* pierce_cmon.mp3 in Resources */,
 				D0B061DF1841D4D200D83CE0 /* dean_seal.mp3 in Resources */,
 				D0B060F11841C87700D83CE0 /* annie_uhh.mp3 in Resources */,
+				D0B9DB761846116D00ACBEFB /* other_crisis.mp3 in Resources */,
 				D0B0619F1841CF9800D83CE0 /* chang_spanishrap.mp3 in Resources */,
 				D0A233591840B66300AF13C1 /* pic.jpg in Resources */,
 				D0B061881841CF9800D83CE0 /* chang_guilty.mp3 in Resources */,
+				D091AC961846258D009EDF76 /* troy_borninthe80s.mp3 in Resources */,
 				D0B0621A1841D7DC00D83CE0 /* jeff_bitchdog.mp3 in Resources */,
 				D0A2339D1840B9A500AF13C1 /* abed_predictable.mp3 in Resources */,
 				D0A233971840B9A500AF13C1 /* abed_ladyparts.mp3 in Resources */,
 				D0B061C71841D4D200D83CE0 /* dean_ballers.mp3 in Resources */,
+				D091ABEA184619BF009EDF76 /* pierce_theyregay.mp3 in Resources */,
 				D0B061371841CB9300D83CE0 /* britta_pizza.mp3 in Resources */,
 				D0B061A41841CF9800D83CE0 /* chang_turn.mp3 in Resources */,
+				D0B9DB981846116D00ACBEFB /* other_troyandabedbeingnormal.mp3 in Resources */,
 				D0B061D81841D4D200D83CE0 /* dean_low.mp3 in Resources */,
 				D0B0618C1841CF9800D83CE0 /* chang_keytar.mp3 in Resources */,
 				D0B060F51841C87700D83CE0 /* annie_xmashipster.mp3 in Resources */,
+				D091ACE11846258D009EDF76 /* troy_xmas.mp3 in Resources */,
 				D0B0621F1841D7DC00D83CE0 /* jeff_dean.mp3 in Resources */,
+				D0B9DB941846116D00ACBEFB /* other_takei.mp3 in Resources */,
+				D091ABEB184619BF009EDF76 /* pierce_tongue.mp3 in Resources */,
+				D091ABC4184619BF009EDF76 /* pierce_firstofall.mp3 in Resources */,
+				D091ACA41846258D009EDF76 /* troy_football.mp3 in Resources */,
+				D091AC231846217C009EDF76 /* shirley_rascist.mp3 in Resources */,
 				D0B0611F1841CB9300D83CE0 /* britta_alongline.mp3 in Resources */,
 				D0A233AA1840B9A500AF13C1 /* abed_xmasshirley.mp3 in Resources */,
+				D091AC881846258D009EDF76 /* troy_69th.mp3 in Resources */,
 				D0B060E11841C87700D83CE0 /* annie_blade.mp3 in Resources */,
 				D0B0622C1841D7DC00D83CE0 /* jeff_killus.mp3 in Resources */,
+				D0B9DB9D1846116D00ACBEFB /* other_yourgod.mp3 in Resources */,
 				D0B061D31841D4D200D83CE0 /* dean_gaymarriage.mp3 in Resources */,
 				D0B061DB1841D4D200D83CE0 /* dean_mountdean.mp3 in Resources */,
+				D0B9DB721846116D00ACBEFB /* other_boobs.mp3 in Resources */,
 				D0B0621B1841D7DC00D83CE0 /* jeff_changry.mp3 in Resources */,
 				D0B061C91841D4D200D83CE0 /* dean_brittainthis.mp3 in Resources */,
+				D091ABC2184619BF009EDF76 /* pierce_explosioin.mp3 in Resources */,
+				D091ABB0184619BF009EDF76 /* pierce_aintnoparty.mp3 in Resources */,
+				D091ABE6184619BF009EDF76 /* pierce_straighttohell.mp3 in Resources */,
+				D0B9DB7D1846116D00ACBEFB /* other_knockknock.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

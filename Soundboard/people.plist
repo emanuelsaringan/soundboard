@@ -1167,6 +1167,94 @@
                     <key>label</key>
                     <string>Shark Week</string>
                 </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_shutupleonardirony</string>
+                    
+                    <key>label</key>
+                    <string>Shut Up Leonard Irony</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_shutuplong</string>
+                    
+                    <key>label</key>
+                    <string>Shut Up (Long)</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_shutupshort</string>
+                    
+                    <key>label</key>
+                    <string>Shut Up (Short)</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_sueastripper</string>
+                    
+                    <key>label</key>
+                    <string>Sue A Stripper</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_suicide</string>
+                    
+                    <key>label</key>
+                    <string>Suicide</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_sup</string>
+                    
+                    <key>label</key>
+                    <string>Sup</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_tbone</string>
+                    
+                    <key>label</key>
+                    <string>T - Bone</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_throne</string>
+                    
+                    <key>label</key>
+                    <string>Throne</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_toldyouso</string>
+                    
+                    <key>label</key>
+                    <string>Told You So</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_trombone</string>
+                    
+                    <key>label</key>
+                    <string>Trombone</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>jeff_walkaway</string>
+                    
+                    <key>label</key>
+                    <string>Walkaway</string>
+                </dict>
             </array>
         </dict>
         
@@ -1178,26 +1266,562 @@
             <array>
                 <dict>
                     <key>code</key>
-                    <string>5a</string>
+                    <string>pierce_5to1</string>
                     
                     <key>label</key>
-                    <string>Apple</string>
+                    <string>5 to 1</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>5b</string>
+                    <string>pierce_aintnoparty</string>
                     
                     <key>label</key>
-                    <string>iMac</string>
+                    <string>Ain't No Party'</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>5c</string>
+                    <string>pierce_alertnerd</string>
                     
                     <key>label</key>
-                    <string>Retina Display</string>
+                    <string>Alert Nerd</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_areyouonweed</string>
+                    
+                    <key>label</key>
+                    <string>Are You On Weed?</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_bald</string>
+                    
+                    <key>label</key>
+                    <string>Bald</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_bdaycake</string>
+                    
+                    <key>label</key>
+                    <string>Bday Cake</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_bettygrable</string>
+                    
+                    <key>label</key>
+                    <string>Betty Grable</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_blackpeople</string>
+                    
+                    <key>label</key>
+                    <string>Black People</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_britta</string>
+                    
+                    <key>label</key>
+                    <string>Britta</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_burner</string>
+                    
+                    <key>label</key>
+                    <string>Burner</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_burnthismotherdown</string>
+                    
+                    <key>label</key>
+                    <string>Burn This Mother Down</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_chinese</string>
+                    
+                    <key>label</key>
+                    <string>Chinese</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_cmon</string>
+                    
+                    <key>label</key>
+                    <string>Cmon</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_dialitback</string>
+                    
+                    <key>label</key>
+                    <string>Dial It Back</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_dryspell</string>
+                    
+                    <key>label</key>
+                    <string>Dry Spell</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_ear</string>
+                    
+                    <key>label</key>
+                    <string>Ear</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_erect</string>
+                    
+                    <key>label</key>
+                    <string>Erections</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_excuseme</string>
+                    
+                    <key>label</key>
+                    <string>Excuse Me</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_explosion</string>
+                    
+                    <key>label</key>
+                    <string>Explosion</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_fight</string>
+                    
+                    <key>label</key>
+                    <string>Fight</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_firstofall</string>
+                    
+                    <key>label</key>
+                    <string>First of All</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_garfunkel</string>
+                    
+                    <key>label</key>
+                    <string>Garfunkel</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_gayguess</string>
+                    
+                    <key>label</key>
+                    <string>Gay Guess</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_gaysex</string>
+                    
+                    <key>label</key>
+                    <string>Gay Sex</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_genius</string>
+                    
+                    <key>label</key>
+                    <string>Genius</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_guilt</string>
+                    
+                    <key>label</key>
+                    <string>Guilt</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_hatesamerica</string>
+                    
+                    <key>label</key>
+                    <string>Hates America</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_heyguys</string>
+                    
+                    <key>label</key>
+                    <string>Hey Guys</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_huntpeople</string>
+                    
+                    <key>label</key>
+                    <string>Hunt People</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_illbealivinggod</string>
+                    
+                    <key>label</key>
+                    <string>I'll be a living God</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_inmyday</string>
+                    
+                    <key>label</key>
+                    <string>In My Day</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_insult1</string>
+                    
+                    <key>label</key>
+                    <string>Insult 1</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_insult2</string>
+                    
+                    <key>label</key>
+                    <string>Insult 2</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_iwasdead</string>
+                    
+                    <key>label</key>
+                    <string>I Was Dead</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_killyourfamilies</string>
+                    
+                    <key>label</key>
+                    <string>Kill Your Families</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_marrythem</string>
+                    
+                    <key>label</key>
+                    <string>Marry Them</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_mensroom</string>
+                    
+                    <key>label</key>
+                    <string>Men's Room</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_monkeyshots</string>
+                    
+                    <key>label</key>
+                    <string>Monkey Shots</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_moustache</string>
+                    
+                    <key>label</key>
+                    <string>Moustache</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_myplatform</string>
+                    
+                    <key>label</key>
+                    <string>My Platform</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_nietzsche</string>
+                    
+                    <key>label</key>
+                    <string>Nietzsche</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_northkorean</string>
+                    
+                    <key>label</key>
+                    <string>North Korean</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_obamasamerica</string>
+                    
+                    <key>label</key>
+                    <string>Obama's America</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_operation</string>
+                    
+                    <key>label</key>
+                    <string>Party</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_pillowfight</string>
+                    
+                    <key>label</key>
+                    <string>Pillow Fight</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_pocketphone</string>
+                    
+                    <key>label</key>
+                    <string>Pocket Phone</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_poop</string>
+                    
+                    <key>label</key>
+                    <string>Poop</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_rainbow</string>
+                    
+                    <key>label</key>
+                    <string>Rainbow</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_sausage</string>
+                    
+                    <key>label</key>
+                    <string>Sausage</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_shesfat</string>
+                    
+                    <key>label</key>
+                    <string>She's Fat</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_sneakattack</string>
+                    
+                    <key>label</key>
+                    <string>Sneak Attack</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_somalia</string>
+                    
+                    <key>label</key>
+                    <string>Somalia</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_sperm</string>
+                    
+                    <key>label</key>
+                    <string>Sperm</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_straighttohell</string>
+                    
+                    <key>label</key>
+                    <string>Straight To Hell</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_streetsahead</string>
+                    
+                    <key>label</key>
+                    <string>Streets Ahead</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_tbd</string>
+                    
+                    <key>label</key>
+                    <string>TBD</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_theyareruthless</string>
+                    
+                    <key>label</key>
+                    <string>They Are Ruthless</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_theyregay</string>
+                    
+                    <key>label</key>
+                    <string>They're Gay</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_tongue</string>
+                    
+                    <key>label</key>
+                    <string>Tongue</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_tool</string>
+                    
+                    <key>label</key>
+                    <string>Tool</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_totally</string>
+                    
+                    <key>label</key>
+                    <string>Totally</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_tweedle</string>
+                    
+                    <key>label</key>
+                    <string>Tweedle</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_vengeance</string>
+                    
+                    <key>label</key>
+                    <string>Vengeance</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_vietnam</string>
+                    
+                    <key>label</key>
+                    <string>Vietnam</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_voicecommand</string>
+                    
+                    <key>label</key>
+                    <string>Voice Command</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_whore</string>
+                    
+                    <key>label</key>
+                    <string>Whore</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_whoremanship</string>
+                    
+                    <key>label</key>
+                    <string>Whoremanship</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_wiener</string>
+                    
+                    <key>label</key>
+                    <string>Wiener</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_yawn</string>
+                    
+                    <key>label</key>
+                    <string>Yawn</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>pierce_youregay</string>
+                    
+                    <key>label</key>
+                    <string>You're gay</string>
                 </dict>
             </array>
         </dict>
@@ -1210,26 +1834,210 @@
             <array>
                 <dict>
                     <key>code</key>
-                    <string>6a</string>
+                    <string>shirley_asssense</string>
                     
                     <key>label</key>
-                    <string>Kobe Bryant</string>
+                    <string>Ass Sense</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>6b</string>
+                    <string>shirley_bdayjesus</string>
                     
                     <key>label</key>
-                    <string>Lebron James</string>
+                    <string>Bday Jesus</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>6c</string>
+                    <string>shirley_behave</string>
                     
                     <key>label</key>
-                    <string>Derrick Rose</string>
+                    <string>Behave</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_checkers</string>
+                    
+                    <key>label</key>
+                    <string>Checkers</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_cocaine</string>
+                    
+                    <key>label</key>
+                    <string>Cocaine</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_cohabitation</string>
+                    
+                    <key>label</key>
+                    <string>Cohabitation</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_damn</string>
+                    
+                    <key>label</key>
+                    <string>Damn</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_godmad</string>
+                    
+                    <key>label</key>
+                    <string>God Mad</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_hateme</string>
+                    
+                    <key>label</key>
+                    <string>Hate Me</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_immadie</string>
+                    
+                    <key>label</key>
+                    <string>Im'ma Die</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_kegstand</string>
+                    
+                    <key>label</key>
+                    <string>Keg Stand</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_ladiesroom</string>
+                    
+                    <key>label</key>
+                    <string>Ladies Room</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_livinginyourcar</string>
+                    
+                    <key>label</key>
+                    <string>Living In Your Car</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_marijuanalighter</string>
+                    
+                    <key>label</key>
+                    <string>Marijuana Lighter</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_megan</string>
+                    
+                    <key>label</key>
+                    <string>Megan</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_pity</string>
+                    
+                    <key>label</key>
+                    <string>Pity</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_pumpkinass</string>
+                    
+                    <key>label</key>
+                    <string>Pumpkin Ass</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_rascist</string>
+                    
+                    <key>label</key>
+                    <string>Rascist</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_sassy</string>
+                    
+                    <key>label</key>
+                    <string>Sassy</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_scriptureme</string>
+                    
+                    <key>label</key>
+                    <string>Scripture Me</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_skinnybitches</string>
+                    
+                    <key>label</key>
+                    <string>Skinny Bitches</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_soundslike</string>
+                    
+                    <key>label</key>
+                    <string>Sounds Like</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_stepaside</string>
+                    
+                    <key>label</key>
+                    <string>Step Aside</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_sun</string>
+                    
+                    <key>label</key>
+                    <string>Sun</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_witch</string>
+                    
+                    <key>label</key>
+                    <string>Witch</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>shirley_wizard</string>
+                    
+                    <key>label</key>
+                    <string>Wizard</string>
                 </dict>
             </array>
         </dict>
@@ -1242,26 +2050,730 @@
             <array>
                 <dict>
                     <key>code</key>
-                    <string>7a</string>
+                    <string>troy_69th</string>
                     
                     <key>label</key>
-                    <string>Steve</string>
+                    <string>69th</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>7b</string>
+                    <string>troy_afteranniesboobs</string>
                     
                     <key>label</key>
-                    <string>Bill</string>
+                    <string>After Annie's Boobs</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>7c</string>
+                    <string>troy_alliheardwassuck</string>
                     
                     <key>label</key>
-                    <string>Larry</string>
+                    <string>All I Heard Was Suck</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_allterrain</string>
+                    
+                    <key>label</key>
+                    <string>All Terrain</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_alltomato</string>
+                    
+                    <key>label</key>
+                    <string>All Tomato</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_analogy</string>
+                    
+                    <key>label</key>
+                    <string>Analogy</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_animalhospital</string>
+                    
+                    <key>label</key>
+                    <string>Animal Hospital</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_anniesboobs</string>
+                    
+                    <key>label</key>
+                    <string>Annie's Boobs</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_ateit</string>
+                    
+                    <key>label</key>
+                    <string>Ate It</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_attofpeople</string>
+                    
+                    <key>label</key>
+                    <string>AT&amp;T of People</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_beblack</string>
+                    
+                    <key>label</key>
+                    <string>Be Black</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_bloodmoney</string>
+                    
+                    <key>label</key>
+                    <string>Blood Money</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_boner</string>
+                    
+                    <key>label</key>
+                    <string>Boner</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_booty</string>
+                    
+                    <key>label</key>
+                    <string>Booty</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_borninthe80s</string>
+                    
+                    <key>label</key>
+                    <string>Born In the 80's</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_brain</string>
+                    
+                    <key>label</key>
+                    <string>Brain</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_catpenis</string>
+                    
+                    <key>label</key>
+                    <string>Cat Penis</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_chinesepowers</string>
+                    
+                    <key>label</key>
+                    <string>Chinese Powers</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_confessions</string>
+                    
+                    <key>label</key>
+                    <string>Confessions</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_cookiewand</string>
+                    
+                    <key>label</key>
+                    <string>Cookie Wand</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_crabdip</string>
+                    
+                    <key>label</key>
+                    <string>Crab Dip</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_dad</string>
+                    
+                    <key>label</key>
+                    <string>Dad</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_daybreak</string>
+                    
+                    <key>label</key>
+                    <string>Daybreak</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_daybreaksad</string>
+                    
+                    <key>label</key>
+                    <string>Daybreak (Sad)</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_doctor</string>
+                    
+                    <key>label</key>
+                    <string>Doctor</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_dracula</string>
+                    
+                    <key>label</key>
+                    <string>Dracula</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_eataghost</string>
+                    
+                    <key>label</key>
+                    <string>Eat A Ghost</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_feet</string>
+                    
+                    <key>label</key>
+                    <string>Feet</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_football</string>
+                    
+                    <key>label</key>
+                    <string>Football</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_footballrap1</string>
+                    
+                    <key>label</key>
+                    <string>Football Rap 1</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_footballrap2</string>
+                    
+                    <key>label</key>
+                    <string>Football Rap 2</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_funvampire</string>
+                    
+                    <key>label</key>
+                    <string>Fun Vampire</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_genitals</string>
+                    
+                    <key>label</key>
+                    <string>Genitals</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_gentle</string>
+                    
+                    <key>label</key>
+                    <string>Gentle</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_gogurt</string>
+                    
+                    <key>label</key>
+                    <string>Gogurt</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_help</string>
+                    
+                    <key>label</key>
+                    <string>Help</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_howmanylies</string>
+                    
+                    <key>label</key>
+                    <string>How Many Lies</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_howyoulivin</string>
+                    
+                    <key>label</key>
+                    <string>How You Livin</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_hurry</string>
+                    
+                    <key>label</key>
+                    <string>Hurry</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_huzzah</string>
+                    
+                    <key>label</key>
+                    <string>Huzzah</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_huzzahsad</string>
+                    
+                    <key>label</key>
+                    <string>Huzzah (Sad)</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_idontunderstand</string>
+                    
+                    <key>label</key>
+                    <string>I Don't Understand</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_ihateyoupierce</string>
+                    
+                    <key>label</key>
+                    <string>I Hate You Pierce</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_ijustwantedapicture</string>
+                    
+                    <key>label</key>
+                    <string>I Just Wanted A Picture</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_ijustwantedapicturelong</string>
+                    
+                    <key>label</key>
+                    <string>I Just Wanted A Picture (Long)</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_intimacy</string>
+                    
+                    <key>label</key>
+                    <string>Intimacy</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_jackson</string>
+                    
+                    <key>label</key>
+                    <string>Jackson</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_jumptheshark</string>
+                    
+                    <key>label</key>
+                    <string>Jump The Shark</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_kettlecorn</string>
+                    
+                    <key>label</key>
+                    <string>Kettle Corn</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_lickit</string>
+                    
+                    <key>label</key>
+                    <string>Lick It</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_lightning</string>
+                    
+                    <key>label</key>
+                    <string>Lightning</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_likeness</string>
+                    
+                    <key>label</key>
+                    <string>Likeness</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_linebacker</string>
+                    
+                    <key>label</key>
+                    <string>Linebacker</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_marketprice</string>
+                    
+                    <key>label</key>
+                    <string>Market Price</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_multiplepersonalities</string>
+                    
+                    <key>label</key>
+                    <string>Multiple Personalities</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_myemotions</string>
+                    
+                    <key>label</key>
+                    <string>My Emotions</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_mymom</string>
+                    
+                    <key>label</key>
+                    <string>My Mom</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_notdrugs</string>
+                    
+                    <key>label</key>
+                    <string>Not Drugs</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_omgjoshua</string>
+                    
+                    <key>label</key>
+                    <string>OMG Joshua</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_parkedbyameter</string>
+                    
+                    <key>label</key>
+                    <string>Parked By A Meter</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_pepperwatter</string>
+                    
+                    <key>label</key>
+                    <string>Pepper Watter</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_popwhat</string>
+                    
+                    <key>label</key>
+                    <string>Pop What</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_punchedintheface</string>
+                    
+                    <key>label</key>
+                    <string>Punched In the Face</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_raft</string>
+                    
+                    <key>label</key>
+                    <string>Raft</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_randomdessert</string>
+                    
+                    <key>label</key>
+                    <string>Random Dessert</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_randy</string>
+                    
+                    <key>label</key>
+                    <string>Randy</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_repairman</string>
+                    
+                    <key>label</key>
+                    <string>Repairman</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_richpeople</string>
+                    
+                    <key>label</key>
+                    <string>Rich People</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_right</string>
+                    
+                    <key>label</key>
+                    <string>Right</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_setphasers</string>
+                    
+                    <key>label</key>
+                    <string>Set Phasers</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_sex</string>
+                    
+                    <key>label</key>
+                    <string>Sex</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_slut</string>
+                    
+                    <key>label</key>
+                    <string>Slut</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_snake</string>
+                    
+                    <key>label</key>
+                    <string>Snake</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_snap</string>
+                    
+                    <key>label</key>
+                    <string>Snap</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_sneeze</string>
+                    
+                    <key>label</key>
+                    <string>Sneeze</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_soultrain</string>
+                    
+                    <key>label</key>
+                    <string>Soul Train</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_spacemanpaninis</string>
+                    
+                    <key>label</key>
+                    <string>Spaceman Paninis</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_Stalin</string>
+                    
+                    <key>label</key>
+                    <string>Stalin</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_sugarbear</string>
+                    
+                    <key>label</key>
+                    <string>Sugar Bear</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_swim</string>
+                    
+                    <key>label</key>
+                    <string>Swim</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_ta</string>
+                    
+                    <key>label</key>
+                    <string>TA</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_tarnish</string>
+                    
+                    <key>label</key>
+                    <string>Tarnish</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_thinking</string>
+                    
+                    <key>label</key>
+                    <string>Thinking</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_thoughtpolice</string>
+                    
+                    <key>label</key>
+                    <string>Thought Police</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_transfusions</string>
+                    
+                    <key>label</key>
+                    <string>Transfusions</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_trippin</string>
+                    
+                    <key>label</key>
+                    <string>Trippin</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_whitepeople</string>
+                    
+                    <key>label</key>
+                    <string>White People</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_wholebrain</string>
+                    
+                    <key>label</key>
+                    <string>Whole Brain</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_whosbetty</string>
+                    
+                    <key>label</key>
+                    <string>Who's Betty</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_xmas</string>
+                    
+                    <key>label</key>
+                    <string>Xmas</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>troy_youare</string>
+                    
+                    <key>label</key>
+                    <string>You Are</string>
                 </dict>
             </array>
         </dict>
@@ -1922,26 +3434,410 @@
             <array>
                 <dict>
                     <key>code</key>
-                    <string>10a</string>
+                    <string>other_africa</string>
                     
                     <key>label</key>
-                    <string>The</string>
+                    <string>Africa</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>10b</string>
+                    <string>other_alex</string>
                     
                     <key>label</key>
-                    <string>Walking</string>
+                    <string>Alex</string>
                 </dict>
                 
                 <dict>
                     <key>code</key>
-                    <string>10c</string>
+                    <string>other_anniessong</string>
                     
                     <key>label</key>
-                    <string>Dead</string>
+                    <string>Annie's Song</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_antioxidant</string>
+                    
+                    <key>label</key>
+                    <string>Antioxidant</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_avemaria</string>
+                    
+                    <key>label</key>
+                    <string>Ave Maria</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_beastmaster</string>
+                    
+                    <key>label</key>
+                    <string>Beast Master</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_blow</string>
+                    
+                    <key>label</key>
+                    <string>Blow</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_boobs</string>
+                    
+                    <key>label</key>
+                    <string>Boobs</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_byzeus</string>
+                    
+                    <key>label</key>
+                    <string>By Zeus</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_cake</string>
+                    
+                    <key>label</key>
+                    <string>Cake</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_chillaxing</string>
+                    
+                    <key>label</key>
+                    <string>Chillaxing</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_crisis</string>
+                    
+                    <key>label</key>
+                    <string>Crisis</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_duncanbitemybanger</string>
+                    
+                    <key>label</key>
+                    <string>Bite My Banger</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_duncanrap</string>
+                    
+                    <key>label</key>
+                    <string>Duncan Rap</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_evil</string>
+                    
+                    <key>label</key>
+                    <string>Evil</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_finallybefine</string>
+                    
+                    <key>label</key>
+                    <string>Finally Be Fine</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_garretsunny</string>
+                    
+                    <key>label</key>
+                    <string>Garret Sunny</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_kissedbyarose</string>
+                    
+                    <key>label</key>
+                    <string>Kissed By A Rose</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_knockknock</string>
+                    
+                    <key>label</key>
+                    <string>Knock Knock</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_labiblioteca</string>
+                    
+                    <key>label</key>
+                    <string>La Biblioteca</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_leasttight</string>
+                    
+                    <key>label</key>
+                    <string>Least Tight</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_leonardlikesthispost</string>
+                    
+                    <key>label</key>
+                    <string>Leonard Likes This Post</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_leonardgaywads</string>
+                    
+                    <key>label</key>
+                    <string>Leonard Gay Wads</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_magnitudepoppopcaptain</string>
+                    
+                    <key>label</key>
+                    <string>Magnitude Pop Pop Captain</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_magnitudevsleonard</string>
+                    
+                    <key>label</key>
+                    <string>Magnitude vs. Leonard</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_narratorakinto911</string>
+                    
+                    <key>label</key>
+                    <string>Narrator Akinto 911</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_narratorenglishmemorial</string>
+                    
+                    <key>label</key>
+                    <string>Narrator English Memorial</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_newapartment</string>
+                    
+                    <key>label</key>
+                    <string>New Apartment</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_pocketfullofhawthornes</string>
+                    
+                    <key>label</key>
+                    <string>Pocket Full of Hawthornes</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_poppop</string>
+                    
+                    <key>label</key>
+                    <string>Pop Pop</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_poppop2</string>
+                    
+                    <key>label</key>
+                    <string>Pop Pop 2</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_poppoppolitical</string>
+                    
+                    <key>label</key>
+                    <string>Pop Pop Political</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_poppoppolitical2</string>
+                    
+                    <key>label</key>
+                    <string>Pop Pop Political 2</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_pregnancyscarces</string>
+                    
+                    <key>label</key>
+                    <string>Pregnancy Scarces</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_realwars</string>
+                    
+                    <key>label</key>
+                    <string>Real Wars</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_sabotage</string>
+                    
+                    <key>label</key>
+                    <string>Sabotage</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_sex</string>
+                    
+                    <key>label</key>
+                    <string>Sex</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_someworries</string>
+                    
+                    <key>label</key>
+                    <string>Some Worries</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_song</string>
+                    
+                    <key>label</key>
+                    <string>Song</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_sonofabitch</string>
+                    
+                    <key>label</key>
+                    <string>Son of A Bitch</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_Takei</string>
+                    
+                    <key>label</key>
+                    <string>Takei</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_testicles</string>
+                    
+                    <key>label</key>
+                    <string>Testicles</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_toddfoundaturtle</string>
+                    
+                    <key>label</key>
+                    <string>Todd Found A Turtle</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_troyabedpiercexmas</string>
+                    
+                    <key>label</key>
+                    <string>Todd Abed Pierce Xmas</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_troyandabedbeingnormal</string>
+                    
+                    <key>label</key>
+                    <string>Troy and Abed Being Normal</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_vaughnrap</string>
+                    
+                    <key>label</key>
+                    <string>Vaughn Rap</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_vicki</string>
+                    
+                    <key>label</key>
+                    <string>Vicki</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_whitewoman</string>
+                    
+                    <key>label</key>
+                    <string>White Woman</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_xmasisfor</string>
+                    
+                    <key>label</key>
+                    <string>Xmas is For</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_yourgod</string>
+                    
+                    <key>label</key>
+                    <string>Your God</string>
+                </dict>
+                
+                <dict>
+                    <key>code</key>
+                    <string>other_yousuck</string>
+                    
+                    <key>label</key>
+                    <string>You Suck</string>
                 </dict>
             </array>
         </dict>
