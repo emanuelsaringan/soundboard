@@ -116,8 +116,8 @@
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"PersonCell" forIndexPath:indexPath];
     
     LGPerson* person = [self.objects objectAtIndex:indexPath.row];
-    cell.textLabel.text = person.name;  
-    cell.imageView.image = [UIImage imageNamed:@"pic.jpg"];
+    cell.textLabel.text = person.name;
+    cell.imageView.image = [UIImage imageNamed:[NSString stringWithFormat:@"%@.gif", person.name]];
     
     return cell;
 }

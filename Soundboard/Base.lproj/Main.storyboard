@@ -7,7 +7,7 @@
         <!--Tab Bar Controller-->
         <scene sceneID="Vex-rW-GRa">
             <objects>
-                <tabBarController id="8YX-ce-x5E" sceneMemberID="viewController">
+                <tabBarController id="8YX-ce-x5E" customClass="LGTabBarController" sceneMemberID="viewController">
                     <nil key="simulatedBottomBarMetrics"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" id="JQR-rB-NYL">
                         <rect key="frame" x="0.0" y="431" width="320" height="49"/>
@@ -58,10 +58,10 @@
             </objects>
             <point key="canvasLocation" x="1122" y="493"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--Info Navigation Controller-->
         <scene sceneID="4Rj-Xy-82M">
             <objects>
-                <navigationController definesPresentationContext="YES" id="ncK-b7-3V1" sceneMemberID="viewController">
+                <navigationController definesPresentationContext="YES" id="ncK-b7-3V1" customClass="LGInfoNavigationController" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" systemItem="more" id="yvs-eF-rX1"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="fIm-kv-JA3">
                         <autoresizingMask key="autoresizingMask"/>
@@ -86,10 +86,11 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="This app is a community soundboard created by Emanuel Saringan. More info, more info...." selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="thv-UQ-8V3">
-                                <rect key="frame" x="21" y="85" width="279" height="463"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="thv-UQ-8V3">
+                                <rect key="frame" x="21" y="85" width="279" height="229"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <string key="text">This app is a soundboard inspired by the American TV show, Community. The series follows a group of students at a community college in the fictional locale of Greendale, Colorado. This app will entertain you by allowing you to listen to various characters' punchlines in the show. </string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -204,7 +205,9 @@
         <scene sceneID="Zcf-oP-lnz">
             <objects>
                 <navigationController definesPresentationContext="YES" id="MIA-1Z-wyW" customClass="LGCommunityNavigationController" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Community" image="first" id="59x-J3-WzY"/>
+                    <tabBarItem key="tabBarItem" title="Community" image="first" id="59x-J3-WzY">
+                        <offsetWrapper key="titlePositionAdjustment" horizontal="0.0" vertical="0.0"/>
+                    </tabBarItem>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="r4J-AM-cMc">
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
