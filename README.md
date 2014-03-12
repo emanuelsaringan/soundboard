@@ -1,4 +1,4 @@
 soundboard
 ==========
 
-This is a community soundboard app for iPhone. 
+iPhone app based on the TV series, Community. 

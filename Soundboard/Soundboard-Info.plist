@@ -17,13 +17,12 @@
 				<string>icon58</string>
 				<string>icon80</string>
 				<string>icon120</string>
-				<string>iPhoneAppIcon</string>
 				<string>Default</string>
 			</array>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
-	<string>lambdageek.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>com.lambdageek.community.${PRODUCT_NAME:rfc1034identifier}</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
